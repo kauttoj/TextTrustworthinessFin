@@ -1,0 +1,53 @@
+dimension = reliability, total non-zero features 744
+
+17 | 1-g: tai | 0.52
+21 | 1-g: vain | 0.49
+35 | 1-g: viikko | 0.43
+38 | 1-g: kuitenkin | 0.43
+69 | 1-g: paljon | 0.33
+72 | 3-g: . " ¤ | 0.32
+92 | 1-g: mahdollinen | 0.29
+100 | 1-g: sairaus | 0.28
+125 | 1-g: alkaa | 0.24
+147 | source (C) | 0.23
+150 | 1-g: vaikka | 0.23
+159 | 1-g: saattaa | 0.22
+160 | 1-g: esimerkiksi | 0.22
+163 | 1-g: imeytyä | 0.21
+166 | 1-g: tulos | 0.21
+170 | 1-g: koska | 0.21
+181 | 1-g: lisäksi | 0.20
+185 | 1-g: nainen_tag | 0.19
+190 | 1-g: vuosi | 0.19
+193 | 1-g: syöminen | 0.19
+200 | 1-g: pieni | 0.18
+201 | 1-g: lisätä | 0.18
+206 | numberedrow | 0.18
+220 | uniq_YLIOPISTO | 0.17
+229 | 1-g: itse | 0.16
+...
+212 | !_char | -0.17
+211 | 2-g: ja se | -0.17
+208 | 1-g: toimia | -0.18
+207 | PRON (C) | -0.18
+180 | 1-g: enemmän | -0.20
+177 | 1-g: hiilihydraatti | -0.20
+169 | 1-g: saada | -0.21
+168 | 1-g: nauttia | -0.21
+134 | 1-g: tärkeä | -0.24
+129 | 1-g: suositella | -0.24
+116 | 1-g: parantaa | -0.26
+114 | 1-g: kaikki | -0.26
+106 | 1-g: syödä | -0.27
+105 | 1-g: sitten | -0.27
+102 | PRON | -0.27
+85 | 1-g: mikään | -0.31
+82 | 2-g: , että | -0.31
+76 | 2-g: , olla | -0.32
+71 | 1-g: keho | -0.33
+68 | 1-g: vielä | -0.33
+48 | 1-g: elimistö | -0.40
+26 | 3-g: , joka olla | -0.45
+20 | 1-g: moni | -0.50
+10 | 1-g: että | -0.59
+4 | 2-g: joka olla | -0.75

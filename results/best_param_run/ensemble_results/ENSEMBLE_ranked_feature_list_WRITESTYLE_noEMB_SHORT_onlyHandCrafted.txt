@@ -1,0 +1,22 @@
+dimension = writestyle, total non-zero features 755
+
+9 | SYM | -0.72
+23 | SYM (C) | -0.62
+102 | uniq_TUOTE (C) | -0.40
+104 | boldtitle | 0.40
+141 | uniq_VIRASTO | 0.34
+158 | PRON | -0.32
+179 | PRON (C) | -0.31
+187 | dictionary_word | 0.30
+200 | comma_char (C) | 0.29
+224 | technical_word | 0.27
+244 | interviewquote (C) | 0.25
+249 | comma_char | 0.25
+252 | uniq_MIES (C) | -0.25
+264 | uniq_YRITYS | 0.24
+269 | uniq_VIRASTO (C) | 0.23
+277 | technical_word (C) | 0.23
+279 | digit | -0.23
+281 | symbol | -0.22
+285 | numberedrow | 0.22
+294 | uniq_MIES | -0.22

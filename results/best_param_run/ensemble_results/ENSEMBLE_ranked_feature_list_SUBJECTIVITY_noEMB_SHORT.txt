@@ -1,0 +1,53 @@
+dimension = subjectivity, total non-zero features 954
+
+32 | 2-g: on kuitenkin (N) | 0.48
+56 | 1-g: viikko | 0.40
+58 | 1-g: ruokavalioon (N) | 0.39
+63 | 1-g: saattaa (N) | 0.38
+66 | 1-g: välttää | 0.37
+70 | 1-g: vaikuttaa | 0.36
+79 | 1-g: kannattaa | 0.34
+87 | 1-g: voidaan (N) | 0.33
+92 | 1-g: tulee (N) | 0.33
+111 | 2-g: sen sijaan (N) | 0.30
+116 | 1-g: tulos | 0.29
+130 | 1-g: niiden (N) | 0.27
+131 | 1-g: riskiä (N) | 0.27
+136 | 1-g: mahdollinen | 0.26
+140 | 1-g: energiaa (N) | 0.26
+142 | 1-g: esimerkiksi | 0.26
+144 | 1-g: kuitenkin | 0.26
+148 | 1-g: olivat (N) | 0.25
+150 | 1-g: tutkimuksissa (N) | 0.25
+160 | 1-g: tärkeää (N) | 0.23
+165 | 1-g: tuore | 0.23
+170 | 1-g: lisäksi | 0.22
+175 | 1-g: tästä (N) | 0.22
+180 | 1-g: energia | 0.22
+182 | 1-g: lisätä | 0.22
+...
+151 | 1-g: kyse | -0.25
+141 | 1-g: päivä | -0.26
+138 | 1-g: olisi (N) | -0.26
+135 | PRON | -0.26
+133 | 1-g: sisältää (N) | -0.27
+132 | 1-g: antioksidantti | -0.27
+129 | 1-g: jotka (N) | -0.27
+123 | 1-g: toimia | -0.28
+118 | 1-g: tehokas | -0.29
+113 | 2-g: , jotta (N) | -0.30
+112 | uniq_TUOTE | -0.30
+106 | 1-g: olen (N) | -0.31
+105 | 1-g: pystyä | -0.31
+99 | 1-g: mikään | -0.32
+89 | 1-g: jotain (N) | -0.33
+85 | 1-g: vähentää | -0.34
+77 | 1-g: jotta | -0.34
+67 | uniq_TUOTE (C) | -0.36
+57 | 1-g: edes (N) | -0.39
+33 | 1-g: jo (N) | -0.47
+22 | 2-g: , että (N) | -0.52
+21 | 1-g: tätä (N) | -0.53
+19 | 3-g: , joka olla | -0.53
+8 | 1-g: moni | -0.73
+6 | 2-g: joka olla | -0.78

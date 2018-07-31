@@ -1,0 +1,53 @@
+dimension = sentiment, total non-zero features 3307
+
+17 | 1-g: kuin | 0.45
+19 | 2-g: se ei | 0.43
+23 | 1-g: tietty | 0.38
+24 | 1-g: muistaa | 0.37
+32 | 1-g: esimerkiksi | 0.31
+35 | 2-g: viime vuosi | 0.31
+36 | 1-g: itse | 0.30
+39 | 1-g: silloin | 0.29
+40 | 1-g: sellainen | 0.29
+46 | 1-g: ensimmäinen | 0.27
+58 | 1-g: tuttu | 0.25
+68 | boldtitle | 0.24
+69 | 1-g: koko | 0.23
+72 | 1-g: pyrkiä | 0.23
+83 | 1-g: kokeilla | 0.22
+85 | 1-g: myös | 0.22
+91 | 2-g: ei voida | 0.21
+95 | 2-g: kuin se | 0.20
+100 | 1-g: pysyä | 0.20
+101 | 2-g: olla vielä | 0.20
+104 | 1-g: jokin | 0.20
+106 | 1-g: ravintoaine | 0.20
+110 | 2-g: hyvin . | 0.20
+123 | 2-g: olla helppo | 0.19
+125 | 1-g: yleisesti | 0.19
+...
+135 | 2-g: joka käyttää | -0.18
+133 | 2-g: aika , | -0.18
+130 | 2-g: ja aiheuttaa | -0.18
+126 | 2-g: , että | -0.19
+122 | 1-g: tuhota | -0.19
+120 | 1-g: mainita | -0.19
+117 | 1-g: jarjesto_tag | -0.19
+96 | 2-g: käyttö . | -0.20
+92 | 1-g: varsinkin | -0.21
+89 | 1-g: selvä | -0.21
+80 | 2-g: olla yhdistää | -0.22
+77 | 1-g: oma | -0.23
+76 | 1-g: haitta | -0.23
+67 | 1-g: aiheuttaa | -0.24
+55 | 1-g: koskea | -0.25
+49 | 1-g: moni | -0.27
+48 | 1-g: että | -0.27
+47 | 1-g: joutua | -0.27
+45 | 2-g: mieli , | -0.28
+42 | 1-g: mikään | -0.29
+38 | 1-g: kestää | -0.29
+37 | 2-g: joka olla | -0.29
+29 | 2-g: . sama | -0.33
+27 | 1-g: suositella | -0.33
+26 | 1-g: joka | -0.33

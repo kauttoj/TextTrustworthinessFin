@@ -1,0 +1,26 @@
+--------------- FINAL RESULTS over all 10 folds---------------
+
+----> FOLD total, dimension 'reliability' <---- 
+train: R = 0.974650, R2 = 0.949942, MSE = 0.039996 (null 0.733553, ratio 0.054524), f1 = nan (null nan)
+test: R = 0.792066, sR = 0.798223, R2 = 0.627368, MSE = 0.273528 (null 0.738342, ratio 0.370462), f1 = nan (null nan)
+
+----> FOLD total, dimension 'sentiment' <---- 
+train: R = 0.998689, R2 = 0.997379, MSE = 0.002463 (null 0.622402, ratio 0.003957), f1 = nan (null nan)
+test: R = 0.802377, sR = 0.774668, R2 = 0.643808, MSE = 0.222887 (null 0.632730, ratio 0.352263), f1 = nan (null nan)
+
+----> FOLD total, dimension 'writestyle' <---- 
+train: R = 0.969071, R2 = 0.939099, MSE = 0.015344 (null 0.192051, ratio 0.079893), f1 = nan (null nan)
+test: R = 0.737163, sR = 0.730123, R2 = 0.543409, MSE = 0.088401 (null 0.194175, ratio 0.455263), f1 = nan (null nan)
+
+----> FOLD total, dimension 'textlogic' <---- 
+train: R = 0.968617, R2 = 0.938220, MSE = 0.013447 (null 0.190375, ratio 0.070632), f1 = nan (null nan)
+test: R = 0.741537, sR = 0.735012, R2 = 0.549877, MSE = 0.085916 (null 0.192242, ratio 0.446918), f1 = nan (null nan)
+
+----> FOLD total, dimension 'infovalue' <---- 
+train: R = 0.984613, R2 = 0.969463, MSE = 0.025358 (null 0.653063, ratio 0.038829), f1 = nan (null nan)
+test: R = 0.837555, sR = 0.833928, R2 = 0.701498, MSE = 0.196395 (null 0.657742, ratio 0.298590), f1 = nan (null nan)
+
+----> FOLD total, dimension 'subjectivity' <---- 
+train: R = 0.947711, R2 = 0.898157, MSE = 0.076929 (null 0.705353, ratio 0.109065), f1 = nan (null nan)
+test: R = 0.752320, sR = 0.75538, R2 = 0.565985, MSE = 0.306273 (null 0.711763, ratio 0.430301), f1 = nan (null nan)
+--------------------------------------------------------------

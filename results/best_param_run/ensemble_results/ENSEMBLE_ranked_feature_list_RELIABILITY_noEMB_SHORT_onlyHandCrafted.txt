@@ -1,0 +1,22 @@
+dimension = reliability, total non-zero features 744
+
+102 | PRON | -0.27
+147 | source (C) | 0.23
+206 | numberedrow | 0.18
+207 | PRON (C) | -0.18
+212 | !_char | -0.17
+214 | boldtitle (C) | -0.17
+220 | uniq_YLIOPISTO | 0.17
+239 | boldtitle | -0.15
+240 | uniq_YLIOPISTO (C) | 0.15
+274 | SCONJ | -0.14
+277 | uniq_TUOTE (C) | -0.14
+288 | uniq_JARJESTO | -0.13
+291 | ADP | -0.13
+305 | uniq_VIRASTO | 0.12
+311 | total_sentence | -0.12
+329 | numberedrow (C) | 0.11
+342 | !_char (C) | -0.11
+349 | ADJ (C) | 0.11
+351 | uniq_JARJESTO (C) | -0.11
+382 | comma_char | 0.09

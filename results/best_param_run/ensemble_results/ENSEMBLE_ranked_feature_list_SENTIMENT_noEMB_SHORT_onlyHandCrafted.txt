@@ -1,0 +1,22 @@
+dimension = sentiment, total non-zero features 3307
+
+68 | boldtitle | 0.24
+161 | PRON (C) | -0.17
+166 | boldtitle (C) | 0.17
+181 | interviewquote (C) | 0.16
+183 | digit | -0.16
+274 | uniq_TUOTE (C) | -0.13
+301 | negative_word | -0.13
+308 | uniq_JARJESTO | -0.13
+316 | ADP (C) | 0.12
+320 | PRON | -0.12
+381 | digit (C) | -0.11
+439 | uniq_NETTISIVU (C) | -0.10
+448 | uniq_JARJESTO (C) | -0.10
+466 | source (C) | -0.10
+471 | listitem (C) | -0.09
+488 | ?_char | 0.09
+496 | ADP | 0.09
+511 | uniq_VIRASTO | -0.09
+514 | ADJ (C) | 0.09
+544 | listitem | -0.09

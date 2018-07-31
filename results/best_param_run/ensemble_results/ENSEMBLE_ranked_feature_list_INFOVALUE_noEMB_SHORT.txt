@@ -1,0 +1,53 @@
+dimension = infovalue, total non-zero features 1381
+
+3 | 2-g: siihen , (N) | 0.83
+7 | 1-g: bakteeri | 0.76
+13 | 2-g: tietää , | 0.68
+17 | 1-g: yleensä | 0.66
+27 | 1-g: pieni | 0.61
+28 | negative_word (C) | 0.60
+34 | 1-g: viikko | 0.59
+36 | 1-g: huono | 0.58
+40 | 1-g: tuore | 0.57
+42 | 1-g: saattaa | 0.57
+43 | ADJ (C) | 0.56
+51 | 1-g: kuitenkin | 0.54
+55 | total_char (C) | 0.53
+59 | 2-g: rasva , | 0.53
+61 | 1-g: tarkoittaa (N) | 0.53
+63 | 1-g: julkaista | 0.52
+67 | 1-g: viime | 0.50
+74 | common_POS_ngram (C) | 0.48
+75 | NOUN (C) | 0.47
+77 | 2-g: sanoa . | 0.47
+78 | 1-g: syöminen | 0.47
+82 | 1-g: selvittää | 0.47
+83 | 1-g: kertoo (N) | 0.47
+85 | symbol (C) | 0.46
+86 | 2-g: . jos | 0.46
+...
+93 | 1-g: olen (N) | -0.45
+91 | uniq_NAINEN | -0.46
+88 | 1-g: laskea | -0.46
+84 | 2-g: , että | -0.46
+66 | 1-g: mainita | -0.50
+62 | 1-g: mikään | -0.52
+54 | 1-g: pystyä | -0.53
+53 | 1-g: miksi | -0.53
+49 | 1-g: hoitaa | -0.55
+46 | !_char | -0.55
+44 | PRON | -0.56
+41 | 1-g: perustua | -0.57
+30 | !_char (C) | -0.60
+29 | 1-g: vuotta (N) | -0.60
+26 | 1-g: haluta | -0.62
+23 | 2-g: ja muu | -0.62
+19 | 1-g: kehon (N) | -0.65
+15 | 1-g: että | -0.67
+14 | 2-g: joka olla | -0.68
+11 | 2-g: ¤ tämä | -0.71
+10 | 2-g: ! ¤ | -0.71
+5 | 2-g: , ei | -0.77
+4 | 1-g: peruna | -0.82
+2 | 1-g: keho | -0.92
+1 | 1-g: uskoa | -1.00

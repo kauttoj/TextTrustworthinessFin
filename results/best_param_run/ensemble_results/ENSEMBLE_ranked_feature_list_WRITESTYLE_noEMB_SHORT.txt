@@ -1,0 +1,53 @@
+dimension = writestyle, total non-zero features 755
+
+7 | 3-g: NOUN VERB ADJ (N) | 0.80
+8 | 3-g: VERB VERB ADV (N) | 0.77
+10 | 3-g: NOUN VERB VERB (N) | 0.71
+11 | 3-g: PUNCT ADV NOUN (N) | 0.71
+13 | 3-g: se , että | 0.67
+16 | 2-g: ADV NOUN (N) | 0.66
+17 | 2-g: olla myös | 0.66
+18 | 2-g: ADV PRON (N) | 0.65
+35 | 3-g: NOUN VERB ADV (N) | 0.56
+37 | 3-g: SCONJ NOUN VERB (N) | 0.56
+39 | 3-g: ¤ NOUN VERB (N) | 0.56
+48 | 1-g: nainen_tag | 0.51
+50 | 1-g: kuitenkin | 0.51
+55 | 1-g: runsas | 0.48
+56 | 3-g: ADV NOUN CONJ (N) | 0.48
+61 | 1-g: mahdollinen | 0.47
+64 | 3-g: NOUN ADP PUNCT (N) | 0.47
+71 | 3-g: PUNCT ¤ PUNCT (N) | 0.46
+72 | 1-g: vuosi | 0.46
+80 | 3-g: NUM NOUN NOUN (N) | 0.44
+81 | 3-g: NOUN NOUN AUX (N) | 0.44
+83 | 3-g: ADJ CONJ ADJ (N) | 0.44
+85 | 3-g: . " ¤ | 0.43
+86 | 1-g: viikko | 0.43
+88 | 1-g: kuin | 0.43
+...
+97 | 3-g: PUNCT VERB ADV (N) | -0.41
+94 | 3-g: PUNCT ¤ ADV (N) | -0.42
+93 | 2-g: ADV ADJ (N) | -0.42
+92 | 1-g: syöpä | -0.42
+84 | 1-g: suositella | -0.43
+75 | 3-g: VERB PRON PUNCT (N) | -0.45
+74 | 3-g: PUNCT CONJ NOUN (N) | -0.45
+69 | 2-g: olla se | -0.46
+68 | 3-g: NOUN PUNCT VERB (N) | -0.47
+65 | 1-g: minä | -0.47
+59 | 3-g: SCONJ PRON VERB (N) | -0.47
+52 | 1-g: mikään | -0.50
+51 | 3-g: PRON NOUN NOUN (N) | -0.50
+45 | 3-g: , joka olla | -0.51
+44 | 3-g: PUNCT VERB NOUN (N) | -0.53
+32 | 1-g: ravinto | -0.57
+29 | 1-g: kaikki | -0.59
+26 | 1-g: toimia | -0.61
+23 | SYM (C) | -0.62
+14 | 1-g: eli | -0.67
+12 | 2-g: . tämä | -0.70
+9 | SYM | -0.72
+4 | 3-g: PUNCT NOUN NOUN (N) | -0.86
+2 | 3-g: VERB NOUN ADV (N) | -0.91
+1 | 2-g: joka olla | -1.00

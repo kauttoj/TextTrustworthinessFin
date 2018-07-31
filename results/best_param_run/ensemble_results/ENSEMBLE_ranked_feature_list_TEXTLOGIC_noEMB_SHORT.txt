@@ -1,0 +1,53 @@
+dimension = textlogic, total non-zero features 923
+
+10 | 2-g: on kuitenkin (N) | 0.54
+27 | 1-g: noin (N) | 0.46
+34 | 2-g: . " (N) | 0.42
+36 | 1-g: viikko | 0.40
+38 | 2-g: olla myös | 0.39
+42 | 2-g: siihen , (N) | 0.38
+46 | 1-g: useita (N) | 0.36
+52 | 1-g: ruokavalioon (N) | 0.34
+61 | 1-g: kertoo (N) | 0.33
+62 | 1-g: suojata | 0.31
+65 | 1-g: tutkimuksissa (N) | 0.30
+66 | boldtitle | 0.30
+77 | 1-g: kuitenkin | 0.28
+81 | 1-g: itse (N) | 0.28
+82 | 1-g: tutkittu (N) | 0.28
+93 | 1-g: käyttää (N) | 0.27
+101 | 1-g: tulokset (N) | 0.26
+104 | 1-g: muita (N) | 0.26
+106 | stop_word (C) | 0.26
+112 | VERB (C) | 0.25
+115 | 3-g: . " ¤ (N) | 0.25
+120 | 1-g: siinä (N) | 0.24
+122 | 1-g: saattaa (N) | 0.24
+123 | 1-g: vuosi | 0.24
+125 | 1-g: vaikutuksia (N) | 0.24
+...
+146 | 1-g: tarve | -0.22
+143 | 1-g: ajatella | -0.22
+136 | 1-g: jarjesto_tag (N) | -0.23
+135 | 2-g: riski . | -0.23
+133 | 1-g: kanssa | -0.23
+130 | PRON | -0.24
+126 | 1-g: kuinka | -0.24
+124 | 1-g: kaikki | -0.24
+121 | 2-g: joka on (N) | -0.24
+98 | 3-g: , joka on (N) | -0.26
+91 | 1-g: elimistön (N) | -0.27
+86 | 2-g: . tämä | -0.27
+84 | 1-g: hoitaa | -0.27
+83 | 1-g: mikään | -0.28
+78 | 1-g: jotka (N) | -0.28
+74 | uniq_TUOTE (C) | -0.28
+70 | 2-g: . olla | -0.29
+59 | 3-g: , joka olla | -0.33
+55 | 1-g: takia | -0.34
+37 | 1-g: mainita | -0.40
+23 | 2-g: olla se | -0.47
+13 | 1-g: moni | -0.52
+12 | 1-g: pystyä | -0.52
+11 | 1-g: ehkä (N) | -0.54
+2 | 2-g: joka olla | -0.82

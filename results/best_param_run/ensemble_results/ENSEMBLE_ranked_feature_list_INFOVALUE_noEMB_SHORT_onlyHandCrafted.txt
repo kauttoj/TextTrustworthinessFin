@@ -1,0 +1,22 @@
+dimension = infovalue, total non-zero features 1381
+
+28 | negative_word (C) | 0.60
+30 | !_char (C) | -0.60
+43 | ADJ (C) | 0.56
+44 | PRON | -0.56
+46 | !_char | -0.55
+55 | total_char (C) | 0.53
+74 | common_POS_ngram (C) | 0.48
+75 | NOUN (C) | 0.47
+85 | symbol (C) | 0.46
+91 | uniq_NAINEN | -0.46
+95 | word (C) | 0.45
+101 | paragraph (C) | 0.44
+104 | total_sentence | -0.44
+105 | word | -0.44
+107 | emb_dict_word (C) | 0.44
+114 | source (C) | 0.43
+119 | numberedrow | 0.43
+123 | dictionary_word (C) | 0.42
+136 | subjective_word (C) | 0.41
+146 | dictionary_word | -0.40

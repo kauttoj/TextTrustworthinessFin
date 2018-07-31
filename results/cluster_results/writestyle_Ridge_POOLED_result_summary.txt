@@ -1,0 +1,322 @@
+TOP 80 results for 'writestyle' using method Ridge
+
+______ RANK = 1 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 800], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 2 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 3 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 4 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 5 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1100], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 6 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 800], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 7 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1100], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 8 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 9 ______
+TEST: R = 0.704943, R2 = 0.496944, MSE = 0.096702 (null 0.194175, ratio 0.498012), f1 = nan (null nan)
+TRAIN: R = 0.927871, R2 = 0.860945, MSE = 0.031669 (null 0.192051, ratio 0.164900), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 10 ______
+TEST: R = 0.703291, R2 = 0.494618, MSE = 0.097141 (null 0.194175, ratio 0.500273), f1 = nan (null nan)
+TRAIN: R = 0.928242, R2 = 0.861633, MSE = 0.031504 (null 0.192051, ratio 0.164039), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 11 ______
+TEST: R = 0.703291, R2 = 0.494618, MSE = 0.097141 (null 0.194175, ratio 0.500273), f1 = nan (null nan)
+TRAIN: R = 0.928242, R2 = 0.861633, MSE = 0.031504 (null 0.192051, ratio 0.164039), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 12 ______
+TEST: R = 0.703291, R2 = 0.494618, MSE = 0.097141 (null 0.194175, ratio 0.500273), f1 = nan (null nan)
+TRAIN: R = 0.928242, R2 = 0.861633, MSE = 0.031504 (null 0.192051, ratio 0.164039), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 13 ______
+TEST: R = 0.703291, R2 = 0.494618, MSE = 0.097141 (null 0.194175, ratio 0.500273), f1 = nan (null nan)
+TRAIN: R = 0.928242, R2 = 0.861633, MSE = 0.031504 (null 0.192051, ratio 0.164039), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 14 ______
+TEST: R = 0.701674, R2 = 0.492347, MSE = 0.097575 (null 0.194175, ratio 0.502508), f1 = nan (null nan)
+TRAIN: R = 0.923405, R2 = 0.852677, MSE = 0.033282 (null 0.192051, ratio 0.173299), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 750], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 15 ______
+TEST: R = 0.699908, R2 = 0.489871, MSE = 0.098090 (null 0.194175, ratio 0.505163), f1 = nan (null nan)
+TRAIN: R = 0.931259, R2 = 0.867244, MSE = 0.031574 (null 0.192051, ratio 0.164405), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 16 ______
+TEST: R = 0.699908, R2 = 0.489871, MSE = 0.098090 (null 0.194175, ratio 0.505163), f1 = nan (null nan)
+TRAIN: R = 0.931259, R2 = 0.867244, MSE = 0.031574 (null 0.192051, ratio 0.164405), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 17 ______
+TEST: R = 0.699908, R2 = 0.489871, MSE = 0.098090 (null 0.194175, ratio 0.505163), f1 = nan (null nan)
+TRAIN: R = 0.931259, R2 = 0.867244, MSE = 0.031574 (null 0.192051, ratio 0.164405), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 18 ______
+TEST: R = 0.699908, R2 = 0.489871, MSE = 0.098090 (null 0.194175, ratio 0.505163), f1 = nan (null nan)
+TRAIN: R = 0.931259, R2 = 0.867244, MSE = 0.031574 (null 0.192051, ratio 0.164405), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 19 ______
+TEST: R = 0.698301, R2 = 0.487624, MSE = 0.098482 (null 0.194175, ratio 0.507181), f1 = nan (null nan)
+TRAIN: R = 0.963667, R2 = 0.928655, MSE = 0.018666 (null 0.192051, ratio 0.097190), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 20 ______
+TEST: R = 0.698301, R2 = 0.487624, MSE = 0.098482 (null 0.194175, ratio 0.507181), f1 = nan (null nan)
+TRAIN: R = 0.963667, R2 = 0.928655, MSE = 0.018666 (null 0.192051, ratio 0.097190), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 21 ______
+TEST: R = 0.696882, R2 = 0.485644, MSE = 0.098842 (null 0.194175, ratio 0.509034), f1 = nan (null nan)
+TRAIN: R = 0.927845, R2 = 0.860896, MSE = 0.032268 (null 0.192051, ratio 0.168017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'pass1_features_SVD': 80, 'FeatureScaler': 'StandardScaler', 'Algorithm': ('Ridge', {'n_alphas': 25}), 'TextTypes': ['LEMMA', 'POS'], 'pass1_features': 200, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'FeatureSelection': ['regression', 'global', 1500]}]
+______ RANK = 22 ______
+TEST: R = 0.696882, R2 = 0.485644, MSE = 0.098842 (null 0.194175, ratio 0.509034), f1 = nan (null nan)
+TRAIN: R = 0.927845, R2 = 0.860896, MSE = 0.032268 (null 0.192051, ratio 0.168017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 23 ______
+TEST: R = 0.696882, R2 = 0.485644, MSE = 0.098842 (null 0.194175, ratio 0.509034), f1 = nan (null nan)
+TRAIN: R = 0.927845, R2 = 0.860896, MSE = 0.032268 (null 0.192051, ratio 0.168017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 24 ______
+TEST: R = 0.696882, R2 = 0.485644, MSE = 0.098842 (null 0.194175, ratio 0.509034), f1 = nan (null nan)
+TRAIN: R = 0.927845, R2 = 0.860896, MSE = 0.032268 (null 0.192051, ratio 0.168017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 25 ______
+TEST: R = 0.696882, R2 = 0.485644, MSE = 0.098842 (null 0.194175, ratio 0.509034), f1 = nan (null nan)
+TRAIN: R = 0.927845, R2 = 0.860896, MSE = 0.032268 (null 0.192051, ratio 0.168017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 26 ______
+TEST: R = 0.696882, R2 = 0.485644, MSE = 0.098842 (null 0.194175, ratio 0.509034), f1 = nan (null nan)
+TRAIN: R = 0.927845, R2 = 0.860896, MSE = 0.032268 (null 0.192051, ratio 0.168017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 27 ______
+TEST: R = 0.696384, R2 = 0.484951, MSE = 0.098973 (null 0.194175, ratio 0.509708), f1 = nan (null nan)
+TRAIN: R = 0.931532, R2 = 0.867753, MSE = 0.030721 (null 0.192051, ratio 0.159960), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 28 ______
+TEST: R = 0.696384, R2 = 0.484951, MSE = 0.098973 (null 0.194175, ratio 0.509708), f1 = nan (null nan)
+TRAIN: R = 0.931532, R2 = 0.867753, MSE = 0.030721 (null 0.192051, ratio 0.159960), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 29 ______
+TEST: R = 0.696384, R2 = 0.484951, MSE = 0.098973 (null 0.194175, ratio 0.509708), f1 = nan (null nan)
+TRAIN: R = 0.931532, R2 = 0.867753, MSE = 0.030721 (null 0.192051, ratio 0.159960), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 30 ______
+TEST: R = 0.696145, R2 = 0.484618, MSE = 0.099047 (null 0.194175, ratio 0.510088), f1 = nan (null nan)
+TRAIN: R = 0.927991, R2 = 0.861167, MSE = 0.032256 (null 0.192051, ratio 0.167957), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 31 ______
+TEST: R = 0.696145, R2 = 0.484618, MSE = 0.099047 (null 0.194175, ratio 0.510088), f1 = nan (null nan)
+TRAIN: R = 0.927991, R2 = 0.861167, MSE = 0.032256 (null 0.192051, ratio 0.167957), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 32 ______
+TEST: R = 0.696145, R2 = 0.484618, MSE = 0.099047 (null 0.194175, ratio 0.510088), f1 = nan (null nan)
+TRAIN: R = 0.927991, R2 = 0.861167, MSE = 0.032256 (null 0.192051, ratio 0.167957), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 33 ______
+TEST: R = 0.696145, R2 = 0.484618, MSE = 0.099047 (null 0.194175, ratio 0.510088), f1 = nan (null nan)
+TRAIN: R = 0.927991, R2 = 0.861167, MSE = 0.032256 (null 0.192051, ratio 0.167957), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 34 ______
+TEST: R = 0.695538, R2 = 0.483773, MSE = 0.099262 (null 0.194175, ratio 0.511197), f1 = nan (null nan)
+TRAIN: R = 0.920703, R2 = 0.847695, MSE = 0.035223 (null 0.192051, ratio 0.183407), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 800], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 35 ______
+TEST: R = 0.695538, R2 = 0.483773, MSE = 0.099262 (null 0.194175, ratio 0.511197), f1 = nan (null nan)
+TRAIN: R = 0.920703, R2 = 0.847695, MSE = 0.035223 (null 0.192051, ratio 0.183407), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 800], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 36 ______
+TEST: R = 0.695254, R2 = 0.483378, MSE = 0.099289 (null 0.194175, ratio 0.511337), f1 = nan (null nan)
+TRAIN: R = 0.960733, R2 = 0.923007, MSE = 0.019785 (null 0.192051, ratio 0.103017), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 37 ______
+TEST: R = 0.694979, R2 = 0.482996, MSE = 0.099378 (null 0.194175, ratio 0.511797), f1 = nan (null nan)
+TRAIN: R = 0.973075, R2 = 0.946874, MSE = 0.014714 (null 0.192051, ratio 0.076617), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 500, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 38 ______
+TEST: R = 0.694979, R2 = 0.482996, MSE = 0.099378 (null 0.194175, ratio 0.511797), f1 = nan (null nan)
+TRAIN: R = 0.973075, R2 = 0.946874, MSE = 0.014714 (null 0.192051, ratio 0.076617), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 500, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 39 ______
+TEST: R = 0.694760, R2 = 0.482692, MSE = 0.099499 (null 0.194175, ratio 0.512421), f1 = nan (null nan)
+TRAIN: R = 0.932663, R2 = 0.869861, MSE = 0.030071 (null 0.192051, ratio 0.156576), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 40 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 41 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': None, 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 42 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1100], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 43 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 800], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 44 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1100], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 45 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 46 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['fisher', 'global', 800], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 47 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': None, 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 48 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 800], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 49 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 50 ______
+TEST: R = 0.693990, R2 = 0.481622, MSE = 0.099631 (null 0.194175, ratio 0.513097), f1 = nan (null nan)
+TRAIN: R = 0.913957, R2 = 0.835318, MSE = 0.036931 (null 0.192051, ratio 0.192297), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 51 ______
+TEST: R = 0.693853, R2 = 0.481432, MSE = 0.099647 (null 0.194175, ratio 0.513180), f1 = nan (null nan)
+TRAIN: R = 0.924788, R2 = 0.855234, MSE = 0.033160 (null 0.192051, ratio 0.172665), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1100], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': None}]
+______ RANK = 52 ______
+TEST: R = 0.693853, R2 = 0.481432, MSE = 0.099647 (null 0.194175, ratio 0.513180), f1 = nan (null nan)
+TRAIN: R = 0.924788, R2 = 0.855234, MSE = 0.033160 (null 0.192051, ratio 0.172665), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 25}), 'pass1_features': 200, 'FeatureSelection': ['regression', 'global', 1100], 'FeatureScaler': 'StandardScaler', 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'pass1_features_SVD': 80}]
+______ RANK = 53 ______
+TEST: R = 0.693934, R2 = 0.481544, MSE = 0.099653 (null 0.194175, ratio 0.513212), f1 = nan (null nan)
+TRAIN: R = 0.949562, R2 = 0.901668, MSE = 0.024520 (null 0.192051, ratio 0.127672), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 54 ______
+TEST: R = 0.693934, R2 = 0.481544, MSE = 0.099653 (null 0.194175, ratio 0.513212), f1 = nan (null nan)
+TRAIN: R = 0.949562, R2 = 0.901668, MSE = 0.024520 (null 0.192051, ratio 0.127672), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 55 ______
+TEST: R = 0.693934, R2 = 0.481544, MSE = 0.099653 (null 0.194175, ratio 0.513212), f1 = nan (null nan)
+TRAIN: R = 0.949562, R2 = 0.901668, MSE = 0.024520 (null 0.192051, ratio 0.127672), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 56 ______
+TEST: R = 0.693823, R2 = 0.481391, MSE = 0.099695 (null 0.194175, ratio 0.513428), f1 = nan (null nan)
+TRAIN: R = 0.919564, R2 = 0.845599, MSE = 0.034648 (null 0.192051, ratio 0.180408), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 57 ______
+TEST: R = 0.693560, R2 = 0.481026, MSE = 0.099748 (null 0.194175, ratio 0.513699), f1 = nan (null nan)
+TRAIN: R = 0.927595, R2 = 0.860433, MSE = 0.032210 (null 0.192051, ratio 0.167718), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 58 ______
+TEST: R = 0.693353, R2 = 0.480739, MSE = 0.099780 (null 0.194175, ratio 0.513868), f1 = nan (null nan)
+TRAIN: R = 0.893290, R2 = 0.797967, MSE = 0.043046 (null 0.192051, ratio 0.224140), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 59 ______
+TEST: R = 0.694356, R2 = 0.482130, MSE = 0.099850 (null 0.194175, ratio 0.514224), f1 = nan (null nan)
+TRAIN: R = 0.961052, R2 = 0.923622, MSE = 0.016717 (null 0.192051, ratio 0.087043), f1 = nan (null nan)
+Learn parameters: folds=10, [{'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'FeatureSelection': ['regression', 'global', 750], 'pass1_features': 4000, 'pass1_features_SVD': None, 'Algorithm': ('Ridge', {'n_alphas': 25}), 'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'FeatureScaler': 'MaxAbsScaler'}]
+______ RANK = 60 ______
+TEST: R = 0.693185, R2 = 0.480506, MSE = 0.099861 (null 0.194175, ratio 0.514280), f1 = nan (null nan)
+TRAIN: R = 0.946300, R2 = 0.895483, MSE = 0.025690 (null 0.192051, ratio 0.133765), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 61 ______
+TEST: R = 0.693185, R2 = 0.480506, MSE = 0.099861 (null 0.194175, ratio 0.514280), f1 = nan (null nan)
+TRAIN: R = 0.946300, R2 = 0.895483, MSE = 0.025690 (null 0.192051, ratio 0.133765), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 62 ______
+TEST: R = 0.693185, R2 = 0.480506, MSE = 0.099861 (null 0.194175, ratio 0.514280), f1 = nan (null nan)
+TRAIN: R = 0.946300, R2 = 0.895483, MSE = 0.025690 (null 0.192051, ratio 0.133765), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 63 ______
+TEST: R = 0.693140, R2 = 0.480443, MSE = 0.099903 (null 0.194175, ratio 0.514499), f1 = nan (null nan)
+TRAIN: R = 0.917766, R2 = 0.842295, MSE = 0.035364 (null 0.192051, ratio 0.184140), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 64 ______
+TEST: R = 0.693140, R2 = 0.480443, MSE = 0.099903 (null 0.194175, ratio 0.514499), f1 = nan (null nan)
+TRAIN: R = 0.917766, R2 = 0.842295, MSE = 0.035364 (null 0.192051, ratio 0.184140), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 65 ______
+TEST: R = 0.693140, R2 = 0.480443, MSE = 0.099903 (null 0.194175, ratio 0.514499), f1 = nan (null nan)
+TRAIN: R = 0.917766, R2 = 0.842295, MSE = 0.035364 (null 0.192051, ratio 0.184140), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 66 ______
+TEST: R = 0.693140, R2 = 0.480443, MSE = 0.099903 (null 0.194175, ratio 0.514499), f1 = nan (null nan)
+TRAIN: R = 0.917766, R2 = 0.842295, MSE = 0.035364 (null 0.192051, ratio 0.184140), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 67 ______
+TEST: R = 0.692962, R2 = 0.480197, MSE = 0.099911 (null 0.194175, ratio 0.514543), f1 = nan (null nan)
+TRAIN: R = 0.942907, R2 = 0.889073, MSE = 0.026778 (null 0.192051, ratio 0.139430), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1500], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 68 ______
+TEST: R = 0.692962, R2 = 0.480197, MSE = 0.099911 (null 0.194175, ratio 0.514543), f1 = nan (null nan)
+TRAIN: R = 0.942907, R2 = 0.889073, MSE = 0.026778 (null 0.192051, ratio 0.139430), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 69 ______
+TEST: R = 0.692962, R2 = 0.480197, MSE = 0.099911 (null 0.194175, ratio 0.514543), f1 = nan (null nan)
+TRAIN: R = 0.942907, R2 = 0.889073, MSE = 0.026778 (null 0.192051, ratio 0.139430), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 70 ______
+TEST: R = 0.692956, R2 = 0.480188, MSE = 0.099917 (null 0.194175, ratio 0.514571), f1 = nan (null nan)
+TRAIN: R = 0.914289, R2 = 0.835923, MSE = 0.036884 (null 0.192051, ratio 0.192055), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 750], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 71 ______
+TEST: R = 0.692703, R2 = 0.479838, MSE = 0.099994 (null 0.194175, ratio 0.514968), f1 = nan (null nan)
+TRAIN: R = 0.944855, R2 = 0.892751, MSE = 0.026645 (null 0.192051, ratio 0.138738), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 72 ______
+TEST: R = 0.692703, R2 = 0.479838, MSE = 0.099994 (null 0.194175, ratio 0.514968), f1 = nan (null nan)
+TRAIN: R = 0.944855, R2 = 0.892751, MSE = 0.026645 (null 0.192051, ratio 0.138738), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'MaxAbsScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 73 ______
+TEST: R = 0.692259, R2 = 0.479222, MSE = 0.100085 (null 0.194175, ratio 0.515438), f1 = nan (null nan)
+TRAIN: R = 0.968278, R2 = 0.937562, MSE = 0.015715 (null 0.192051, ratio 0.081828), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 400, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 74 ______
+TEST: R = 0.692318, R2 = 0.479304, MSE = 0.100122 (null 0.194175, ratio 0.515626), f1 = nan (null nan)
+TRAIN: R = 0.952482, R2 = 0.907222, MSE = 0.022848 (null 0.192051, ratio 0.118967), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 75 ______
+TEST: R = 0.692318, R2 = 0.479304, MSE = 0.100122 (null 0.194175, ratio 0.515626), f1 = nan (null nan)
+TRAIN: R = 0.952482, R2 = 0.907222, MSE = 0.022848 (null 0.192051, ratio 0.118967), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 300, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 76 ______
+TEST: R = 0.693301, R2 = 0.480666, MSE = 0.100150 (null 0.194175, ratio 0.515772), f1 = nan (null nan)
+TRAIN: R = 0.966024, R2 = 0.933202, MSE = 0.014544 (null 0.192051, ratio 0.075730), f1 = nan (null nan)
+Learn parameters: folds=10, [{'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'FeatureSelection': ['regression', 'global', 750], 'pass1_features': 6000, 'pass1_features_SVD': None, 'Algorithm': ('Ridge', {'n_alphas': 25}), 'TextTypes': ['LEMMA', 'NORMAL', 'POS'], 'FeatureScaler': 'MaxAbsScaler'}]
+______ RANK = 77 ______
+TEST: R = 0.691703, R2 = 0.478454, MSE = 0.100222 (null 0.194175, ratio 0.516143), f1 = nan (null nan)
+TRAIN: R = 0.920469, R2 = 0.847263, MSE = 0.034494 (null 0.192051, ratio 0.179611), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 1000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 200, 'pass1_features_SVD': None, 'FeatureMethod': ['BOW_3', 'TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 78 ______
+TEST: R = 0.691770, R2 = 0.478546, MSE = 0.100232 (null 0.194175, ratio 0.516195), f1 = nan (null nan)
+TRAIN: R = 0.943142, R2 = 0.889516, MSE = 0.026627 (null 0.192051, ratio 0.138647), f1 = nan (null nan)
+Learn parameters: folds=10, [{'pass1_features': 400, 'Algorithm': ('Ridge', {'n_alphas': 25}), 'FeatureScaler': 'MaxAbsScaler', 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS'], 'TextTypes': ['LEMMA', 'POS'], 'FeatureSelection': None, 'pass1_features_SVD': None}]
+______ RANK = 79 ______
+TEST: R = 0.691484, R2 = 0.478150, MSE = 0.100297 (null 0.194175, ratio 0.516529), f1 = nan (null nan)
+TRAIN: R = 0.964564, R2 = 0.930383, MSE = 0.018195 (null 0.192051, ratio 0.094738), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': None, 'FeatureScaler': 'StandardScaler', 'pass1_features': 500, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]
+______ RANK = 80 ______
+TEST: R = 0.691484, R2 = 0.478150, MSE = 0.100297 (null 0.194175, ratio 0.516529), f1 = nan (null nan)
+TRAIN: R = 0.964564, R2 = 0.930383, MSE = 0.018195 (null 0.192051, ratio 0.094738), f1 = nan (null nan)
+Learn parameters: folds=10, [{'TextTypes': ['LEMMA', 'POS'], 'Algorithm': ('Ridge', {'n_alphas': 30}), 'FeatureSelection': ['regression', 'global', 2000], 'FeatureScaler': 'StandardScaler', 'pass1_features': 500, 'pass1_features_SVD': None, 'FeatureMethod': ['TFIDF_3', 'EMBEDDING_NORMAL', 'CUSTOM', 'TAGS']}]

@@ -1,0 +1,22 @@
+dimension = textlogic, total non-zero features 923
+
+66 | boldtitle | 0.30
+74 | uniq_TUOTE (C) | -0.28
+106 | stop_word (C) | 0.26
+112 | VERB (C) | 0.25
+130 | PRON | -0.24
+142 | boldtitle (C) | 0.22
+183 | subjective_word (C) | 0.19
+216 | paragraph (C) | 0.17
+242 | interviewquote (C) | 0.16
+258 | uniq_MIES (C) | -0.16
+277 | SYM | -0.15
+292 | SCONJ (C) | 0.14
+308 | numberedrow | 0.14
+336 | uniq_VIRASTO | 0.13
+359 | SYM (C) | -0.12
+366 | comma_char (C) | 0.12
+371 | interviewquote | 0.12
+378 | uniq_NETTISIVU (C) | -0.12
+381 | uniq_MIES | -0.12
+392 | NUM (C) | 0.11

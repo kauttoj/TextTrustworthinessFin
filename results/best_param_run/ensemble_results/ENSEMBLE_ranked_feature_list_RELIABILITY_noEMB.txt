@@ -1,0 +1,4479 @@
+dimension = reliability, total non-zero features 744
+
+17 | 1-g: tai | 0.52
+21 | 1-g: vain | 0.49
+35 | 1-g: viikko | 0.43
+38 | 1-g: kuitenkin | 0.43
+69 | 1-g: paljon | 0.33
+72 | 3-g: . " ¤ | 0.32
+92 | 1-g: mahdollinen | 0.29
+100 | 1-g: sairaus | 0.28
+125 | 1-g: alkaa | 0.24
+147 | source (C) | 0.23
+150 | 1-g: vaikka | 0.23
+159 | 1-g: saattaa | 0.22
+160 | 1-g: esimerkiksi | 0.22
+163 | 1-g: imeytyä | 0.21
+166 | 1-g: tulos | 0.21
+170 | 1-g: koska | 0.21
+181 | 1-g: lisäksi | 0.20
+185 | 1-g: nainen_tag | 0.19
+190 | 1-g: vuosi | 0.19
+193 | 1-g: syöminen | 0.19
+200 | 1-g: pieni | 0.18
+201 | 1-g: lisätä | 0.18
+206 | numberedrow | 0.18
+220 | uniq_YLIOPISTO | 0.17
+229 | 1-g: itse | 0.16
+231 | 2-g: olla myös | 0.16
+233 | 1-g: tutkimus | 0.16
+236 | 3-g: ¤ – " | 0.16
+237 | 1-g: ruokavalio | 0.16
+240 | uniq_YLIOPISTO (C) | 0.15
+247 | 1-g: runsas | 0.15
+253 | 2-g: , mutta | 0.15
+265 | 1-g: kertoa | 0.14
+266 | 1-g: kannattaa | 0.14
+267 | 1-g: vaikutus | 0.14
+284 | 1-g: proteiini | 0.13
+292 | 1-g: rasva | 0.13
+293 | 2-g: se , | 0.13
+305 | uniq_VIRASTO | 0.12
+308 | 1-g: sokeri | 0.12
+318 | 1-g: tietää | 0.12
+319 | 1-g: suolisto | 0.12
+327 | 1-g: terveys | 0.12
+329 | numberedrow (C) | 0.11
+331 | 2-g: , mikä | 0.11
+340 | 2-g: , kun | 0.11
+349 | ADJ (C) | 0.11
+375 | 1-g: suomalainen | 0.10
+376 | 1-g: käyttää | 0.10
+382 | comma_char | 0.09
+383 | 1-g: tulla | 0.09
+386 | uniq_YRITYS | 0.09
+391 | 1-g: energia | 0.09
+396 | 2-g: , kuten | 0.09
+401 | comma_char (C) | 0.09
+402 | 1-g: hedelmä | 0.09
+409 | 1-g: sanoa | 0.08
+413 | 1-g: todeta | 0.08
+414 | 1-g: tuote | 0.08
+429 | 1-g: mutta | 0.08
+438 | 1-g: ravintoaine | 0.07
+451 | uniq_YRITYS (C) | 0.07
+453 | source | 0.07
+459 | 1-g: vaikuttaa | 0.07
+464 | 1-g: toinen | 0.06
+469 | interviewquote (C) | 0.06
+473 | 1-g: jälkeen | 0.06
+484 | VERB (C) | 0.06
+485 | 1-g: määrä | 0.06
+486 | 3-g: se , että | 0.06
+498 | 1-g: runsaasti | 0.06
+499 | 1-g: erilainen | 0.05
+502 | uniq_TUTKIMUS | 0.05
+504 | 1-g: terveellinen | 0.05
+515 | negative_word (C) | 0.05
+516 | total_char (C) | 0.05
+536 | 1-g: virasto_tag | 0.04
+541 | 1-g: suomi | 0.04
+557 | stop_word (C) | 0.04
+562 | 1-g: marja | 0.04
+565 | 1-g: aiheuttaa | 0.03
+567 | common_POS_ngram (C) | 0.03
+568 | subjective_word (C) | 0.03
+569 | 1-g: kahvi | 0.03
+594 | uniq_TUTKIMUS (C) | 0.03
+596 | ?_char | 0.03
+600 | 1-g: pitää | 0.03
+604 | dictionary_word (C) | 0.03
+612 | uniq_JULKAISU | 0.02
+621 | AUX (C) | 0.02
+622 | word (C) | 0.02
+642 | 1-g: riski | 0.02
+646 | 1-g: liian | 0.02
+648 | emb_dict_word (C) | 0.02
+660 | uniq_VIRASTO (C) | 0.01
+661 | 1-g: mukaan | 0.01
+664 | 1-g: maito | 0.01
+669 | PROPN (C) | 0.01
+673 | technical_word | 0.01
+687 | uniq_SAIRAALA | 0.01
+688 | digit (C) | 0.01
+690 | NUM (C) | 0.01
+712 | NUM | 0.01
+713 | symbol (C) | 0.01
+727 | 1-g: CARD_NUMBER | 0.00
+741 | PUNCT | 0.00
+744 | 1-g: liittyä | 0.00
+5541 | 2-g: , mehu | 0.00
+5570 | 1-g: eurooppalainen | 0.00
+5496 | 2-g: korkea verenpaine | 0.00
+5573 | 2-g: ansio . | 0.00
+5574 | 1-g: kokonaisuus (N) | 0.00
+5494 | 1-g: yhteydessä (N) | 0.00
+5492 | 1-g: aikaväli | 0.00
+5578 | 2-g: suomalainen syödä | 0.00
+5583 | 2-g: olla vähemmän | 0.00
+5489 | 3-g: ¤ ADJ VERB (N) | 0.00
+5584 | 3-g: g / pv | 0.00
+5484 | 1-g: minkäänlainen | 0.00
+5587 | 2-g: ravinto , | 0.00
+5479 | 1-g: ehkäistä | 0.00
+5500 | 3-g: PUNCT ADJ CONJ (N) | 0.00
+5588 | 2-g: kuukausi aika | 0.00
+5478 | 1-g: taistella | 0.00
+5477 | 2-g: että myös | 0.00
+5476 | 2-g: , aiheuttaa | 0.00
+5474 | 1-g: raportoida | 0.00
+5548 | 2-g: , maissi | 0.00
+5590 | 2-g: ennen kaikki | 0.00
+5549 | 3-g: niin , että | 0.00
+5553 | 2-g: syödä niin | 0.00
+5473 | 1-g: todistaa | 0.00
+5482 | 2-g: olla aivan | 0.00
+5502 | 1-g: kananmunan (N) | 0.00
+5554 | 2-g: olla yksilöllinen | 0.00
+5555 | 1-g: lihaskasvu | 0.00
+5540 | 1-g: mustaherukka | 0.00
+5556 | 2-g: . tärkeä | 0.00
+5560 | 2-g: myös paljon | 0.00
+5535 | 2-g: . toisaalta | 0.00
+5534 | 1-g: terveyshyöty | 0.00
+5531 | 2-g: muutoksia . (N) | 0.00
+5561 | 1-g: proteiinilähde | 0.00
+5543 | 2-g: migreeni . | 0.00
+5530 | 2-g: voida hyvin | 0.00
+5529 | 3-g: PUNCT ADV NOUN (N) | 0.00
+5527 | 1-g: stressata | 0.00
+5520 | 2-g: paino pudota | 0.00
+5504 | 2-g: välttämätön rasvahappo | 0.00
+5563 | 3-g: , mutta tämä | 0.00
+5519 | 1-g: sepelvaltimotauti | 0.00
+5567 | 1-g: sairauksien (N) | 0.00
+5516 | 2-g: olla tehokas | 0.00
+5546 | 1-g: ruokakauppa | 0.00
+5547 | 1-g: selkeästi (N) | 0.00
+5513 | 1-g: keltainen | 0.00
+5512 | 2-g: olla nähdä | 0.00
+5568 | 1-g: hallitus | 0.00
+5510 | 2-g: . joskus | 0.00
+5507 | 2-g: vaikutus ei | 0.00
+5506 | 3-g: määrä . ¤ | 0.00
+5569 | 1-g: aktiivisesti | 0.00
+5564 | 2-g: kahvi ja | 0.00
+3908 | 1-g: saattavat (N) | 0.00
+5631 | 2-g: sitä , (N) | 0.00
+5592 | 3-g: VERB SCONJ PRON (N) | 0.00
+5707 | 1-g: ravintoaineet (N) | 0.00
+5706 | 2-g: ei välttämättä | 0.00
+5704 | 1-g: mahdollistaa | 0.00
+5703 | 2-g: mikään muu | 0.00
+5700 | 2-g: kuin olla | 0.00
+5697 | 1-g: nälkää (N) | 0.00
+5694 | 2-g: viikko kulua | 0.00
+5692 | 1-g: oireyhtymä | 0.00
+5691 | 2-g: runsas sokeri | 0.00
+5689 | 3-g: . ¤ terveellinen | 0.00
+5687 | 1-g: ylläpito | 0.00
+5686 | 1-g: mitenkään | 0.00
+5682 | 1-g: sydäninfarkti | 0.00
+5676 | 2-g: allergia . | 0.00
+5675 | 2-g: sijaan olla | 0.00
+5708 | 1-g: kyseenalaistaa | 0.00
+5709 | 2-g: olla pelkästään | 0.00
+5711 | 2-g: lisäksi myös | 0.00
+5713 | 1-g: valkosipuli | 0.00
+5750 | 2-g: sillä on (N) | 0.00
+5749 | 2-g: että ravinto | 0.00
+5747 | 2-g: että mikä | 0.00
+5745 | 1-g: elämänlaatu | 0.00
+5741 | 3-g: PUNCT ADJ VERB (N) | 0.00
+5739 | 2-g: ihminen terveys | 0.00
+5736 | 1-g: pitäisi (N) | 0.00
+5673 | 1-g: ruoansulatuskanava | 0.00
+5735 | 2-g: tuote , | 0.00
+5729 | 2-g: saanti olla | 0.00
+5728 | 3-g: PUNCT PRON ADP (N) | 0.00
+5725 | 2-g: , mistä (N) | 0.00
+5724 | 1-g: muistisairas | 0.00
+5719 | 1-g: vuotias | 0.00
+5716 | 2-g: että osa | 0.00
+5714 | 2-g: . uusi | 0.00
+5730 | 1-g: päivittäiseen (N) | 0.00
+5591 | 1-g: ortoreksia | 0.00
+5671 | 3-g: ¤ NOUN ADP (N) | 0.00
+5665 | 1-g: helliä | 0.00
+5624 | 2-g: nainen_tag olla | 0.00
+5623 | 2-g: viime vuosi | 0.00
+5620 | 1-g: hauduttaa | 0.00
+5618 | 2-g: ei maistu (N) | 0.00
+5614 | 3-g: NOUN PUNCT ADV (N) | 0.00
+5612 | 2-g: tulehdus ja | 0.00
+5609 | 2-g: CARD_NUMBER ja | 0.00
+5608 | 1-g: todellisuus | 0.00
+5606 | 2-g: erittäin tärkeä | 0.00
+5605 | 2-g: ruokavalio , | 0.00
+5603 | 1-g: käytön (N) | 0.00
+5602 | 1-g: jäätelö | 0.00
+5597 | 1-g: tutkittavat (N) | 0.00
+5595 | 2-g: riski kuolla (N) | 0.00
+5593 | 3-g: PUNCT VERB ADV (N) | 0.00
+5626 | 2-g: suolisto olla | 0.00
+5628 | 2-g: suomalainen olla | 0.00
+5471 | 2-g: ravintoaine , | 0.00
+5633 | 1-g: sallia | 0.00
+5664 | 1-g: toimintaa (N) | 0.00
+5663 | 3-g: ruoka . ¤ | 0.00
+5662 | 2-g: CARD_NUMBER vuotias | 0.00
+5658 | 2-g: johtua se | 0.00
+5656 | 2-g: maitotuote käyttö | 0.00
+5655 | 2-g: ravinto . | 0.00
+5654 | 1-g: luontaisesti (N) | 0.00
+5669 | 3-g: PROPN PUNCT PROPN (N) | 0.00
+5649 | 2-g: ihminen . | 0.00
+5645 | 2-g: että " | 0.00
+5643 | 3-g: , joilla ei (N) | 0.00
+5640 | 2-g: tämän vuoksi (N) | 0.00
+5639 | 2-g: se kautta | 0.00
+5638 | 2-g: nopeasti , (N) | 0.00
+5637 | 1-g: harvoin | 0.00
+5634 | 2-g: ja juoda | 0.00
+5648 | 1-g: yksilö | 0.00
+5469 | 2-g: kasvu . | 0.00
+5366 | 2-g: lääke , | 0.00
+5464 | 1-g: luuston (N) | 0.00
+5229 | 2-g: viimeaikainen tutkimus | 0.00
+5230 | 2-g: ¤ tutkimuksessa (N) | 0.00
+5232 | 2-g: olla tietää | 0.00
+5233 | 2-g: ravinto olla | 0.00
+5234 | 1-g: todennäköisesti | 0.00
+5235 | 1-g: liikasaanti | 0.00
+5236 | 1-g: liittyvät (N) | 0.00
+5241 | 2-g: matalaasteinen tulehdus | 0.00
+5247 | 2-g: . tutkia | 0.00
+5248 | 3-g: CONJ ADJ PUNCT (N) | 0.00
+5249 | 3-g: ADJ NOUN PRON (N) | 0.00
+5250 | 1-g: vähintään (N) | 0.00
+5251 | 1-g: estrogeeni | 0.00
+5254 | 1-g: ainakaan | 0.00
+5227 | 1-g: käsittelemätön | 0.00
+5258 | 2-g: cvitamiini . | 0.00
+5266 | 1-g: loistava | 0.00
+5267 | 1-g: varmuus | 0.00
+5268 | 1-g: ldl-kolesteroli | 0.00
+5269 | 2-g: ja rauta | 0.00
+5271 | 3-g: PUNCT ADP PUNCT (N) | 0.00
+5273 | 1-g: korjata | 0.00
+5276 | 2-g: ¤ vältä (N) | 0.00
+5277 | 2-g: hyvä tai | 0.00
+5278 | 1-g: puolesta | 0.00
+5279 | 1-g: tavallisen (N) | 0.00
+5282 | 1-g: raejuusto | 0.00
+5287 | 3-g: CONJ NOUN ADP (N) | 0.00
+5288 | 2-g: hyvä vaihtoehto | 0.00
+5289 | 2-g: , professori_tag | 0.00
+5264 | 2-g: olla hankala | 0.00
+5292 | 1-g: antioksidantteja (N) | 0.00
+5226 | 2-g: nousta . | 0.00
+5222 | 2-g: elimistö olla | 0.00
+5156 | 2-g: jokin tutkimus | 0.00
+5158 | 2-g: ruoka pitää | 0.00
+5160 | 2-g: kuitua ja (N) | 0.00
+5161 | 2-g: kysyä , | 0.00
+5162 | 3-g: NOUN NOUN NUM (N) | 0.00
+5164 | 1-g: keskustella | 0.00
+5165 | 3-g: NOUN ADJ ADJ (N) | 0.00
+5166 | 3-g: , että se | 0.00
+5167 | 1-g: etukäteen | 0.00
+5168 | 1-g: ratkaisee (N) | 0.00
+5169 | 3-g: PUNCT INTJ PRON (N) | 0.00
+5170 | 3-g: . tämä voida | 0.00
+5172 | 1-g: käynnissä (N) | 0.00
+5173 | 2-g: lisäksi se | 0.00
+5225 | 3-g: VERB ADJ NOUN (N) | 0.00
+5177 | 2-g: . mikään | 0.00
+5182 | 1-g: länsimainen | 0.00
+5183 | 2-g: pois . | 0.00
+5184 | 2-g: tehokas . | 0.00
+5186 | 3-g: kuitenkin se , | 0.00
+5187 | 2-g: lisätä se | 0.00
+5193 | 1-g: löydös | 0.00
+5201 | 2-g: voida siis | 0.00
+5203 | 3-g: ADV PRON ADJ (N) | 0.00
+5204 | 3-g: . ¤ miksi | 0.00
+5206 | 1-g: bakteerit (N) | 0.00
+5211 | 1-g: sopivaa (N) | 0.00
+5214 | 2-g: että ihminen | 0.00
+5215 | 2-g: maitotuote ja | 0.00
+5219 | 2-g: olla tehdä | 0.00
+5179 | 3-g: ¤ VERB SCONJ (N) | 0.00
+5297 | 1-g: seurantatutkimus | 0.00
+5299 | 3-g: . ne ovat (N) | 0.00
+5300 | 3-g: joka ei olla | 0.00
+5385 | 2-g: . iso | 0.00
+5386 | 2-g: ja seleeni | 0.00
+5389 | 2-g: päinvastoin . (N) | 0.00
+5390 | 3-g: ) , joka | 0.00
+5391 | 2-g: kcal . | 0.00
+5398 | 3-g: riskiä . ¤ (N) | 0.00
+5401 | 2-g: hyvä rasva | 0.00
+5402 | 1-g: ihmisillä (N) | 0.00
+5403 | 1-g: ennenaikainen | 0.00
+5404 | 2-g: maku olla | 0.00
+5405 | 2-g: sisältää myös (N) | 0.00
+5409 | 1-g: kyseessä (N) | 0.00
+5412 | 3-g: . kyse olla | 0.00
+5413 | 3-g: PUNCT ¤ PRON (N) | 0.00
+5384 | 3-g: ADV ADV PRON (N) | 0.00
+5416 | 3-g: NOUN PROPN PUNCT (N) | 0.00
+5420 | 2-g: voida kuitenkin | 0.00
+5421 | 1-g: tekemään (N) | 0.00
+5428 | 1-g: kommentoida | 0.00
+5436 | 1-g: sokeria (N) | 0.00
+5438 | 2-g: että esimerkiksi | 0.00
+5440 | 3-g: SCONJ ADV PROPN (N) | 0.00
+5441 | 2-g: vihreä tee (N) | 0.00
+5445 | 1-g: säädellä | 0.00
+5448 | 2-g: ei ehtiä | 0.00
+5449 | 3-g: ¤ PRON ADV (N) | 0.00
+5453 | 1-g: perehtyä | 0.00
+5459 | 1-g: ikäihminen | 0.00
+5462 | 1-g: gluteenia (N) | 0.00
+5463 | 1-g: ateriaa (N) | 0.00
+5417 | 2-g: ikääntyä , | 0.00
+5382 | 2-g: arvioida , | 0.00
+5381 | 1-g: laihtumista (N) | 0.00
+5379 | 1-g: arvioi (N) | 0.00
+5303 | 2-g: ja suolisto | 0.00
+5304 | 1-g: ummetus | 0.00
+5317 | 2-g: että elimistö | 0.00
+5318 | 3-g: mutta se olla | 0.00
+5321 | 1-g: suuren (N) | 0.00
+5322 | 2-g: professori_tag nainen_tag | 0.00
+5323 | 2-g: olla todistaa | 0.00
+5328 | 1-g: monet (N) | 0.00
+5331 | 1-g: pahoinvointi | 0.00
+5332 | 1-g: sisältävien (N) | 0.00
+5336 | 1-g: suojella | 0.00
+5337 | 1-g: kevyt | 0.00
+5338 | 3-g: ADP AUX ADV (N) | 0.00
+5339 | 1-g: litraa (N) | 0.00
+5344 | 2-g: sisältää runsaasti | 0.00
+5345 | 3-g: CONJ NOUN PROPN (N) | 0.00
+5346 | 3-g: VERB AUX CONJ (N) | 0.00
+5377 | 1-g: haitallisia (N) | 0.00
+5376 | 3-g: SCONJ PRON VERB (N) | 0.00
+5373 | 2-g: , saattaa | 0.00
+5372 | 3-g: PUNCT CONJ NUM (N) | 0.00
+5371 | 1-g: siirtyy (N) | 0.00
+5369 | 1-g: rasvaliukoinen | 0.00
+5466 | 3-g: näyttöä siitä , (N) | 0.00
+5368 | 2-g: vuosi sitten | 0.00
+5365 | 1-g: ansio | 0.00
+5364 | 1-g: uskomus | 0.00
+5360 | 3-g: . ¤ välttää | 0.00
+5355 | 2-g: olla runsas | 0.00
+5354 | 1-g: välissä | 0.00
+5347 | 1-g: d-vitamiinin (N) | 0.00
+5751 | 2-g: CARD_NUMBER on (N) | 0.00
+5754 | 3-g: hedelmä ja marja | 0.00
+5876 | 2-g: lisäravinne , | 0.00
+5756 | 1-g: taudinaiheuttajia (N) | 0.00
+6114 | 2-g: kuolema . | 0.00
+6115 | 3-g: olla muu muassa | 0.00
+6116 | 1-g: kuvitella | 0.00
+6117 | 1-g: kemoterapia | 0.00
+6118 | 1-g: flunssa | 0.00
+6122 | 2-g: vitamiineja ja (N) | 0.00
+6124 | 2-g: olla proteiini | 0.00
+6129 | 2-g: lisätä riski | 0.00
+6131 | 2-g: olla mm | 0.00
+6132 | 1-g: samassa (N) | 0.00
+6134 | 1-g: suolistosairaus | 0.00
+6135 | 2-g: nainen_tag ei | 0.00
+6136 | 2-g: ruokavalio ei (N) | 0.00
+6137 | 1-g: suunnata | 0.00
+6113 | 1-g: raakaravinto | 0.00
+6138 | 2-g: . kaikki | 0.00
+6140 | 2-g: olla ruoka | 0.00
+6144 | 2-g: ylläpitää . | 0.00
+6147 | 2-g: verenpaine ja | 0.00
+6150 | 1-g: virheellinen | 0.00
+6155 | 1-g: uusiutua | 0.00
+6161 | 2-g: mukaan , | 0.00
+6162 | 2-g: edellä mainita | 0.00
+6163 | 1-g: tyyppinen | 0.00
+6169 | 1-g: luultavasti | 0.00
+6170 | 2-g: hedelmä . | 0.00
+6176 | 1-g: esiaste | 0.00
+6177 | 3-g: VERB NOUN CONJ (N) | 0.00
+6181 | 3-g: VERB ADV CONJ (N) | 0.00
+6185 | 3-g: . hän olla | 0.00
+6139 | 3-g: ADP NOUN PROPN (N) | 0.00
+6187 | 2-g: hyvä terveys | 0.00
+6112 | 1-g: ihmisiä (N) | 0.00
+6110 | 3-g: VERB VERB NUM (N) | 0.00
+6044 | 2-g: mies_tag ei | 0.00
+6050 | 1-g: prosessoitua (N) | 0.00
+6054 | 3-g: , että hän | 0.00
+6060 | 3-g: PUNCT ADV PRON (N) | 0.00
+6062 | 2-g: terveyttä . (N) | 0.00
+6065 | 1-g: etukäteen (N) | 0.00
+6066 | 2-g: toimia . | 0.00
+6071 | 2-g: ruoka tai | 0.00
+6073 | 2-g: , pinaatti | 0.00
+6074 | 1-g: valmis | 0.00
+6075 | 1-g: ruisleipä | 0.00
+6077 | 2-g: välimeri ruokavalio | 0.00
+6080 | 3-g: , joka se | 0.00
+6081 | 3-g: ei kuitenkaan olla | 0.00
+6111 | 3-g: , jolloin se | 0.00
+6082 | 1-g: mahdoton | 0.00
+6084 | 2-g: hyöty , | 0.00
+6086 | 1-g: yksinkertaisesti | 0.00
+6089 | 1-g: käyttäjä | 0.00
+6093 | 3-g: VERB NOUN AUX (N) | 0.00
+6094 | 2-g: suola käyttö | 0.00
+6095 | 1-g: kylläisyyden (N) | 0.00
+6096 | 2-g: pitää yllä | 0.00
+6097 | 1-g: amerikkalainen | 0.00
+6098 | 3-g: SCONJ VERB PUNCT (N) | 0.00
+6102 | 2-g: tulisi olla (N) | 0.00
+6103 | 2-g: . tai | 0.00
+6104 | 1-g: kotimainen | 0.00
+6106 | 2-g: olla suomalainen | 0.00
+6107 | 2-g: valinta . | 0.00
+6083 | 2-g: ¤ tutkija | 0.00
+6042 | 1-g: välttämättä | 0.00
+6191 | 1-g: lupaava | 0.00
+6194 | 2-g: päivittäin . | 0.00
+6259 | 3-g: . ¤ myös | 0.00
+6260 | 2-g: olla suomi | 0.00
+6262 | 1-g: yhdistelmä | 0.00
+6265 | 2-g: esim . | 0.00
+6268 | 1-g: kasvissyöjä | 0.00
+6269 | 1-g: sammuttaa | 0.00
+6270 | 2-g: ja maitotuote | 0.00
+6274 | 2-g: vitamiini . | 0.00
+6275 | 1-g: sairaala | 0.00
+6276 | 1-g: ruokavaliohoito | 0.00
+6277 | 2-g: rasva on (N) | 0.00
+6283 | 3-g: PUNCT ADJ PROPN (N) | 0.00
+6284 | 2-g: kuolleisuus . | 0.00
+6287 | 2-g: ¤ usein | 0.00
+6257 | 3-g: , että kaikki | 0.00
+6289 | 1-g: myrkkyä (N) | 0.00
+6291 | 3-g: VERB ADV SYM (N) | 0.00
+6292 | 2-g: että moni | 0.00
+6294 | 3-g: VERB VERB NOUN (N) | 0.00
+6295 | 3-g: SCONJ NOUN CONJ (N) | 0.00
+6300 | 1-g: määrätä | 0.00
+6303 | 1-g: itämeren (N) | 0.00
+6305 | 3-g: SCONJ NOUN ¤ (N) | 0.00
+6307 | 1-g: nukahtaa | 0.00
+6308 | 2-g: terveellinen . | 0.00
+6310 | 2-g: syntyä , | 0.00
+6311 | 1-g: uskaltaa | 0.00
+6316 | 1-g: puutostila | 0.00
+6317 | 3-g: CONJ PROPN CONJ (N) | 0.00
+6318 | 2-g: hyödyllinen . | 0.00
+6290 | 1-g: vegaaniruokavalio | 0.00
+6193 | 2-g: , maitotuote | 0.00
+6254 | 2-g: terveyttä edistäviä (N) | 0.00
+6252 | 1-g: käytäntö | 0.00
+6195 | 1-g: seleenin (N) | 0.00
+6197 | 3-g: vitamiini ja kivennäisaine | 0.00
+6199 | 2-g: toiminta , | 0.00
+6200 | 2-g: margariini ja | 0.00
+6201 | 2-g: ¤ nettisivu_tag | 0.00
+6207 | 2-g: nettisivu_tag . | 0.00
+6209 | 2-g: siemen , | 0.00
+6210 | 2-g: laihtua . | 0.00
+6214 | 2-g: aina kun | 0.00
+6215 | 3-g: ovat osoittaneet , (N) | 0.00
+6217 | 2-g: mieli , | 0.00
+6218 | 1-g: poiketa | 0.00
+6219 | 1-g: tabletti | 0.00
+6220 | 2-g: paremmin , | 0.00
+6253 | 1-g: ubikinoni | 0.00
+6222 | 1-g: haittavaikutus | 0.00
+6226 | 3-g: VERB CONJ ADV (N) | 0.00
+6228 | 2-g: pitkä aika | 0.00
+6230 | 3-g: mies , joka | 0.00
+6232 | 1-g: tietysti | 0.00
+6233 | 3-g: VERB SCONJ NOUN (N) | 0.00
+6234 | 3-g: ruoka , kuten | 0.00
+6235 | 1-g: migreeniä (N) | 0.00
+6236 | 3-g: ADJ PRON PRON (N) | 0.00
+6237 | 1-g: vaihtelu | 0.00
+6238 | 1-g: lautanenmalli | 0.00
+6241 | 2-g: että ruoka | 0.00
+6245 | 3-g: . ei ole (N) | 0.00
+6246 | 1-g: tutkittaa | 0.00
+6249 | 3-g: PUNCT SCONJ CONJ (N) | 0.00
+6225 | 1-g: kolesterolipitoisuus | 0.00
+6041 | 2-g: , hedelmiä (N) | 0.00
+6039 | 1-g: pitkäikäisyys | 0.00
+6037 | 1-g: käytännössä (N) | 0.00
+5836 | 2-g: käyttö ja | 0.00
+5837 | 2-g: ruoka , | 0.00
+5839 | 1-g: ravitsemustiede | 0.00
+5846 | 1-g: luonnollisia (N) | 0.00
+5849 | 2-g: ongelma . | 0.00
+5850 | 2-g: ateria . | 0.00
+5851 | 2-g: tarvita , | 0.00
+5856 | 2-g: , tomaatti | 0.00
+5857 | 2-g: olla kuitenkaan | 0.00
+5859 | 2-g: kuitu ja | 0.00
+5862 | 3-g: PUNCT ¤ VERB (N) | 0.00
+5863 | 2-g: tulla syödä | 0.00
+5867 | 3-g: CARD_NUMBER vuotta sitten (N) | 0.00
+5868 | 1-g: virtsahappo | 0.00
+5829 | 2-g: , riisi | 0.00
+5870 | 2-g: käyttö vähentää | 0.00
+5872 | 2-g: tekijä , | 0.00
+5155 | 2-g: d-vitamiinia , (N) | 0.00
+5878 | 1-g: mahdollisesti | 0.00
+5882 | 1-g: lopuksi | 0.00
+5883 | 1-g: ollenkaan | 0.00
+5885 | 3-g: sanoo . ¤ (N) | 0.00
+5888 | 2-g: gramma päivä | 0.00
+5890 | 1-g: tyypillisesti (N) | 0.00
+5891 | 1-g: vaihtoehto (N) | 0.00
+5892 | 2-g: pieni riski | 0.00
+5893 | 1-g: palautua | 0.00
+5898 | 2-g: kuin mikä | 0.00
+5899 | 1-g: hormonitoiminta | 0.00
+5901 | 3-g: PROPN CONJ PROPN (N) | 0.00
+5871 | 3-g: sydän ja verisuonitauti | 0.00
+5903 | 2-g: prosessoida liha | 0.00
+5827 | 3-g: PRON ADP SCONJ (N) | 0.00
+5823 | 2-g: ¤ valkosipuli | 0.00
+5757 | 1-g: patukka | 0.00
+5759 | 1-g: soijan (N) | 0.00
+5760 | 3-g: potilas , joka | 0.00
+5761 | 1-g: parempi (N) | 0.00
+5762 | 1-g: vaikutuksia (N) | 0.00
+5763 | 2-g: se toimii (N) | 0.00
+5766 | 1-g: kasviöljy | 0.00
+5770 | 2-g: helppo . | 0.00
+5771 | 1-g: luopua | 0.00
+5774 | 1-g: oksidatiivinen | 0.00
+5777 | 2-g: tutkimus . | 0.00
+5778 | 2-g: kalsium , | 0.00
+5780 | 1-g: kollageenin (N) | 0.00
+5782 | 3-g: PUNCT ADJ ADJ (N) | 0.00
+5826 | 1-g: antibiootti | 0.00
+5785 | 2-g: vapaa radikaali | 0.00
+5791 | 1-g: päivittäistä (N) | 0.00
+5792 | 2-g: voida saada | 0.00
+5793 | 2-g: riittävä saanti | 0.00
+5794 | 1-g: mainittu (N) | 0.00
+5796 | 2-g: saanti on (N) | 0.00
+5801 | 3-g: tietää , että | 0.00
+5805 | 2-g: rasvahappo olla | 0.00
+5809 | 2-g: tehdä se | 0.00
+5812 | 2-g: maitotuote . | 0.00
+5815 | 3-g: PUNCT ADV NUM (N) | 0.00
+5816 | 1-g: välipala | 0.00
+5818 | 1-g: yksittäinen | 0.00
+5819 | 2-g: mutta kun | 0.00
+5820 | 1-g: useampi | 0.00
+5790 | 3-g: VERB NOUN ADV (N) | 0.00
+5904 | 1-g: suolistoa (N) | 0.00
+5905 | 1-g: esim. | 0.00
+5906 | 2-g: olla todellinen | 0.00
+5989 | 3-g: , joka hän | 0.00
+5991 | 1-g: perustuu (N) | 0.00
+5993 | 2-g: ravintolisä . | 0.00
+5995 | 1-g: naudanliha | 0.00
+5996 | 2-g: verenkierto . | 0.00
+5998 | 2-g: olla huomata | 0.00
+5999 | 3-g: PUNCT NOUN ADV (N) | 0.00
+6001 | 2-g: proteiini , | 0.00
+6002 | 2-g: ja etenkin | 0.00
+6004 | 1-g: piirre | 0.00
+6006 | 2-g: havaita olla | 0.00
+6007 | 2-g: juoma , | 0.00
+6009 | 1-g: lautanen | 0.00
+6013 | 1-g: mieluummin (N) | 0.00
+5984 | 1-g: huomioida | 0.00
+6014 | 1-g: dementian (N) | 0.00
+6016 | 2-g: terveys kanta | 0.00
+6017 | 2-g: olla kaksi | 0.00
+6019 | 1-g: vannoa | 0.00
+6020 | 3-g: PUNCT ¤ ADV (N) | 0.00
+6021 | 3-g: . ¤ maito | 0.00
+6022 | 3-g: CONJ VERB ADV (N) | 0.00
+6023 | 2-g: hyviä rasvoja (N) | 0.00
+6024 | 3-g: PUNCT PRON PRON (N) | 0.00
+6027 | 2-g: tasolla . (N) | 0.00
+6028 | 1-g: havaittu (N) | 0.00
+6031 | 1-g: palkokasvi | 0.00
+6032 | 3-g: . näin olla | 0.00
+6035 | 1-g: menettää | 0.00
+6036 | 3-g: PUNCT ¤ NOUN (N) | 0.00
+6015 | 2-g: vastustuskyky . | 0.00
+5979 | 2-g: olla eri | 0.00
+5977 | 1-g: kookos | 0.00
+5976 | 1-g: viljatuotteet (N) | 0.00
+5909 | 2-g: , tieteilija_tag | 0.00
+5911 | 1-g: säilyvyyttä (N) | 0.00
+5912 | 3-g: PROPN ADV ADJ (N) | 0.00
+5916 | 3-g: PUNCT VERB SCONJ (N) | 0.00
+5917 | 1-g: rentoutua | 0.00
+5921 | 2-g: sitä mieltä (N) | 0.00
+5922 | 2-g: CARD_NUMBER grammaa (N) | 0.00
+5925 | 1-g: valkoinen | 0.00
+5927 | 3-g: CARD_NUMBER . ¤ | 0.00
+5928 | 1-g: esiintyä | 0.00
+5929 | 2-g: kalium ja | 0.00
+5931 | 2-g: verenpaine olla | 0.00
+5933 | 3-g: , nainen_tag sanoa | 0.00
+5934 | 2-g: mutta olla | 0.00
+5935 | 1-g: osittain | 0.00
+5937 | 1-g: puoltaa | 0.00
+5942 | 1-g: perinnöllinen | 0.00
+5973 | 1-g: tarpeesta (N) | 0.00
+5972 | 3-g: todeta , että | 0.00
+5971 | 1-g: kunnon | 0.00
+5968 | 1-g: elinikä | 0.00
+5966 | 3-g: , että olla | 0.00
+5963 | 1-g: ruokasooda | 0.00
+5755 | 3-g: , jotta se | 0.00
+5962 | 2-g: muu kuin | 0.00
+5953 | 1-g: maksan (N) | 0.00
+5951 | 3-g: SCONJ NOUN ADV (N) | 0.00
+5949 | 1-g: soveltaa | 0.00
+5946 | 2-g: tulos olla | 0.00
+5945 | 3-g: kun se olla | 0.00
+5943 | 1-g: luomutuote | 0.00
+5954 | 3-g: mies_tag sanoa . | 0.00
+5154 | 2-g: , kalsium | 0.00
+5026 | 1-g: pikemminkin | 0.00
+5150 | 1-g: luonto | 0.00
+4344 | 3-g: CONJ ADV PUNCT (N) | 0.00
+4345 | 3-g: ei tietää , | 0.00
+4346 | 1-g: tosiasia | 0.00
+4348 | 1-g: vuosikausi | 0.00
+4349 | 1-g: soijapohjainen | 0.00
+4350 | 2-g: mantelimaito olla | 0.00
+4351 | 3-g: VERB SYM PUNCT (N) | 0.00
+4353 | 2-g: stressi , | 0.00
+4357 | 2-g: päivä . | 0.00
+4358 | 2-g: nainen_tag muistuttaa | 0.00
+4359 | 3-g: sokeri ei olla | 0.00
+4362 | 2-g: . vielä (N) | 0.00
+4367 | 1-g: maitohappobakteeri | 0.00
+4368 | 2-g: mies_tag kirjoittaa | 0.00
+4343 | 2-g: olla selvä | 0.00
+4369 | 3-g: PRON ADV VERB (N) | 0.00
+4372 | 1-g: kansalainen | 0.00
+4377 | 1-g: suosittu | 0.00
+4381 | 2-g: mikään yksittäinen | 0.00
+4383 | 2-g: pieni ja | 0.00
+4384 | 3-g: ei olla mikään | 0.00
+4387 | 1-g: sinänsä (N) | 0.00
+4389 | 2-g: suuri merkitys | 0.00
+4391 | 3-g: tuote . ¤ | 0.00
+4393 | 2-g: / vrk (N) | 0.00
+4394 | 1-g: riskitekijä | 0.00
+4395 | 1-g: runsasta (N) | 0.00
+4397 | 1-g: katsoa | 0.00
+4398 | 2-g: , jopa (N) | 0.00
+4399 | 2-g: tämä tarkoittaa (N) | 0.00
+4371 | 1-g: oikeastaan | 0.00
+4400 | 1-g: elimistössä (N) | 0.00
+4342 | 2-g: lapsi olla | 0.00
+4339 | 3-g: , että kun | 0.00
+4293 | 1-g: kaikkiaan (N) | 0.00
+4295 | 2-g: ¤ NUM (N) | 0.00
+4296 | 1-g: ylimääräinen | 0.00
+4297 | 1-g: mansikka | 0.00
+4298 | 3-g: , että ravinto | 0.00
+4299 | 1-g: keskittyä | 0.00
+4300 | 1-g: länsimaa | 0.00
+4302 | 1-g: ensisijaisesti | 0.00
+4303 | 1-g: hapettua | 0.00
+4304 | 2-g: on ollut (N) | 0.00
+4306 | 2-g: . sitten | 0.00
+4307 | 2-g: ruoka-aine olla | 0.00
+4308 | 2-g: . suositella | 0.00
+4309 | 1-g: omega-3 (N) | 0.00
+4341 | 1-g: tarkemmin | 0.00
+4310 | 2-g: sairaus ja | 0.00
+4312 | 1-g: kulutus | 0.00
+4314 | 1-g: puhjeta | 0.00
+4315 | 1-g: d-vitamiinia (N) | 0.00
+4316 | 2-g: sairaus , | 0.00
+4318 | 1-g: verrattuna (N) | 0.00
+4319 | 2-g: vain pieni | 0.00
+4322 | 2-g: ruoka sisältää | 0.00
+4323 | 2-g: nauttia olla | 0.00
+4324 | 1-g: määrän (N) | 0.00
+4328 | 1-g: natriumkloridi | 0.00
+4332 | 2-g: olla helposti | 0.00
+4334 | 3-g: PUNCT VERB PRON (N) | 0.00
+4336 | 2-g: ennen kuin (N) | 0.00
+4338 | 2-g: sokeri . | 0.00
+4311 | 1-g: kokeilu | 0.00
+4284 | 1-g: hiilihydraattia (N) | 0.00
+4401 | 1-g: huonosti | 0.00
+4408 | 1-g: happo | 0.00
+4476 | 2-g: stressi . | 0.00
+4477 | 1-g: tarkkaan (N) | 0.00
+4478 | 3-g: PUNCT VERB CONJ (N) | 0.00
+4480 | 1-g: mielipide | 0.00
+4485 | 2-g: olla apu | 0.00
+4488 | 3-g: mies ja nainen | 0.00
+4490 | 3-g: VERB SCONJ PROPN (N) | 0.00
+4492 | 1-g: kasvisruokavalio | 0.00
+4494 | 3-g: PUNCT PROPN PROPN (N) | 0.00
+4495 | 2-g: olla melko | 0.00
+4499 | 1-g: kunnossa | 0.00
+4500 | 3-g: se voida olla | 0.00
+4501 | 3-g: VERB PROPN PROPN (N) | 0.00
+4509 | 3-g: ADJ NOUN CONJ (N) | 0.00
+4474 | 1-g: kolmeen (N) | 0.00
+4514 | 3-g: . ¤ tutkimus | 0.00
+4519 | 2-g: on parasta (N) | 0.00
+4520 | 2-g: olla joko | 0.00
+4521 | 2-g: CARD_NUMBER µg | 0.00
+4524 | 3-g: PUNCT PRON ADV (N) | 0.00
+4529 | 3-g: PUNCT ¤ CONJ (N) | 0.00
+4530 | 1-g: vaarallisuus | 0.00
+4531 | 1-g: napostella | 0.00
+4532 | 2-g: olla sinä | 0.00
+4533 | 1-g: turvota | 0.00
+4537 | 3-g: PRON VERB AUX (N) | 0.00
+4539 | 2-g: tavoite olla | 0.00
+4543 | 2-g: . alkoholi | 0.00
+4547 | 2-g: olla yksi | 0.00
+4548 | 3-g: PUNCT NOUN VERB (N) | 0.00
+4517 | 2-g: . tulos | 0.00
+4407 | 1-g: pakastaa | 0.00
+4473 | 1-g: syyskuu | 0.00
+4471 | 2-g: pehmeä rasva | 0.00
+4409 | 1-g: suomessa (N) | 0.00
+4410 | 2-g: kasvis . | 0.00
+4411 | 1-g: toiseen (N) | 0.00
+4413 | 2-g: määrä ei | 0.00
+4414 | 1-g: painokilo | 0.00
+4415 | 1-g: kalaöljy (N) | 0.00
+4417 | 1-g: tavalla (N) | 0.00
+4420 | 1-g: kuitenkaan | 0.00
+4421 | 3-g: . ¤ 1. | 0.00
+4422 | 1-g: ystävä | 0.00
+4423 | 1-g: tankata | 0.00
+4424 | 2-g: kahvi , | 0.00
+4430 | 1-g: rasvakudos | 0.00
+4434 | 3-g: , joka sisältää | 0.00
+4472 | 3-g: VERB PUNCT ¤ (N) | 0.00
+4435 | 1-g: migreenikohtaus | 0.00
+4437 | 1-g: aiheuttamia (N) | 0.00
+4439 | 2-g: , tulla | 0.00
+4442 | 2-g: fosfori saanti | 0.00
+4444 | digit | 0.00
+4445 | 2-g: riskitekijä . | 0.00
+4446 | 3-g: käyttö . ¤ | 0.00
+4448 | 1-g: minimoida | 0.00
+4452 | 3-g: NOUN NUM SYM (N) | 0.00
+4454 | 1-g: syöpävaarallinen | 0.00
+4456 | 3-g: NOUN ADP ADV (N) | 0.00
+4458 | 3-g: CONJ VERB ADJ (N) | 0.00
+4459 | 1-g: diagnoosi | 0.00
+4461 | 2-g: pitkä tähtäin | 0.00
+4462 | 1-g: säilyvyys | 0.00
+4436 | 2-g: olla hän | 0.00
+4283 | 2-g: paljon , | 0.00
+4282 | 2-g: suuri riski | 0.00
+4281 | 1-g: berberi | 0.00
+4092 | 3-g: VERB AUX VERB (N) | 0.00
+4093 | 1-g: ravitsemustieteilijä | 0.00
+4095 | 1-g: happamuudensäätöaine | 0.00
+4096 | 1-g: kehoon (N) | 0.00
+4099 | 2-g: professori_tag mies_tag (N) | 0.00
+4100 | 1-g: yläraja | 0.00
+4101 | 2-g: jo pitkään | 0.00
+4102 | 2-g: osa suomalainen | 0.00
+4104 | 1-g: suomalaiset (N) | 0.00
+4106 | 3-g: PUNCT INTJ PUNCT (N) | 0.00
+4107 | 3-g: . se sijaan | 0.00
+4109 | 1-g: puolet (N) | 0.00
+4110 | 3-g: asia , joka | 0.00
+4111 | 1-g: ulkomainen | 0.00
+4091 | 1-g: syöpälääkäri | 0.00
+4113 | 1-g: pitkäketju | 0.00
+4115 | 3-g: SYM PUNCT AUX (N) | 0.00
+4117 | 3-g: ¤ INTJ PUNCT (N) | 0.00
+4122 | 3-g: ADV NOUN ADP (N) | 0.00
+4123 | 1-g: elämäntapa | 0.00
+4124 | 3-g: X PUNCT PROPN (N) | 0.00
+4125 | 2-g: ja kuitu | 0.00
+4126 | 2-g: kaikki se | 0.00
+4127 | 3-g: VERB ADV PRON (N) | 0.00
+4131 | 3-g: NOUN ADP NOUN (N) | 0.00
+4132 | 3-g: ¤ NOUN PUNCT (N) | 0.00
+4135 | 3-g: ADV PROPN AUX (N) | 0.00
+4137 | 2-g: . omena | 0.00
+4138 | 2-g: liikunta ja | 0.00
+4140 | 1-g: ruokavaliossa (N) | 0.00
+4114 | 2-g: myös se | 0.00
+4142 | 1-g: keskimäärin (N) | 0.00
+4090 | 1-g: melatoniini (N) | 0.00
+4079 | 2-g: ja vihannes | 0.00
+4017 | 3-g: , kala ja | 0.00
+4020 | 2-g: margariini , | 0.00
+4021 | 3-g: olla todeta olla | 0.00
+4024 | 1-g: harjoitus | 0.00
+4026 | 1-g: luonnollisesti (N) | 0.00
+4029 | 1-g: juurekset (N) | 0.00
+4030 | 1-g: käytetään (N) | 0.00
+4033 | 1-g: liittyy (N) | 0.00
+4035 | 1-g: hylly | 0.00
+4040 | 2-g: . mitokondrio | 0.00
+4041 | 3-g: VERB PROPN NOUN (N) | 0.00
+4042 | 2-g: . dvitamiini | 0.00
+4043 | 2-g: vain noin | 0.00
+4045 | 3-g: , ei se | 0.00
+4085 | 2-g: CARD_NUMBER mg | 0.00
+4048 | 2-g: tutkimus ja | 0.00
+4052 | 2-g: . rasva | 0.00
+4057 | 1-g: syöpätauti | 0.00
+4060 | 1-g: ruokavalion (N) | 0.00
+4062 | 2-g: , saada | 0.00
+4065 | 2-g: pieni annos | 0.00
+4066 | 2-g: olla tarpeen | 0.00
+4067 | 1-g: nykyisin (N) | 0.00
+4069 | 1-g: ristiriitainen | 0.00
+4070 | 3-g: VERB PRON NOUN (N) | 0.00
+4071 | 2-g: tuote_tag olla | 0.00
+4074 | 3-g: SCONJ NOUN VERB (N) | 0.00
+4075 | 1-g: kuulua | 0.00
+4076 | 2-g: häiriö , | 0.00
+4078 | 3-g: mutta se voida | 0.00
+4051 | 3-g: PUNCT ADV ADV (N) | 0.00
+4146 | 3-g: VERB ADJ CONJ (N) | 0.00
+4147 | 2-g: antioksidantti . | 0.00
+4149 | 2-g: . käytäntö | 0.00
+4222 | 3-g: ADV ADV CONJ (N) | 0.00
+4223 | 2-g: kaikki muu | 0.00
+4225 | 2-g: terveellinen ruokavalio (N) | 0.00
+4226 | 3-g: rasva , joka | 0.00
+4228 | 2-g: kananmunien syönti (N) | 0.00
+4229 | 2-g: nainen_tag todeta | 0.00
+4230 | 3-g: hedelmä ja vihannes | 0.00
+4233 | 2-g: saada tarpeeksi | 0.00
+4234 | 2-g: joten ei | 0.00
+4235 | 2-g: makeutusaine , | 0.00
+4236 | 3-g: ¤ PROPN PROPN (N) | 0.00
+4237 | 1-g: kollageeni | 0.00
+4241 | 3-g: kuitenkin , että (N) | 0.00
+4243 | 2-g: myös muu | 0.00
+4221 | 2-g: . silti | 0.00
+4246 | 2-g: olla vähän | 0.00
+4251 | 1-g: kylläinen | 0.00
+4254 | 2-g: olla sama | 0.00
+4256 | 2-g: kanta hyvä | 0.00
+4257 | 1-g: välttämään (N) | 0.00
+4261 | 2-g: tausta olla | 0.00
+4264 | 2-g: olla peräisin | 0.00
+4265 | 2-g: suuntaan . (N) | 0.00
+4268 | 3-g: , marja ja | 0.00
+4269 | 2-g: haitta olla | 0.00
+4270 | 1-g: normaalisti | 0.00
+4271 | 1-g: kuitupitoinen | 0.00
+4272 | 1-g: laakari_tag | 0.00
+4274 | 1-g: sekoitus | 0.00
+4279 | 1-g: kuitujen (N) | 0.00
+4248 | 3-g: myös se , | 0.00
+4213 | 1-g: ravinnon (N) | 0.00
+4212 | 1-g: rasvaarvo | 0.00
+4211 | 1-g: paastota | 0.00
+4151 | 2-g: tauti olla | 0.00
+4152 | 2-g: sisältää CARD_NUMBER | 0.00
+4155 | 1-g: tehoaa (N) | 0.00
+4157 | 2-g: ongelma olla | 0.00
+4158 | 3-g: PUNCT CONJ ADJ (N) | 0.00
+4163 | 1-g: tavoite | 0.00
+4164 | 1-g: paljastaa | 0.00
+4165 | 2-g: kukaan ei | 0.00
+4169 | 2-g: tietää , | 0.00
+4170 | 3-g: SCONJ NOUN AUX (N) | 0.00
+4171 | 1-g: mainostaa | 0.00
+4174 | 2-g: kannattaa syödä | 0.00
+4179 | 2-g: noin puolet (N) | 0.00
+4183 | 2-g: olla esimerkiksi | 0.00
+4184 | 2-g: CARD_NUMBER mies | 0.00
+4185 | 1-g: ainakin (N) | 0.00
+4187 | 1-g: kaupallinen | 0.00
+4208 | 2-g: merkitys , | 0.00
+4206 | 1-g: täydellinen | 0.00
+4205 | 2-g: syödä ja | 0.00
+4202 | 2-g: kanssa , (N) | 0.00
+4201 | 2-g: olla vaikutus | 0.00
+4199 | 3-g: ¤ PRON NOUN (N) | 0.00
+4552 | 2-g: olla mukana | 0.00
+4198 | 2-g: pitää olla | 0.00
+4195 | 3-g: ADJ CONJ AUX (N) | 0.00
+4193 | 2-g: . nykyään | 0.00
+4192 | 1-g: muistisairauksien (N) | 0.00
+4191 | 1-g: osallistuja | 0.00
+4189 | 2-g: muu sairaus | 0.00
+4188 | 1-g: ilmestyä | 0.00
+4197 | 3-g: . ¤ toinen | 0.00
+5153 | 2-g: vaikutus veri | 0.00
+4554 | 2-g: jokin muu | 0.00
+4559 | 2-g: ja leipä | 0.00
+4933 | 2-g: joka löytyä | 0.00
+4937 | 2-g: olla huomattavasti | 0.00
+4938 | 2-g: elämäntapa . | 0.00
+4941 | 1-g: laktoosi | 0.00
+4942 | 2-g: , mikäli | 0.00
+4947 | 2-g: olla koko | 0.00
+4948 | 1-g: houkutella | 0.00
+4949 | 2-g: , proteiini | 0.00
+4953 | 1-g: vahvistua | 0.00
+4955 | 2-g: valmiste . | 0.00
+4962 | 2-g: uusi tutkimus | 0.00
+4963 | 1-g: katsaus | 0.00
+4966 | 1-g: ihmisen (N) | 0.00
+4967 | 2-g: , jotta | 0.00
+4931 | 3-g: VERB SCONJ VERB (N) | 0.00
+4968 | 2-g: lisäaine . | 0.00
+4970 | 2-g: kylläisyys tunne | 0.00
+4974 | 1-g: valtaosa | 0.00
+4975 | 2-g: ja jokin | 0.00
+4977 | 2-g: verisuonitauti ja | 0.00
+4978 | 1-g: sairas | 0.00
+4979 | 1-g: lakritsiuute | 0.00
+4980 | 2-g: hän mukaan | 0.00
+4982 | 1-g: julkisuus | 0.00
+4983 | 1-g: ravitsemuksellinen | 0.00
+4984 | 2-g: on täysin (N) | 0.00
+4989 | 2-g: voida myös | 0.00
+4991 | 3-g: VERB ¤ ADJ (N) | 0.00
+4992 | 3-g: NOUN PUNCT ADJ (N) | 0.00
+4994 | 2-g: terve . | 0.00
+4969 | 2-g: ruokavalio ei | 0.00
+4997 | 2-g: on tullut (N) | 0.00
+4925 | 3-g: ADJ PROPN VERB (N) | 0.00
+4923 | 2-g: rasva ei | 0.00
+4848 | 1-g: säätely | 0.00
+4853 | 1-g: hyvälaatuinen | 0.00
+4854 | 2-g: kananmuna syönti | 0.00
+4855 | 2-g: ja metabolinen | 0.00
+4856 | 3-g: VERB PRON AUX (N) | 0.00
+4857 | 1-g: toistaiseksi | 0.00
+4859 | 1-g: raportti | 0.00
+4860 | 1-g: tehokas | 0.00
+4864 | 1-g: neuvo | 0.00
+4866 | 1-g: sikiö | 0.00
+4868 | 2-g: suuri annos | 0.00
+4870 | 2-g: ei riittää | 0.00
+4877 | 2-g: treeni jälkeen | 0.00
+4881 | 2-g: maissi ja | 0.00
+4924 | 2-g: terveysriski . | 0.00
+4882 | 2-g: mukaan CARD_NUMBER | 0.00
+4889 | 1-g: joukossa (N) | 0.00
+4890 | 1-g: kakkostyypin (N) | 0.00
+4891 | 2-g: tärkeä , | 0.00
+4894 | 1-g: kouluikäinen | 0.00
+4896 | 2-g: näyttää olla | 0.00
+4898 | 2-g: tämä artikkeli | 0.00
+4899 | 2-g: olla muu | 0.00
+4903 | 2-g: vuosi aika | 0.00
+4904 | 1-g: kasviperäinen | 0.00
+4907 | 2-g: olla mitata | 0.00
+4908 | 2-g: , millainen | 0.00
+4913 | 2-g: päivä ja | 0.00
+4916 | 1-g: etenkin (N) | 0.00
+4921 | 2-g: saanti ei | 0.00
+4885 | 2-g: . tämän (N) | 0.00
+4846 | 2-g: mikään . | 0.00
+4998 | 2-g: yksi annos | 0.00
+5000 | 1-g: valtava | 0.00
+5069 | 2-g: lisätä syöpäriski | 0.00
+5072 | 3-g: vuosi aika . | 0.00
+5075 | 1-g: automaattisesti | 0.00
+5077 | 3-g: PUNCT ADP ADJ (N) | 0.00
+5082 | 3-g: SCONJ ADJ NOUN (N) | 0.00
+5083 | 2-g: tärkeä osa | 0.00
+5091 | 1-g: kivennäisaineiden (N) | 0.00
+5092 | 2-g: rakennusaine . | 0.00
+5093 | 1-g: solukalvo | 0.00
+5094 | 3-g: NOUN SYM PRON (N) | 0.00
+5102 | 1-g: parsakaali | 0.00
+5103 | 1-g: tarjota | 0.00
+5106 | 2-g: dvitamiini , | 0.00
+5109 | 1-g: kokonaisvaltainen | 0.00
+5068 | 2-g: ei suositella | 0.00
+5111 | 1-g: viesti | 0.00
+5114 | 2-g: lihas , | 0.00
+5116 | 3-g: ADV VERB SCONJ (N) | 0.00
+5118 | 3-g: NUM SYM ADP (N) | 0.00
+5125 | 1-g: määriä (N) | 0.00
+5126 | 2-g: , ellei (N) | 0.00
+5128 | 2-g: vain muutama | 0.00
+5133 | 1-g: tavallisesta (N) | 0.00
+5134 | 3-g: PUNCT ADJ NOUN (N) | 0.00
+5136 | 2-g: . ongelma | 0.00
+5140 | 2-g: olla muuten | 0.00
+5143 | 2-g: . ennen (N) | 0.00
+5146 | 2-g: . muutos | 0.00
+5147 | 3-g: NOUN NOUN CONJ (N) | 0.00
+5148 | 2-g: kun taas | 0.00
+5113 | 2-g: olla yli | 0.00
+4999 | 1-g: mahalaukku | 0.00
+5065 | 2-g: ehkäisy . | 0.00
+5060 | 3-g: CONJ NOUN ADJ (N) | 0.00
+5001 | 3-g: . ¤ kaikki | 0.00
+5003 | 2-g: sitten se | 0.00
+5004 | 1-g: viljellä | 0.00
+5005 | 1-g: triglyseridejä (N) | 0.00
+5008 | 2-g: takia . | 0.00
+5015 | 3-g: PUNCT ¤ SCONJ (N) | 0.00
+5017 | 2-g: hyvinvointi . | 0.00
+5019 | 3-g: . ¤ liian | 0.00
+5020 | 2-g: hiilihydraatti ja | 0.00
+5023 | 2-g: hunaja ja | 0.00
+5024 | 1-g: jääkaapin (N) | 0.00
+5025 | 1-g: järjestelmä (N) | 0.00
+6319 | 1-g: geeneistä (N) | 0.00
+5027 | 1-g: toisinaan | 0.00
+5063 | 2-g: kakkostyypin diabeteksen (N) | 0.00
+5029 | 1-g: kalsiumia (N) | 0.00
+5033 | 3-g: ADV ADV NUM (N) | 0.00
+5034 | 1-g: tuotteen (N) | 0.00
+5036 | 1-g: eläinrasva | 0.00
+5037 | 3-g: ADJ VERB ¤ (N) | 0.00
+5038 | 1-g: syksy | 0.00
+5041 | 1-g: kaseiini | 0.00
+5043 | 1-g: positiivinen | 0.00
+5047 | 2-g: haitallinen . | 0.00
+5048 | 1-g: tulehduksellinen | 0.00
+5050 | 1-g: eläinrasvat (N) | 0.00
+5052 | 2-g: keho ja | 0.00
+5053 | 3-g: , kala , | 0.00
+5055 | 1-g: terveysvaikutukset (N) | 0.00
+5059 | 3-g: tarkoittaa se , | 0.00
+5030 | 1-g: tapahtua | 0.00
+4843 | 3-g: ADV PROPN NOUN (N) | 0.00
+4842 | 1-g: verenpainetta (N) | 0.00
+4841 | 2-g: moni muu | 0.00
+4630 | 2-g: ¤ runsaasti | 0.00
+4634 | 2-g: leipä , | 0.00
+4636 | 2-g: olla kysymys | 0.00
+4637 | 2-g: . korkea | 0.00
+4638 | 1-g: suoliston (N) | 0.00
+4642 | 2-g: tutkimus havaita | 0.00
+4644 | 2-g: olla vaarallinen | 0.00
+4646 | 1-g: sairauksia (N) | 0.00
+4648 | 3-g: rasva . ¤ | 0.00
+4650 | 2-g: tämä hetki | 0.00
+4656 | 1-g: laihduttaa | 0.00
+4658 | 3-g: se , mikä | 0.00
+4659 | 1-g: karpalo | 0.00
+4660 | 3-g: , pähkinä , | 0.00
+4629 | 1-g: askel | 0.00
+4661 | 2-g: eri tapa | 0.00
+4667 | 1-g: esimerkki | 0.00
+4668 | 1-g: sallittu | 0.00
+4675 | 2-g: ruokavalion ja (N) | 0.00
+4676 | 3-g: NOUN ADV NUM (N) | 0.00
+4679 | 2-g: olla erinomainen | 0.00
+4680 | 1-g: alentavat (N) | 0.00
+4682 | 2-g: sydän ja | 0.00
+4684 | 1-g: rasvamaksa (N) | 0.00
+4685 | 1-g: meta-analyysissä | 0.00
+4689 | 1-g: muistisairaus | 0.00
+4690 | 2-g: voida käyttää | 0.00
+4691 | 2-g: vähäinen . | 0.00
+4692 | 1-g: ilmeisesti | 0.00
+4696 | 3-g: siihen , että (N) | 0.00
+4662 | 3-g: , joka mukaan | 0.00
+4697 | 1-g: tärkkelys | 0.00
+4627 | 2-g: taso . | 0.00
+4624 | 2-g: proteiini tarve | 0.00
+4562 | 2-g: , syödä | 0.00
+4563 | 1-g: elämän (N) | 0.00
+4565 | 2-g: rasvoja , (N) | 0.00
+4567 | 2-g: marja , | 0.00
+4569 | 2-g: hyvä kuin | 0.00
+4570 | 3-g: . ¤ 6. | 0.00
+4571 | 1-g: salmiakki | 0.00
+4572 | 1-g: kasvot | 0.00
+4575 | 1-g: arvioida | 0.00
+4577 | 2-g: että runsas | 0.00
+4578 | 3-g: PROPN ADP VERB (N) | 0.00
+4580 | 1-g: kokeellinen | 0.00
+4585 | 1-g: vaikkapa | 0.00
+4586 | 2-g: julkaisu_tag . | 0.00
+4626 | 2-g: prosessoida ruoka | 0.00
+4587 | 3-g: ADJ PUNCT PUNCT (N) | 0.00
+4589 | 2-g: olla kyllä | 0.00
+4591 | 2-g: ettei se | 0.00
+4592 | 2-g: ruoka ei | 0.00
+4596 | 3-g: PUNCT CONJ SCONJ (N) | 0.00
+4597 | 1-g: flavonoidi | 0.00
+4600 | 3-g: PUNCT SCONJ SCONJ (N) | 0.00
+4607 | 1-g: olennainen | 0.00
+4609 | 3-g: tutkimus olla osoittaa | 0.00
+4610 | 1-g: broileri | 0.00
+4612 | 1-g: seinämä | 0.00
+4613 | 1-g: oikeassa | 0.00
+4616 | 1-g: suotuisa | 0.00
+4619 | 2-g: VERB ADP (N) | 0.00
+4623 | 3-g: INTJ PRON VERB (N) | 0.00
+4588 | 2-g: suomi , | 0.00
+4699 | 3-g: PUNCT SCONJ PRON (N) | 0.00
+4700 | 3-g: siitä , että (N) | 0.00
+4705 | 3-g: PROPN CONJ VERB (N) | 0.00
+4774 | 2-g: lapsi saada | 0.00
+4777 | 3-g: tutkimus , joka | 0.00
+4779 | 1-g: treenata | 0.00
+4784 | 1-g: entisestään | 0.00
+4786 | 3-g: . ¤ asiantuntija | 0.00
+4787 | 3-g: , papu , | 0.00
+4788 | 3-g: CONJ NOUN AUX (N) | 0.00
+4789 | 3-g: NOUN PROPN ADP (N) | 0.00
+4790 | 1-g: todettu (N) | 0.00
+4791 | 3-g: NOUN ¤ ADV (N) | 0.00
+4794 | 3-g: SCONJ PRON NOUN (N) | 0.00
+4796 | 2-g: virallinen suositus | 0.00
+4797 | 2-g: vaihe , | 0.00
+4803 | 1-g: vasikka | 0.00
+4772 | 1-g: päteä | 0.00
+4805 | 1-g: rakenteen (N) | 0.00
+4811 | 1-g: muutoin | 0.00
+4813 | 2-g: ja hyvinvointi | 0.00
+4817 | 2-g: nopeasti . | 0.00
+4818 | 2-g: tutkimus osallistua | 0.00
+4821 | 1-g: potilailla (N) | 0.00
+4824 | 2-g: rasva saanti | 0.00
+4825 | 3-g: PUNCT PRON SCONJ (N) | 0.00
+4826 | 1-g: joillain (N) | 0.00
+4829 | 2-g: rasvainen ruoka | 0.00
+4831 | 3-g: . ¤ tutkimuksessa (N) | 0.00
+4834 | 1-g: kasvirasva | 0.00
+4835 | 1-g: päinvastoin | 0.00
+4836 | 1-g: kaikkiin (N) | 0.00
+4840 | 1-g: tapauksessa (N) | 0.00
+4806 | 2-g: stressi ja | 0.00
+4771 | 2-g: että jos | 0.00
+4770 | 2-g: ei ainakaan | 0.00
+4768 | 2-g: saatavilla . (N) | 0.00
+4707 | 1-g: monipuolisuus | 0.00
+4710 | 2-g: kuitenkin olla | 0.00
+4711 | 1-g: puriini | 0.00
+4713 | 3-g: ¤ NOUN AUX (N) | 0.00
+4714 | 2-g: ¤ aivot | 0.00
+4716 | 1-g: hyödyntää | 0.00
+4718 | 1-g: riippua | 0.00
+4720 | 3-g: , mutta se | 0.00
+4721 | 2-g: tutkija mukaan | 0.00
+4722 | 1-g: onnistua | 0.00
+4726 | 1-g: minkälainen | 0.00
+4727 | 1-g: vähitellen | 0.00
+4729 | 1-g: luuydin | 0.00
+4731 | 1-g: pizza | 0.00
+4734 | 3-g: CONJ NOUN ADV (N) | 0.00
+4735 | 1-g: meidän (N) | 0.00
+4738 | 2-g: virasto_tag . (N) | 0.00
+4766 | 2-g: virasto_tag olla | 0.00
+4763 | 2-g: olla tarkka | 0.00
+4762 | 1-g: luomuruoka | 0.00
+4760 | 1-g: tiettyjä (N) | 0.00
+4757 | 1-g: pikkuhiljaa (N) | 0.00
+4756 | 3-g: ¤ CONJ VERB (N) | 0.00
+4556 | 1-g: proteiinia (N) | 0.00
+4755 | 2-g: olla löytää | 0.00
+4748 | 1-g: osallistua | 0.00
+4747 | 2-g: ja hammas | 0.00
+4745 | 1-g: myöntää | 0.00
+4744 | 1-g: rasvoittua | 0.00
+4743 | 3-g: PROPN ADJ NOUN (N) | 0.00
+4740 | 2-g: suuri . | 0.00
+4749 | 2-g: ja niin | 0.00
+6325 | 2-g: ja vilja | 0.00
+6446 | 2-g: bakteeri . | 0.00
+6329 | 2-g: moni sairaus | 0.00
+7986 | 1-g: maidossa (N) | 0.00
+7988 | 2-g: huomio . | 0.00
+7989 | 1-g: pitkäaikainen | 0.00
+7991 | 3-g: siten , että | 0.00
+7993 | 1-g: stimuloida | 0.00
+7999 | 3-g: tutkimus . ¤ | 0.00
+8002 | 2-g: tieteellinen näyttö | 0.00
+8005 | 2-g: juuri olla | 0.00
+8009 | 1-g: ylipainoinen | 0.00
+8012 | 3-g: ¤ mies_tag mukaan | 0.00
+8013 | 3-g: NOUN AUX ADJ (N) | 0.00
+8019 | 1-g: omaksua | 0.00
+8021 | 3-g: PUNCT ADJ ADV (N) | 0.00
+8022 | 1-g: interventio | 0.00
+7985 | 1-g: tarkasti | 0.00
+8030 | 1-g: syöpäsolu | 0.00
+8035 | 2-g: monipuolinen ruokavalio | 0.00
+8037 | 1-g: positiivisia (N) | 0.00
+8040 | 3-g: NOUN ADV SCONJ (N) | 0.00
+8041 | 2-g: näin ollen (N) | 0.00
+8047 | 2-g: olla toinen | 0.00
+8048 | 1-g: ravitsemustila | 0.00
+8049 | 3-g: PROPN ADP NUM (N) | 0.00
+8050 | 2-g: taustalla on (N) | 0.00
+8051 | 2-g: sinkki ja | 0.00
+8053 | 1-g: pitkäkestoinen | 0.00
+8055 | 2-g: ravinto saada | 0.00
+8056 | 2-g: olla keskeinen | 0.00
+8059 | 3-g: SCONJ CONJ NOUN (N) | 0.00
+8061 | 1-g: tässäkin (N) | 0.00
+8034 | 1-g: haitalliset (N) | 0.00
+8071 | 2-g: saada tämä | 0.00
+7979 | 3-g: . minä olla | 0.00
+7972 | 2-g: vähetä , | 0.00
+7913 | 3-g: NOUN PROPN AUX (N) | 0.00
+7914 | 2-g: paksusuoli syöpä | 0.00
+7915 | 1-g: aurinko | 0.00
+7916 | 1-g: syöpiin (N) | 0.00
+7917 | 2-g: paino , | 0.00
+7918 | 2-g: olla ? | 0.00
+7919 | 1-g: porkkanat (N) | 0.00
+7921 | 1-g: minuutti | 0.00
+7922 | 3-g: sokeri . ¤ | 0.00
+7925 | 3-g: sama tapa kuin | 0.00
+7928 | 1-g: selvitys | 0.00
+7930 | 1-g: markkinat | 0.00
+7935 | 1-g: verisuonisairaus | 0.00
+7936 | 1-g: huonot (N) | 0.00
+7973 | 2-g: proteiini olla | 0.00
+7939 | 1-g: pähkinät (N) | 0.00
+7942 | 2-g: CONJ AUX (N) | 0.00
+7947 | 1-g: soijapapu | 0.00
+7951 | 2-g: kolesteroli ja | 0.00
+7953 | 1-g: tärkeitä (N) | 0.00
+7954 | 2-g: myös hyvin (N) | 0.00
+7956 | 2-g: tyyppi CARD_NUMBER | 0.00
+7957 | 1-g: vakuuttava | 0.00
+7959 | 2-g: olla osa | 0.00
+7960 | 2-g: tämä vuoksi | 0.00
+7961 | 2-g: allergia ja | 0.00
+7962 | 3-g: nettisivu_tag . ¤ (N) | 0.00
+7963 | 1-g: julkaistu (N) | 0.00
+7964 | 2-g: terveys edistää | 0.00
+7970 | 3-g: PUNCT ADV ADJ (N) | 0.00
+7940 | 1-g: myrkyllinen | 0.00
+7912 | 2-g: vehnä , | 0.00
+8072 | 3-g: , että ihminen | 0.00
+8075 | 2-g: kuinka paljon | 0.00
+8160 | 1-g: miljardi | 0.00
+8163 | 2-g: itse asia | 0.00
+8165 | 3-g: ei siis olla | 0.00
+8166 | 1-g: unettomuus | 0.00
+8170 | 1-g: kallis | 0.00
+8171 | 1-g: edullisia (N) | 0.00
+8173 | 1-g: toimintakyky | 0.00
+8180 | 1-g: insuliiniresistenssi | 0.00
+8182 | 2-g: saanti ja | 0.00
+8186 | 3-g: PUNCT NUM CONJ (N) | 0.00
+8190 | 3-g: tietää , mikä | 0.00
+8195 | 2-g: CARD_NUMBER euro | 0.00
+8196 | 3-g: CONJ PROPN VERB (N) | 0.00
+8197 | 3-g: SCONJ VERB ADJ (N) | 0.00
+8158 | 2-g: ja pehmeä | 0.00
+8201 | 3-g: PUNCT NOUN SYM (N) | 0.00
+8210 | 1-g: turvallisuus | 0.00
+8212 | 2-g: alkaa . | 0.00
+8214 | 3-g: CARD_NUMBER gramma . | 0.00
+8215 | 2-g: olla lisäksi | 0.00
+8216 | 3-g: . ¤ 2. | 0.00
+8218 | 2-g: papu , | 0.00
+8223 | 1-g: ruoansulatus | 0.00
+8224 | 3-g: ruokavalio , joka | 0.00
+8225 | 1-g: energiajuoma | 0.00
+8226 | 3-g: VERB CONJ ADJ (N) | 0.00
+8227 | 1-g: sardiini | 0.00
+8228 | 1-g: pitkälti | 0.00
+8231 | 1-g: kiinni | 0.00
+8235 | 2-g: tavallinen , | 0.00
+8206 | 3-g: VERB PUNCT PUNCT (N) | 0.00
+8073 | 1-g: melkein | 0.00
+8155 | 2-g: suomi olla | 0.00
+8151 | 1-g: tomaatteja (N) | 0.00
+8079 | 3-g: . ¤ hyvä | 0.00
+8081 | 2-g: olla paha | 0.00
+8084 | 2-g: ja jogurtti | 0.00
+8091 | 2-g: riski sairastua | 0.00
+8092 | 2-g: virasto_tag mukaan | 0.00
+8094 | 1-g: yksinkertainen | 0.00
+8099 | 2-g: jogurtti , | 0.00
+8100 | 2-g: haitallinen , | 0.00
+8101 | 2-g: pitää huoli | 0.00
+8102 | 1-g: kokonainen | 0.00
+8104 | 3-g: , vitamiini ja | 0.00
+8107 | 2-g: siemen olla | 0.00
+8115 | 2-g: kalaa , (N) | 0.00
+8117 | 1-g: väsynyt | 0.00
+8154 | 3-g: VERB ADP NOUN (N) | 0.00
+8119 | 1-g: työskennellä | 0.00
+8124 | 1-g: onnistunut | 0.00
+8125 | 3-g: sillä se olla | 0.00
+8126 | 1-g: reagoida | 0.00
+8131 | 1-g: lakritsi | 0.00
+8133 | 2-g: . terveys | 0.00
+8134 | 2-g: olla käytäntö | 0.00
+8136 | 2-g: olla täysin | 0.00
+8138 | 1-g: monesti | 0.00
+8140 | 2-g: , elimistö | 0.00
+8146 | 2-g: tämä asia | 0.00
+8147 | 1-g: tietenkään | 0.00
+8148 | 2-g: mukana . (N) | 0.00
+8149 | 2-g: nopeasti imeytyä | 0.00
+8150 | 2-g: määrä olla | 0.00
+8121 | 3-g: CONJ ADJ NOUN (N) | 0.00
+7911 | 2-g: vesi ja | 0.00
+7907 | 1-g: korkean (N) | 0.00
+7905 | 1-g: energiasaanti | 0.00
+7678 | 2-g: olla paljon | 0.00
+7679 | 2-g: olla nainen | 0.00
+7680 | 1-g: yöuni | 0.00
+7681 | 1-g: raffinoida | 0.00
+7683 | 1-g: ravintoarvo | 0.00
+7685 | 1-g: alkoi (N) | 0.00
+7687 | 2-g: tämä johtua | 0.00
+7692 | 1-g: muodostaa (N) | 0.00
+7693 | 2-g: ja hedelmät (N) | 0.00
+7695 | 1-g: laadukas | 0.00
+7696 | 1-g: korjaantua | 0.00
+7699 | 1-g: hedelmällisyys | 0.00
+7701 | 2-g: . ruoan (N) | 0.00
+7704 | 2-g: olla kaikki | 0.00
+7677 | 1-g: torjunta-ainejäämä | 0.00
+7705 | 3-g: ilman , että | 0.00
+7709 | 3-g: PUNCT ADV AUX (N) | 0.00
+7712 | 1-g: enimmäismäärä | 0.00
+7713 | 1-g: vaaraton | 0.00
+7715 | 2-g: ja vesi | 0.00
+7717 | 1-g: luontaistuotekauppa | 0.00
+7718 | 1-g: pärjätä | 0.00
+7727 | 2-g: terveys , | 0.00
+7732 | 1-g: inkiväärin (N) | 0.00
+7733 | 2-g: sellainen , | 0.00
+7734 | 2-g: bakteeri , | 0.00
+7736 | 1-g: puhdas | 0.00
+7738 | 1-g: kansainvälinen | 0.00
+7743 | 3-g: VERB PROPN PUNCT (N) | 0.00
+7745 | 1-g: astmaa (N) | 0.00
+7708 | 2-g: syöminen ja | 0.00
+7750 | 2-g: , peruna | 0.00
+7676 | 1-g: terveydellinen | 0.00
+7671 | 3-g: VERB CONJ NOUN (N) | 0.00
+7587 | 1-g: juurikaan (N) | 0.00
+7594 | 1-g: välttäminen (N) | 0.00
+7603 | 1-g: ruisleipää (N) | 0.00
+7607 | 3-g: ADP PROPN CONJ (N) | 0.00
+7610 | 2-g: ei myöskään | 0.00
+7616 | 2-g: stressi olla | 0.00
+7617 | 3-g: PUNCT PRON AUX (N) | 0.00
+7618 | 3-g: , mies_tag kertoa | 0.00
+7620 | 2-g: voida tehdä | 0.00
+7623 | 1-g: tunnetta (N) | 0.00
+7624 | 2-g: ottaa huomio | 0.00
+7625 | 1-g: parantua | 0.00
+7626 | 2-g: sama tapa | 0.00
+7627 | 1-g: sukupuoli | 0.00
+7672 | 1-g: optimaalinen | 0.00
+7631 | 3-g: NOUN PUNCT ADP (N) | 0.00
+7635 | 1-g: molemmat | 0.00
+7638 | 1-g: kaikenlainen | 0.00
+7639 | 2-g: juusto . | 0.00
+7642 | 2-g: joka aiheuttaa | 0.00
+7646 | 2-g: ravitsemus olla | 0.00
+7650 | 3-g: NOUN AUX NOUN (N) | 0.00
+7653 | 3-g: ¤ ADV PROPN (N) | 0.00
+7660 | 2-g: kolesteroli . | 0.00
+7662 | 2-g: tyydyttynyttä rasvaa (N) | 0.00
+7663 | 1-g: maaperä | 0.00
+7664 | 1-g: korostua | 0.00
+7667 | 2-g: olla itse | 0.00
+7669 | 1-g: koostumus | 0.00
+7670 | 2-g: tai sitten | 0.00
+7632 | 2-g: ruoka ja | 0.00
+7751 | 2-g: tuotanto . | 0.00
+7753 | 1-g: oikein | 0.00
+7755 | 2-g: jarjesto_tag . | 0.00
+7818 | 1-g: siipikarja | 0.00
+7822 | 1-g: suorittaa | 0.00
+7823 | 3-g: NOUN PRON ADP (N) | 0.00
+7829 | 3-g: PUNCT CONJ VERB (N) | 0.00
+7833 | 2-g: kalsiumia ja (N) | 0.00
+7835 | 1-g: varastoida | 0.00
+7836 | 1-g: leivonnainen | 0.00
+7837 | 1-g: lääketeollisuus | 0.00
+7838 | 3-g: ADP ADV PROPN (N) | 0.00
+7839 | 1-g: kehittymistä (N) | 0.00
+7842 | 3-g: NOUN ADJ CONJ (N) | 0.00
+7843 | 2-g: tulehduksellinen suolistosairaus | 0.00
+7846 | 2-g: tuote_tag . | 0.00
+7857 | 1-g: synnyttää | 0.00
+7816 | 3-g: sairaus . ¤ | 0.00
+7859 | 1-g: muuntua | 0.00
+7868 | 3-g: VERB PRON SCONJ (N) | 0.00
+7871 | 1-g: ihmiset (N) | 0.00
+7875 | 1-g: aikuisen (N) | 0.00
+7879 | 2-g: CARD_NUMBER päivä | 0.00
+7880 | 2-g: paljon kuin | 0.00
+7881 | 3-g: PROPN NOUN VERB (N) | 0.00
+7882 | 2-g: suositus . | 0.00
+7883 | 1-g: keski-ikäinen | 0.00
+7885 | 3-g: VERB NOUN SCONJ (N) | 0.00
+7887 | 2-g: ruisleipä . | 0.00
+7889 | 3-g: olla se että | 0.00
+7890 | 1-g: syömisessä (N) | 0.00
+7900 | 1-g: kaiken (N) | 0.00
+7902 | 3-g: CONJ VERB PUNCT (N) | 0.00
+7867 | 3-g: NUM PROPN PROPN (N) | 0.00
+7815 | 3-g: olla mahdollinen , | 0.00
+7811 | 1-g: monipuolisesti | 0.00
+7810 | 3-g: . ¤ omena | 0.00
+7756 | 1-g: ryppy | 0.00
+7757 | 1-g: altis | 0.00
+7759 | 1-g: iäkäs | 0.00
+7760 | 2-g: . eräs | 0.00
+7763 | 2-g: sairaus riski | 0.00
+7765 | 1-g: ravintovalmennus | 0.00
+7767 | 3-g: NOUN NUM PUNCT (N) | 0.00
+7768 | 2-g: CARD_NUMBER kerta | 0.00
+7772 | 2-g: vuosikymmen aika | 0.00
+7775 | 3-g: myös , että | 0.00
+7776 | 2-g: imeytyä ja | 0.00
+7777 | 2-g: elimistö , | 0.00
+7778 | 2-g: olla moni | 0.00
+7779 | 2-g: kunnossa . | 0.00
+7781 | 2-g: ¤ suositus | 0.00
+7782 | 1-g: tutkimuksessa (N) | 0.00
+7784 | 1-g: ruokasulatus | 0.00
+7808 | 1-g: aamupalan (N) | 0.00
+7807 | 1-g: pohjautua | 0.00
+7806 | 2-g: voida nauttia | 0.00
+7804 | 2-g: kannalta . (N) | 0.00
+7803 | 1-g: rintamaito | 0.00
+7801 | 1-g: proteiinipitoinen | 0.00
+8236 | 2-g: olla niin | 0.00
+7800 | 1-g: puutteellinen | 0.00
+7796 | 2-g: ateria , | 0.00
+7794 | 2-g: . muistaa | 0.00
+7789 | 3-g: NOUN PROPN VERB (N) | 0.00
+7787 | 2-g: , joiden (N) | 0.00
+7786 | 2-g: rasva sisältää | 0.00
+7785 | 2-g: henkilö olla | 0.00
+7798 | 2-g: se saattaa | 0.00
+7582 | 2-g: lisäaine olla | 0.00
+8239 | 3-g: " , sanoa | 0.00
+8245 | 2-g: ¤ mustikka | 0.00
+8696 | 1-g: sappihappo | 0.00
+8698 | 3-g: VERB ADV ADP (N) | 0.00
+8699 | 1-g: pellavansiemen | 0.00
+8701 | 2-g: ei kyetä | 0.00
+8707 | 1-g: saksanpähkinä | 0.00
+8713 | 2-g: olla ongelma | 0.00
+8715 | 1-g: englanti | 0.00
+8716 | 2-g: hyöty olla | 0.00
+8717 | 2-g: suositella , | 0.00
+8725 | 1-g: helpottaa | 0.00
+8728 | 2-g: tunne . | 0.00
+8730 | 2-g: ¤ AUX (N) | 0.00
+8731 | 1-g: muttaei | 0.00
+8735 | 1-g: pohjoismainen | 0.00
+8692 | 2-g: ja suola | 0.00
+8737 | 3-g: hoito . ¤ | 0.00
+8739 | 2-g: valmistus . | 0.00
+8741 | 2-g: vain yksi | 0.00
+8748 | 2-g: sisältää ruoka | 0.00
+8751 | 1-g: erinomainen | 0.00
+8753 | 1-g: ylipäätään | 0.00
+8756 | 3-g: ¤ ADV CONJ (N) | 0.00
+8758 | 1-g: kahdesti | 0.00
+8759 | 2-g: että minä | 0.00
+8763 | 1-g: pääosa | 0.00
+8769 | 2-g: olla sairaus | 0.00
+8770 | 2-g: liian suuri | 0.00
+8772 | 1-g: aspartaami | 0.00
+8777 | 2-g: maailma , | 0.00
+8778 | 1-g: satunnainen | 0.00
+8738 | 2-g: / pv | 0.00
+8780 | 1-g: emäksinen | 0.00
+8690 | 1-g: välimeren (N) | 0.00
+8685 | 1-g: geenimuunnella | 0.00
+8613 | 3-g: , että tämä | 0.00
+8614 | 2-g: . ravintolisä | 0.00
+8619 | 2-g: jotka ovat (N) | 0.00
+8623 | 2-g: . kuitenkin | 0.00
+8625 | 2-g: haitallinen bakteeri | 0.00
+8627 | 1-g: viinirypäle | 0.00
+8632 | 1-g: vanhempi | 0.00
+8633 | 3-g: . näin ollen (N) | 0.00
+8635 | 2-g: muutama viikko | 0.00
+8636 | 3-g: VERB VERB SCONJ (N) | 0.00
+8637 | 2-g: rasvainen kala | 0.00
+8639 | 3-g: tutkimus osoittaa , | 0.00
+8640 | 1-g: sairastava | 0.00
+8641 | 1-g: kurkuma | 0.00
+8687 | 2-g: juuri se | 0.00
+8645 | 1-g: hyväksyä | 0.00
+8648 | 2-g: , diabetes | 0.00
+8649 | 2-g: kysymys . | 0.00
+8654 | 3-g: SCONJ PROPN CONJ (N) | 0.00
+8658 | 2-g: syödä enemmän | 0.00
+8659 | 1-g: kynsien (N) | 0.00
+8661 | 2-g: tämä kirjoitus | 0.00
+8662 | 1-g: teollisesti | 0.00
+8664 | 3-g: PUNCT ¤ AUX (N) | 0.00
+8665 | 2-g: ongelma , | 0.00
+8670 | 2-g: , josta (N) | 0.00
+8674 | 1-g: avokado | 0.00
+8676 | 2-g: CARD_NUMBER dl | 0.00
+8682 | 3-g: NOUN SYM NUM (N) | 0.00
+8683 | 2-g: hyvä valinta | 0.00
+8647 | 2-g: mikä lisätä | 0.00
+8608 | 1-g: tasapaino | 0.00
+8782 | 2-g: että ruokavalio | 0.00
+8788 | 1-g: vähentyä | 0.00
+8887 | 3-g: voida olla hyvä | 0.00
+8889 | 1-g: lisäämään (N) | 0.00
+8891 | 2-g: , parantaa | 0.00
+8895 | 1-g: tunnettu | 0.00
+8896 | 2-g: ja kalsium | 0.00
+8900 | 3-g: VERB PROPN ADP (N) | 0.00
+8905 | 3-g: ei ole , (N) | 0.00
+8906 | 3-g: ¤ VERB NOUN (N) | 0.00
+8907 | 2-g: syödä runsaasti | 0.00
+8909 | 1-g: tarkoituksena (N) | 0.00
+8912 | 2-g: syöpäriski . | 0.00
+8914 | 1-g: tavoitella | 0.00
+8917 | 2-g: yhtä paljon | 0.00
+8919 | 2-g: syöpä olla | 0.00
+8886 | 2-g: olla sokeri | 0.00
+8923 | 1-g: jauheliha | 0.00
+8928 | 1-g: ihmetellä | 0.00
+8938 | 2-g: liian vähän | 0.00
+8940 | 2-g: , jogurtti | 0.00
+8941 | 2-g: kärsiä . | 0.00
+8943 | 3-g: olla hyvä olla | 0.00
+8947 | 2-g: pähkinä . | 0.00
+8948 | 3-g: ADJ PRON CONJ (N) | 0.00
+8949 | 1-g: paikallinen | 0.00
+8950 | 1-g: nuoret (N) | 0.00
+8954 | 2-g: tulehdus , | 0.00
+8956 | 1-g: käyttömäärä | 0.00
+8957 | 2-g: rasvahappoja . (N) | 0.00
+8958 | 1-g: tarkkailla | 0.00
+8960 | 1-g: vastaanotto | 0.00
+8927 | 3-g: SCONJ PROPN NOUN (N) | 0.00
+8786 | 2-g: CARD_NUMBER olla | 0.00
+8885 | 1-g: johdosta (N) | 0.00
+8881 | 2-g: diabetes , | 0.00
+8789 | 1-g: liikkeelle | 0.00
+8793 | 1-g: ruokasuola (N) | 0.00
+8800 | 2-g: . sokerin (N) | 0.00
+8802 | 2-g: . keho | 0.00
+8803 | 2-g: ihminen syödä | 0.00
+8804 | 2-g: glukoosi . | 0.00
+8806 | 1-g: kaikille (N) | 0.00
+8807 | 1-g: käsitellä | 0.00
+8810 | 1-g: ympäri | 0.00
+8818 | 1-g: nivelrikko | 0.00
+8823 | 2-g: paljon . | 0.00
+8824 | 2-g: kulua . | 0.00
+8825 | 1-g: kuolemaa (N) | 0.00
+8826 | 2-g: mies_tag todeta | 0.00
+8884 | 2-g: sama määrä | 0.00
+8829 | 2-g: ¤ hunaja | 0.00
+8838 | 1-g: molekyyli | 0.00
+8839 | 1-g: bakteerikanta | 0.00
+8841 | 2-g: porkkana , | 0.00
+8849 | 1-g: jääkaappi | 0.00
+8856 | 1-g: erityinen | 0.00
+8858 | 2-g: juoma . | 0.00
+8860 | 1-g: lihasyönti | 0.00
+8864 | 2-g: maksa , | 0.00
+8866 | 2-g: tärkeää on (N) | 0.00
+8868 | 2-g: olla alle | 0.00
+8871 | 2-g: olla ihan | 0.00
+8873 | 3-g: , olla se | 0.00
+8878 | 1-g: iltapala | 0.00
+8879 | 1-g: yhteensä | 0.00
+8837 | 2-g: olla yhtä | 0.00
+8607 | 3-g: ADV PRON PUNCT (N) | 0.00
+8604 | 3-g: ruoka , joka | 0.00
+8599 | 3-g: ¤ ADJ PRON (N) | 0.00
+8343 | 1-g: mekanismi | 0.00
+8345 | 1-g: psykologinen | 0.00
+8346 | 1-g: lääkkeillä (N) | 0.00
+8347 | 1-g: syöpäsolujen (N) | 0.00
+8353 | 1-g: tiivistää | 0.00
+8356 | 3-g: NOUN PROPN ADV (N) | 0.00
+8357 | 3-g: ¤ ADJ ADJ (N) | 0.00
+8359 | 1-g: tyypillinen | 0.00
+8362 | 2-g: viikossa . (N) | 0.00
+8363 | 2-g: elintapa . | 0.00
+8365 | 1-g: vahingoittaa | 0.00
+8368 | 1-g: einesruoka | 0.00
+8369 | 1-g: analyysi | 0.00
+8378 | 1-g: kapseli | 0.00
+8342 | 2-g: diabetes . | 0.00
+8380 | 3-g: PUNCT NOUN NUM (N) | 0.00
+8383 | 2-g: , sisältää | 0.00
+8384 | 1-g: rasvamaksa | 0.00
+8387 | 1-g: yhteisvaikutus | 0.00
+8388 | 3-g: NUM ADJ ADV (N) | 0.00
+8389 | 2-g: voida lisätä | 0.00
+8391 | 2-g: tarkoitus olla | 0.00
+8394 | 1-g: lihakset (N) | 0.00
+8397 | 1-g: natrium | 0.00
+8399 | 1-g: vitamiinivalmiste | 0.00
+8400 | 2-g: vaikuttaa aine | 0.00
+8410 | 3-g: ravinto . ¤ | 0.00
+8414 | 2-g: ei jaksaa | 0.00
+8416 | 2-g: . vastaavasti | 0.00
+8417 | 1-g: vertailla | 0.00
+8381 | 1-g: mutaatio | 0.00
+8423 | 2-g: syödä CARD_NUMBER | 0.00
+8340 | 3-g: CONJ PRON ADJ (N) | 0.00
+8338 | 3-g: ADV ADV SYM (N) | 0.00
+8246 | 1-g: kookosöljy | 0.00
+8248 | 3-g: tyyppi CARD_NUMBER diabetes | 0.00
+8250 | 2-g: ja liikunta | 0.00
+8254 | 1-g: harvinainen | 0.00
+8255 | 3-g: , hedelmä , | 0.00
+8261 | 3-g: SCONJ ADV NOUN (N) | 0.00
+8267 | 2-g: elimistö toiminta | 0.00
+8268 | 2-g: muisti . | 0.00
+8275 | 2-g: dementia . | 0.00
+8276 | 1-g: kannata (N) | 0.00
+8279 | 3-g: siksi , että | 0.00
+8281 | 1-g: jatkuvasti | 0.00
+8288 | 1-g: pitkälle | 0.00
+8293 | 3-g: tarkoittaa , että | 0.00
+8339 | 2-g: käyttö olla | 0.00
+8297 | 1-g: suurimman (N) | 0.00
+8301 | 1-g: kasvisten (N) | 0.00
+8302 | 2-g: lisäaine , | 0.00
+8304 | 1-g: nimittäin | 0.00
+8307 | 2-g: ravintolisä , | 0.00
+8308 | 2-g: sisältäviä ruokia (N) | 0.00
+8311 | 1-g: taudinaiheuttaja | 0.00
+8315 | 2-g: tärkeä . | 0.00
+8318 | 2-g: vaihtoehto , | 0.00
+8323 | 2-g: tekijä olla | 0.00
+8324 | 3-g: CONJ NUM PRON (N) | 0.00
+8326 | 1-g: seerumi | 0.00
+8333 | 3-g: se , ettei | 0.00
+8334 | 1-g: muistihäiriö | 0.00
+8335 | 1-g: peräti | 0.00
+8298 | 3-g: ¤ mies_tag olla | 0.00
+8428 | 2-g: pieni lapsi | 0.00
+8430 | 1-g: mahdollisuus | 0.00
+8434 | 2-g: vuoden aikana (N) | 0.00
+8515 | 1-g: painottaa | 0.00
+8516 | 2-g: voida sanoa | 0.00
+8521 | 1-g: rypsiöljyn (N) | 0.00
+8522 | 1-g: oikeus | 0.00
+8524 | 3-g: PUNCT CONJ PROPN (N) | 0.00
+8525 | 1-g: suurempi (N) | 0.00
+8527 | 2-g: haittavaikutus . | 0.00
+8534 | 3-g: ¤ VERB ADV (N) | 0.00
+8537 | PROPN | 0.00
+8539 | 2-g: rasvaton maito | 0.00
+8542 | 1-g: beetakaroteeni | 0.00
+8543 | 3-g: hyvin . ¤ | 0.00
+8544 | 3-g: PUNCT AUX PRON (N) | 0.00
+8545 | 2-g: näyttäisi olevan (N) | 0.00
+8514 | 2-g: puolestaan olla | 0.00
+8546 | 1-g: jotkut (N) | 0.00
+8554 | 1-g: lukuisa | 0.00
+8560 | 2-g: tekijä . | 0.00
+8563 | 2-g: liian paljon | 0.00
+8565 | 2-g: tutkimus tulos | 0.00
+8567 | 3-g: ADJ NOUN NUM (N) | 0.00
+8568 | 3-g: NOUN ADV SYM (N) | 0.00
+8571 | 2-g: joka tapaus | 0.00
+8573 | 2-g: mutta jos | 0.00
+8577 | 3-g: PROPN PROPN PUNCT (N) | 0.00
+8579 | 1-g: lasku | 0.00
+8584 | 2-g: olla keho | 0.00
+8587 | 2-g: olla nimittäin | 0.00
+8594 | 3-g: PUNCT NUM ADV (N) | 0.00
+8596 | 2-g: . yleinen | 0.00
+8551 | 1-g: aikaisemmin | 0.00
+8513 | 2-g: verenpaine , | 0.00
+8509 | 2-g: verrata muu | 0.00
+8507 | 2-g: olla kova | 0.00
+8435 | 1-g: sisältyä | 0.00
+8440 | 1-g: luomumaito | 0.00
+8444 | 2-g: CARD_NUMBER mikrogramma | 0.00
+8449 | 2-g: vähemmän , | 0.00
+8450 | 2-g: , puhua | 0.00
+8451 | 1-g: tehokkuus | 0.00
+8453 | 2-g: terveysvaikutus . | 0.00
+8454 | 1-g: turvallista (N) | 0.00
+8458 | 1-g: sitrushedelmä | 0.00
+8459 | 2-g: juusto olla | 0.00
+8462 | 1-g: energianlähde | 0.00
+8466 | 2-g: voida antaa | 0.00
+8467 | 2-g: laakari_tag mies_tag | 0.00
+8468 | 2-g: olla haitallinen | 0.00
+8470 | 2-g: riittävästi . | 0.00
+8471 | 1-g: pharvo | 0.00
+8473 | 2-g: olla erilainen | 0.00
+8502 | 2-g: vaarallinen . | 0.00
+8500 | 1-g: kiihtyä | 0.00
+8497 | 1-g: huolehtia | 0.00
+8495 | 1-g: tomaattien (N) | 0.00
+8494 | 3-g: VERB ADV PROPN (N) | 0.00
+8492 | 2-g: kuituja ja (N) | 0.00
+8242 | 2-g: kautta , | 0.00
+8491 | 3-g: ja se kautta | 0.00
+8484 | 1-g: nykyinen | 0.00
+8483 | 2-g: tunti ennen | 0.00
+8480 | 2-g: herkku , | 0.00
+8479 | 2-g: herkku . | 0.00
+8477 | 2-g: imeytyä . | 0.00
+8475 | 2-g: . tutkimuksen (N) | 0.00
+8490 | 2-g: muutaman päivän (N) | 0.00
+7579 | 3-g: PUNCT ADV VERB (N) | 0.00
+7578 | 1-g: terveellisesti | 0.00
+7577 | 2-g: ravintoaine . | 0.00
+6716 | 3-g: , että ruoka | 0.00
+6718 | 1-g: kuolleisuuteen (N) | 0.00
+6719 | 3-g: ja hedelmä . | 0.00
+6720 | 2-g: myönteinen vaikutus | 0.00
+6722 | 2-g: ei pystyä | 0.00
+6727 | 1-g: potilaat (N) | 0.00
+6728 | 1-g: mielikuva | 0.00
+6729 | 1-g: laihduttaminen (N) | 0.00
+6731 | 1-g: analysoida | 0.00
+6732 | 2-g: olla usea | 0.00
+6733 | 2-g: joilla ei (N) | 0.00
+6734 | 3-g: ¤ PRON VERB (N) | 0.00
+6735 | 1-g: kasvit (N) | 0.00
+6736 | 2-g: riski olla | 0.00
+6715 | 2-g: on ihan (N) | 0.00
+6738 | 2-g: ikään kuin | 0.00
+6741 | 2-g: olla riittävä | 0.00
+6742 | 3-g: muistuttaa , että | 0.00
+6743 | 2-g: kulutus olla | 0.00
+6745 | 2-g: liha käyttö | 0.00
+6748 | 2-g: elämä , | 0.00
+6750 | 2-g: vaihtoehto . | 0.00
+6753 | 1-g: terveystuote | 0.00
+6754 | 1-g: luotettava | 0.00
+6758 | 1-g: muutaman (N) | 0.00
+6759 | 1-g: lisäys | 0.00
+6762 | 2-g: ruokavalio noudattaa | 0.00
+6763 | 2-g: olla osoittaa | 0.00
+6765 | 2-g: kyse on (N) | 0.00
+6766 | 2-g: niin ei | 0.00
+6739 | 3-g: CONJ ADV CONJ (N) | 0.00
+6769 | 1-g: soijaa (N) | 0.00
+6714 | 3-g: VERB CONJ NUM (N) | 0.00
+6702 | 1-g: serotoniini | 0.00
+6640 | 1-g: huolimatta | 0.00
+6643 | 2-g: elää pitkä | 0.00
+6645 | 2-g: päänsärky , | 0.00
+6647 | 2-g: ottaa se | 0.00
+6650 | 1-g: puolustusjärjestelmä | 0.00
+6652 | 3-g: ADJ PUNCT SYM (N) | 0.00
+6653 | 1-g: totuus | 0.00
+6654 | 1-g: mielihyvä | 0.00
+6655 | 2-g: CARD_NUMBER pieni | 0.00
+6656 | 1-g: suojaava (N) | 0.00
+6657 | 3-g: PUNCT PUNCT ADJ (N) | 0.00
+6658 | 1-g: karppaus | 0.00
+6659 | 1-g: parhaita (N) | 0.00
+6661 | 2-g: tumma suklaa | 0.00
+6712 | 2-g: kaikki tarvita | 0.00
+6668 | 1-g: pelkällä (N) | 0.00
+6678 | 3-g: vastaan . ¤ | 0.00
+6679 | 1-g: kuluessa (N) | 0.00
+6680 | 3-g: sitä mieltä , (N) | 0.00
+6681 | 3-g: ¤ NOUN ¤ (N) | 0.00
+6683 | 3-g: , että ruokavalio | 0.00
+6684 | 2-g: ylipaino olla | 0.00
+6688 | 1-g: allergiat (N) | 0.00
+6689 | 2-g: ¤ yritys_tag | 0.00
+6690 | 2-g: jos ihminen | 0.00
+6691 | 2-g: ¤ kahvi (N) | 0.00
+6694 | 2-g: lisäksi , | 0.00
+6696 | 2-g: SCONJ SCONJ (N) | 0.00
+6697 | 2-g: tarvita ravintoaine | 0.00
+6699 | 2-g: tieteellinen tutkimus | 0.00
+6669 | 1-g: nitriitti | 0.00
+6638 | 2-g: kasvikunta tuote | 0.00
+6770 | 1-g: hedelmämehu | 0.00
+6774 | 3-g: VERB AUX ADV (N) | 0.00
+6843 | 3-g: VERB CONJ PRON (N) | 0.00
+6844 | 2-g: jälkeen , | 0.00
+6845 | 1-g: yhdistetty (N) | 0.00
+6846 | 2-g: paremmin . | 0.00
+6847 | 1-g: itsessään | 0.00
+6850 | 2-g: kalori , | 0.00
+6852 | 2-g: ja tuore | 0.00
+6855 | 1-g: suhteellisen (N) | 0.00
+6856 | 3-g: olla havaita , | 0.00
+6861 | 1-g: ateriarytmi | 0.00
+6863 | 3-g: PUNCT PROPN NOUN (N) | 0.00
+6865 | 2-g: mustikka olla | 0.00
+6869 | 2-g: kannalta on (N) | 0.00
+6871 | 1-g: ravintosisältö | 0.00
+6839 | 3-g: ADV SCONJ PRON (N) | 0.00
+6876 | 2-g: mutta hän | 0.00
+6879 | 2-g: ruoka voida | 0.00
+6880 | 1-g: rasvaton | 0.00
+6881 | 2-g: ¤ itse | 0.00
+6883 | 1-g: puhdistaa | 0.00
+6885 | 2-g: voida auttaa | 0.00
+6886 | 1-g: kahvista (N) | 0.00
+6887 | 2-g: kaksi viikko | 0.00
+6890 | 2-g: vaikka se | 0.00
+6891 | 2-g: olla voimakas | 0.00
+6896 | 2-g: antioksidantti ja | 0.00
+6897 | 2-g: ¤ terveellinen | 0.00
+6902 | 2-g: nauttia . | 0.00
+6904 | 1-g: lääkeaine | 0.00
+6908 | 2-g: ihminen voida | 0.00
+6877 | 1-g: terveydentila | 0.00
+6771 | 2-g: mies_tag olla | 0.00
+6837 | 2-g: olla jokin | 0.00
+6835 | 2-g: , tehdä | 0.00
+6777 | 2-g: että maito | 0.00
+6779 | 3-g: , sitä enemmän (N) | 0.00
+6786 | 1-g: kemiallisesti (N) | 0.00
+6787 | 1-g: uraatin | 0.00
+6788 | 1-g: tarvitsee (N) | 0.00
+6789 | 2-g: lainkaan . | 0.00
+6792 | 2-g: tämä syy | 0.00
+6795 | 2-g: päivässä . (N) | 0.00
+6796 | 3-g: PROPN VERB ADJ (N) | 0.00
+6797 | 1-g: sydänsairaus | 0.00
+6799 | 2-g: kuin ennen | 0.00
+6800 | 3-g: . ¤ suolisto | 0.00
+6801 | 3-g: ¤ CONJ ADJ (N) | 0.00
+6802 | 2-g: juusto ja | 0.00
+6836 | 2-g: se tuottaa | 0.00
+6804 | 2-g: monipuolinen ruoka | 0.00
+6809 | 2-g: ihminen elimistö | 0.00
+6810 | 2-g: olla edelleen | 0.00
+6812 | 1-g: terveydelle (N) | 0.00
+6814 | 1-g: ylipäänsä | 0.00
+6816 | 1-g: havainto | 0.00
+6824 | 2-g: väsymys , | 0.00
+6825 | 2-g: lähde olla | 0.00
+6827 | 2-g: , soija (N) | 0.00
+6829 | 1-g: yhteiskunta | 0.00
+6830 | 2-g: käyttää myös | 0.00
+6831 | 1-g: nälkäinen | 0.00
+6832 | 3-g: NOUN ADP ADJ (N) | 0.00
+6833 | 2-g: hyvä tulos | 0.00
+6834 | 2-g: sitä voi (N) | 0.00
+6806 | 1-g: vahvistaa | 0.00
+6633 | 3-g: PUNCT SCONJ VERB (N) | 0.00
+6630 | 1-g: suolistovaiva | 0.00
+6626 | 1-g: herkullinen | 0.00
+6404 | 1-g: asiat (N) | 0.00
+6409 | 2-g: , jotka (N) | 0.00
+6419 | 2-g: ravitsemussuositus . | 0.00
+6420 | 1-g: vahvasti | 0.00
+6421 | 1-g: aiheutua | 0.00
+6422 | 2-g: saada muu | 0.00
+6425 | 3-g: PROPN PROPN VERB (N) | 0.00
+6428 | 3-g: nainen , joka | 0.00
+6429 | 1-g: mielenkiintoinen | 0.00
+6431 | 1-g: nestemäinen | 0.00
+6432 | 1-g: luonnostaan | 0.00
+6437 | 1-g: koehenkilö | 0.00
+6438 | 2-g: , lisätä | 0.00
+6439 | 2-g: hiilihydraatti , | 0.00
+6401 | 1-g: pahimmillaan | 0.00
+6441 | 1-g: edesauttaa (N) | 0.00
+6443 | 3-g: VERB PUNCT INTJ (N) | 0.00
+4014 | 2-g: on yhdistetty (N) | 0.00
+6448 | 1-g: tulehduskipulääke | 0.00
+6453 | 2-g: CARD_NUMBER kilokalori | 0.00
+6456 | 1-g: rasvalevite | 0.00
+6459 | 1-g: makkara | 0.00
+6460 | 3-g: NOUN ADP PRON (N) | 0.00
+6461 | 2-g: minä suomi | 0.00
+6463 | 3-g: . ¤ tutkija | 0.00
+6464 | 2-g: CARD_NUMBER kuukausi | 0.00
+6468 | 1-g: monenlainen | 0.00
+6470 | 2-g: . myöhemmin | 0.00
+6471 | 2-g: kivennäisaine , | 0.00
+6473 | 1-g: aiheuttaen (N) | 0.00
+6442 | 3-g: X NOUN NOUN (N) | 0.00
+6474 | 3-g: " , kertoa | 0.00
+6399 | 2-g: vähintään CARD_NUMBER | 0.00
+6396 | 2-g: . aina (N) | 0.00
+6334 | 2-g: olla vaara | 0.00
+6335 | 1-g: tiedetään (N) | 0.00
+6337 | 1-g: synteettinen | 0.00
+6340 | 1-g: perinteinen | 0.00
+6341 | 1-g: pienempi (N) | 0.00
+6343 | 2-g: moni kerta | 0.00
+6344 | 3-g: kanssa . ¤ | 0.00
+6348 | 2-g: tulla välttää | 0.00
+6350 | 2-g: tärkeä olla | 0.00
+6352 | 2-g: vaikutus olla | 0.00
+6353 | 2-g: ) sekä | 0.00
+6354 | 2-g: muistuttaa , | 0.00
+6355 | 2-g: hyvä muistaa | 0.00
+6356 | 2-g: bakteeri määrä | 0.00
+6397 | 1-g: polyfenolien | 0.00
+6357 | 1-g: sivuvaikutuksia (N) | 0.00
+6363 | 2-g: olla lisääntyä | 0.00
+6366 | 1-g: kypsentää | 0.00
+6367 | 3-g: PUNCT ¤ PROPN (N) | 0.00
+6374 | 2-g: syödä sokeri | 0.00
+6376 | 2-g: rasva olla | 0.00
+6378 | 2-g: . runsas | 0.00
+6379 | 1-g: painopudotus | 0.00
+6380 | 2-g: paljon muu | 0.00
+6382 | 2-g: että tämä | 0.00
+6383 | 1-g: kiinnostava | 0.00
+6384 | 2-g: olla maito | 0.00
+6385 | 1-g: leikkele | 0.00
+6392 | 2-g: hiilihydraatti . | 0.00
+6393 | 2-g: proteiini saanti | 0.00
+6358 | 1-g: kuumentaa | 0.00
+6480 | 1-g: ehkäisevät (N) | 0.00
+6481 | 3-g: selvä , että | 0.00
+6483 | 2-g: kuitu , | 0.00
+6561 | 2-g: olla kyse | 0.00
+6563 | 1-g: tottumus | 0.00
+6569 | 2-g: mahdollinen . | 0.00
+6570 | 3-g: CARD_NUMBER mg / (N) | 0.00
+6572 | 3-g: CARD_NUMBER vuosi aika | 0.00
+6573 | 1-g: epäterveellinen | 0.00
+6576 | 2-g: enemmän . | 0.00
+6578 | 1-g: kuunnella | 0.00
+6580 | 1-g: tapaus | 0.00
+6581 | 1-g: ruokavaliolla (N) | 0.00
+6584 | 1-g: kuullut (N) | 0.00
+6585 | 2-g: suola saanti | 0.00
+6586 | 2-g: itse tehdä | 0.00
+6590 | 2-g: monipuolinen ja | 0.00
+6557 | 1-g: kutsua | 0.00
+6594 | 1-g: haitallisesti (N) | 0.00
+6597 | 3-g: PUNCT VERB PROPN (N) | 0.00
+6598 | 2-g: . toisin | 0.00
+6600 | 2-g: vihannes ja | 0.00
+6601 | 1-g: turvotus | 0.00
+6602 | 2-g: muodostua . | 0.00
+6603 | 2-g: asiantuntija_tag mies_tag | 0.00
+6606 | 1-g: ruoka-allergia | 0.00
+6610 | 1-g: valmisruoka | 0.00
+6611 | 1-g: nauttiminen (N) | 0.00
+6612 | 2-g: elintarvike . | 0.00
+6613 | 1-g: joillakin (N) | 0.00
+6620 | 2-g: että saada | 0.00
+6621 | 2-g: liian vähäinen | 0.00
+6625 | 1-g: lämmin | 0.00
+6596 | 1-g: tappaa | 0.00
+6556 | 3-g: . ¤ sama | 0.00
+6555 | 3-g: NOUN VERB PROPN (N) | 0.00
+6553 | 3-g: , jos haluta | 0.00
+6484 | 1-g: tulkita | 0.00
+6486 | 2-g: saanti . | 0.00
+6487 | 3-g: elimistö . ¤ | 0.00
+6492 | 2-g: ja antioksidantti | 0.00
+6499 | 3-g: SCONJ ADV VERB (N) | 0.00
+6501 | 1-g: ruokailutottumus | 0.00
+6502 | 1-g: satoja (N) | 0.00
+6506 | 3-g: ¤ VERB VERB (N) | 0.00
+6507 | 2-g: ominaisuus olla | 0.00
+6509 | 1-g: käsittely | 0.00
+6510 | 2-g: sata gramma | 0.00
+6511 | 2-g: silloin kun | 0.00
+6512 | 3-g: CONJ NOUN VERB (N) | 0.00
+6514 | 3-g: VERB VERB VERB (N) | 0.00
+6516 | 3-g: eri tapa . | 0.00
+6517 | 1-g: munuainen | 0.00
+6518 | 3-g: , kun taas | 0.00
+6549 | 3-g: NOUN CONJ VERB (N) | 0.00
+6548 | 1-g: tuore | 0.00
+6543 | 2-g: . joku | 0.00
+6540 | 3-g: ¤ VERB ADJ (N) | 0.00
+6539 | 1-g: psyykkinen | 0.00
+6535 | 1-g: resveratroli (N) | 0.00
+6911 | 3-g: CONJ ADJ ADJ (N) | 0.00
+6534 | 2-g: nainen_tag on (N) | 0.00
+6531 | 3-g: PROPN PUNCT VERB (N) | 0.00
+6527 | 3-g: sydän ja verisuonisairaus | 0.00
+6525 | 1-g: sepelvaltimotaudin (N) | 0.00
+6524 | 3-g: NOUN SYM NOUN (N) | 0.00
+6523 | 2-g: tauti , | 0.00
+6521 | 1-g: terveysvaikutus | 0.00
+6532 | 1-g: kalaöljyn (N) | 0.00
+6915 | 1-g: energiankulutus | 0.00
+6917 | 1-g: huonontaa | 0.00
+6918 | 1-g: osoittaneet (N) | 0.00
+7338 | 1-g: sokeroida | 0.00
+7341 | 2-g: yliopisto_tag . | 0.00
+7344 | 3-g: se , miten | 0.00
+7346 | 2-g: CONJ ADP (N) | 0.00
+7349 | 1-g: liittyvä (N) | 0.00
+7350 | 2-g: olla suositella | 0.00
+7353 | 1-g: kemiallinen | 0.00
+7355 | 2-g: hyvin , | 0.00
+7356 | 3-g: vitamiini ja mineraali | 0.00
+7358 | 2-g: olla yleinen | 0.00
+7360 | 3-g: SCONJ AUX NOUN (N) | 0.00
+7361 | 3-g: ¤ ADJ AUX (N) | 0.00
+7365 | 1-g: merkitä | 0.00
+7368 | 2-g: olla minä | 0.00
+7334 | 1-g: nivelreuma | 0.00
+7369 | 1-g: oireita (N) | 0.00
+7377 | 1-g: ketoaine | 0.00
+7381 | 2-g: parantaa . | 0.00
+7382 | 3-g: . ¤ voida | 0.00
+7390 | 2-g: tulos , | 0.00
+7395 | 3-g: PROPN VERB NOUN (N) | 0.00
+7396 | 2-g: vaikuttaa se | 0.00
+7403 | 1-g: kyseenalainen | 0.00
+7405 | 2-g: vaara . | 0.00
+7406 | 1-g: kumpikin | 0.00
+7407 | 2-g: olla ottaa | 0.00
+7409 | 2-g: ruokavalio on (N) | 0.00
+7413 | 3-g: VERB NUM PROPN (N) | 0.00
+7420 | 2-g: ja sitä (N) | 0.00
+7421 | 3-g: SCONJ PRON ADJ (N) | 0.00
+7372 | 2-g: selvittää , | 0.00
+7422 | 1-g: autoimmuunisairaus | 0.00
+7333 | 2-g: kerta viikko | 0.00
+7327 | 2-g: paikka . | 0.00
+7240 | 2-g: siemen . | 0.00
+7242 | 3-g: CARD_NUMBER g / | 0.00
+7248 | 2-g: olla varmasti | 0.00
+7254 | 1-g: krooninen | 0.00
+7256 | 1-g: viidennes | 0.00
+7262 | 2-g: ja juures | 0.00
+7263 | 2-g: mukaan myös (N) | 0.00
+7266 | 2-g: olla aiemmin | 0.00
+7270 | 2-g: ruoka-aine . | 0.00
+7272 | 2-g: jos joku | 0.00
+7274 | 1-g: pääasiallinen | 0.00
+7278 | 2-g: olla tarjolla | 0.00
+7279 | 3-g: koska se olla | 0.00
+7281 | 1-g: aineisto | 0.00
+7329 | 1-g: nivelkipu | 0.00
+7286 | 2-g: olla mennä | 0.00
+7295 | 3-g: AUX VERB PROPN (N) | 0.00
+7297 | 2-g: ja prosessoida | 0.00
+7299 | 2-g: CARD_NUMBER kilo | 0.00
+7301 | 1-g: merkittävästi | 0.00
+7302 | 2-g: kuitenkaan olla | 0.00
+7306 | 2-g: ja kahvi | 0.00
+7309 | 2-g: hunaja olla | 0.00
+7314 | 1-g: jälkiruoka | 0.00
+7315 | 2-g: , sanoa | 0.00
+7318 | 3-g: , mutta myös | 0.00
+7320 | 1-g: appelsiini | 0.00
+7321 | 2-g: olla kunnossa | 0.00
+7322 | 1-g: kustannus | 0.00
+7324 | 1-g: lääketiede (N) | 0.00
+7287 | 3-g: , jotka ovat (N) | 0.00
+7428 | 1-g: kilokalori | 0.00
+7429 | 3-g: PUNCT NOUN ADP (N) | 0.00
+7430 | 2-g: yksi tärkeä | 0.00
+7510 | 3-g: varmistaa , että | 0.00
+7511 | 2-g: proteiini ja | 0.00
+7517 | 2-g: . tällöin | 0.00
+7518 | 2-g: että syödä | 0.00
+7521 | 2-g: tyydyttymätön rasva | 0.00
+7523 | 2-g: kasvaa . | 0.00
+7524 | 3-g: CONJ NOUN PRON (N) | 0.00
+7526 | 3-g: terveellinen ruokavalio . | 0.00
+7529 | 1-g: kunnolla | 0.00
+7530 | 2-g: olla liian | 0.00
+7531 | 3-g: PUNCT SCONJ PROPN (N) | 0.00
+7532 | 3-g: olla osoittaa , | 0.00
+7537 | 1-g: ranskalainen | 0.00
+7538 | 1-g: lihavuus | 0.00
+7509 | 1-g: todennäköisesti (N) | 0.00
+7539 | 1-g: heikentää | 0.00
+7544 | 1-g: vhh-ruokavalion | 0.00
+7545 | 2-g: olla varsin | 0.00
+7546 | 1-g: sisältämän (N) | 0.00
+7548 | 2-g: sisältää paljon | 0.00
+7551 | 1-g: hillitä | 0.00
+7553 | 1-g: immuniteetti | 0.00
+7555 | 2-g: kokonaisuus . | 0.00
+7558 | 3-g: että se olla | 0.00
+7560 | 2-g: ylipaino . | 0.00
+7561 | 2-g: vaikutus , | 0.00
+7568 | 1-g: rasvahappokoostumus | 0.00
+7571 | 1-g: akuutti | 0.00
+7573 | 1-g: mikrobi | 0.00
+7575 | 2-g: terveys olla | 0.00
+7543 | 1-g: vaalea | 0.00
+7507 | 1-g: kaurapuuro | 0.00
+7503 | 1-g: sisällä | 0.00
+7502 | 2-g: soijapohjainen äidinmaitokorvike | 0.00
+7431 | 2-g: kertaa viikossa (N) | 0.00
+7433 | 2-g: painohallinta . | 0.00
+7434 | 2-g: osallistua CARD_NUMBER | 0.00
+7438 | 1-g: oletko (N) | 0.00
+7440 | 1-g: lihaskato | 0.00
+7442 | 1-g: puolustaa | 0.00
+7443 | 2-g: suhteen . | 0.00
+7444 | 2-g: laatu olla | 0.00
+7449 | 2-g: yhteys . | 0.00
+7452 | 3-g: ei olla vielä | 0.00
+7456 | 1-g: pilkkoutua | 0.00
+7457 | 1-g: häiriintyä | 0.00
+7458 | 1-g: immuunijärjestelmän (N) | 0.00
+7460 | 2-g: joka päivä | 0.00
+7463 | 3-g: CONJ VERB NOUN (N) | 0.00
+7469 | 3-g: PROPN PROPN PROPN (N) | 0.00
+7472 | 1-g: kudoksiin (N) | 0.00
+7500 | 1-g: aktiivinen | 0.00
+7499 | 1-g: kalkkuna | 0.00
+7498 | 2-g: sama verran | 0.00
+7497 | 2-g: makeinen , | 0.00
+7495 | 1-g: maitotaloustuote | 0.00
+7492 | 2-g: verisuonitauti . | 0.00
+7238 | 1-g: ajattelu | 0.00
+7486 | 1-g: paksusuolisyöpä | 0.00
+7483 | 3-g: vitamiineja ja kivennäisaineita (N) | 0.00
+7482 | 3-g: todeta . ¤ | 0.00
+7481 | 3-g: , joka aiheuttaa | 0.00
+7479 | 3-g: kasvis , marja | 0.00
+7476 | 1-g: auttavat (N) | 0.00
+7475 | 2-g: turvallinen . | 0.00
+7485 | 1-g: euroopan (N) | 0.00
+6327 | 1-g: monimutkainen | 0.00
+7234 | 3-g: NOUN PRON PUNCT (N) | 0.00
+7232 | 1-g: vertailu | 0.00
+7004 | 1-g: tulehdusta (N) | 0.00
+7009 | 2-g: kohota verenpaine | 0.00
+7010 | 3-g: hedelmiä ja marjoja (N) | 0.00
+7011 | NOUN (C) | 0.00
+7012 | 1-g: tupakointi | 0.00
+7014 | 2-g: olla selvittää | 0.00
+7016 | 1-g: olevia (N) | 0.00
+7019 | 2-g: tulla nauttia | 0.00
+7020 | 3-g: PROPN NOUN ADJ (N) | 0.00
+7024 | 2-g: , osoittaa | 0.00
+7026 | 1-g: lapsuus | 0.00
+7031 | 1-g: kokemus | 0.00
+7032 | 1-g: pienempiä (N) | 0.00
+7033 | 2-g: magnesium ja | 0.00
+7003 | 2-g: on todennäköisesti (N) | 0.00
+7039 | 2-g: terveysvaikutus olla | 0.00
+7041 | 1-g: kilokaloria (N) | 0.00
+7045 | 2-g: nopea hiilihydraatti | 0.00
+7051 | 1-g: eläinkoe | 0.00
+7052 | 1-g: pilkkoa | 0.00
+7058 | 2-g: toimintaa . (N) | 0.00
+7059 | 3-g: , joka voida | 0.00
+7061 | 2-g: siksi se | 0.00
+7062 | 2-g: kaksi kerta | 0.00
+7063 | 1-g: luonnollista (N) | 0.00
+7066 | 1-g: tahansa | 0.00
+7067 | 2-g: sokeri olla | 0.00
+7072 | 1-g: myöhemmin | 0.00
+7073 | 2-g: kerran viikko | 0.00
+7074 | 3-g: PUNCT VERB PUNCT (N) | 0.00
+7040 | 3-g: PROPN PROPN X (N) | 0.00
+7076 | 3-g: PROPN PUNCT AUX (N) | 0.00
+7002 | 1-g: kaikkein | 0.00
+7000 | 2-g: sokeria ja (N) | 0.00
+6922 | 1-g: antioksidantti (N) | 0.00
+6927 | 2-g: olla pakko | 0.00
+6928 | 1-g: hapanmaitotuote | 0.00
+6930 | 2-g: vaikea . | 0.00
+6931 | 2-g: olla oikea | 0.00
+6933 | 1-g: grammaa (N) | 0.00
+6934 | 2-g: olla vaikea | 0.00
+6936 | 1-g: pienentää | 0.00
+6939 | 2-g: muutama päivä | 0.00
+6940 | 3-g: , ja siksi | 0.00
+6945 | 3-g: NOUN ADV ADJ (N) | 0.00
+6949 | 1-g: aktiivisuus | 0.00
+6951 | 1-g: elimistön (N) | 0.00
+6952 | 1-g: väestötutkimus | 0.00
+7001 | 2-g: tämä tutkimus | 0.00
+6954 | 1-g: sydänkohtaus | 0.00
+6963 | 2-g: syödä paljon | 0.00
+6966 | 1-g: ravintoaineita (N) | 0.00
+6967 | 2-g: ihminen tarvita | 0.00
+6969 | 2-g: kaikki . | 0.00
+6971 | 1-g: sopiva | 0.00
+6972 | 3-g: päivä . ¤ | 0.00
+6975 | 3-g: INTJ PUNCT VERB (N) | 0.00
+6977 | 2-g: tutkia tieto | 0.00
+6982 | 2-g: iän myötä (N) | 0.00
+6984 | 2-g: lisäksi olla | 0.00
+6985 | 1-g: aktivoida | 0.00
+6986 | 3-g: PUNCT ADV PROPN (N) | 0.00
+6990 | 3-g: , joka elimistö | 0.00
+6991 | 1-g: lopulta | 0.00
+6962 | 2-g: tehdä hyvä | 0.00
+7081 | 3-g: . tämä olla | 0.00
+7082 | 1-g: väriaine | 0.00
+7084 | 3-g: toiminta . ¤ | 0.00
+7172 | 1-g: insuliinia (N) | 0.00
+7173 | 3-g: NOUN ADJ ¤ (N) | 0.00
+7174 | 1-g: kahvissa (N) | 0.00
+7176 | 2-g: kasvaa ja | 0.00
+7177 | 2-g: hiilihydraatti olla | 0.00
+7179 | 3-g: kertoa , että | 0.00
+7180 | 2-g: olla täynnä | 0.00
+7184 | 1-g: seitsemän | 0.00
+7186 | 2-g: suomalainen saada | 0.00
+7189 | 1-g: kovettaa | 0.00
+7191 | 3-g: NOUN NOUN ¤ (N) | 0.00
+7198 | 1-g: useita (N) | 0.00
+7199 | 1-g: pienetä | 0.00
+7200 | 2-g: kalsium . | 0.00
+7171 | 1-g: eurooppa | 0.00
+7202 | 1-g: kiinnostua | 0.00
+7205 | 2-g: ja syöminen | 0.00
+7209 | 3-g: mieli , että | 0.00
+7212 | 2-g: tutkimus peruste | 0.00
+7214 | 1-g: probiootteja | 0.00
+7215 | 1-g: tauriini | 0.00
+7216 | 2-g: pari vuosi | 0.00
+7217 | 3-g: NOUN AUX PUNCT (N) | 0.00
+7218 | 3-g: kasvis ja hedelmä | 0.00
+7220 | 1-g: olosuhde | 0.00
+7223 | 1-g: granaattiomena | 0.00
+7224 | 2-g: nauttia se | 0.00
+7226 | 2-g: hivenaine . | 0.00
+7228 | 1-g: lääketieteellinen | 0.00
+7230 | 1-g: lääkäri | 0.00
+7203 | 2-g: sitten , | 0.00
+7167 | 2-g: tuntia ennen (N) | 0.00
+7166 | 2-g: ei silti | 0.00
+7165 | 1-g: tulivat (N) | 0.00
+7087 | 2-g: olla usein | 0.00
+7088 | 1-g: värikäs | 0.00
+7093 | 1-g: kuluttua (N) | 0.00
+7097 | 1-g: foolihappo | 0.00
+7098 | 1-g: pyrkii (N) | 0.00
+7102 | 2-g: on tärkein (N) | 0.00
+7105 | 2-g: toisin kuin | 0.00
+7106 | 2-g: tutkia ja | 0.00
+7107 | 1-g: säilyä | 0.00
+7110 | 1-g: voimakkaita (N) | 0.00
+7114 | 2-g: nostaa veri | 0.00
+7116 | 3-g: INTJ VERB PRON (N) | 0.00
+7117 | 2-g: olla haitta | 0.00
+7126 | 1-g: pakkanen | 0.00
+7129 | 1-g: niinpä | 0.00
+7131 | 2-g: syntyä . | 0.00
+7134 | 2-g: ruoka aiheuttaa | 0.00
+7164 | 1-g: vastaavasti | 0.00
+7163 | 1-g: mikäli | 0.00
+7159 | 2-g: ei edes | 0.00
+7156 | 2-g: olla suolisto | 0.00
+7155 | 1-g: pitoisuudet (N) | 0.00
+7153 | 3-g: . suuri osa | 0.00
+7233 | 1-g: vihanneksia (N) | 0.00
+7152 | 2-g: liikunta , | 0.00
+7148 | 2-g: pieni määrä | 0.00
+7147 | 1-g: keliakiaa (N) | 0.00
+7143 | 2-g: riski ja | 0.00
+7142 | 1-g: rypsiöljy | 0.00
+7141 | 2-g: tutkimus ei | 0.00
+7140 | 2-g: geeni . | 0.00
+7150 | 1-g: merkittäviä (N) | 0.00
+4012 | 1-g: samanlaista (N) | 0.00
+8962 | 2-g: tuote_tag , | 0.00
+4005 | 1-g: himalaja | 0.00
+1679 | 3-g: ¤ NOUN VERB (N) | 0.00
+1680 | 1-g: elintarviketeollisuus | 0.00
+1681 | 3-g: PROPN PROPN CONJ (N) | 0.00
+1682 | 1-g: kroppa (N) | 0.00
+1684 | 3-g: ADV AUX VERB (N) | 0.00
+1687 | 2-g: kotona asua | 0.00
+1688 | 2-g: , erityisesti | 0.00
+1690 | 3-g: VERB PRON PROPN (N) | 0.00
+1691 | 2-g: VERB CONJ (N) | 0.00
+1693 | 1-g: yhdysvaltalainen | 0.00
+1694 | 2-g: olla turvallinen | 0.00
+1695 | 1-g: apteekki | 0.00
+1696 | 1-g: vaiheessa (N) | 0.00
+1678 | 3-g: , ja sen (N) | 0.00
+1697 | 3-g: – " ei | 0.00
+1699 | 2-g: . insuliini | 0.00
+1701 | 3-g: . ¤ − | 0.00
+1705 | 2-g: alkoholi ja | 0.00
+1706 | 1-g: ylipaino | 0.00
+1707 | 2-g: rauta imeytyä | 0.00
+1711 | 2-g: kaikki tämä | 0.00
+1712 | 1-g: hedelmiä (N) | 0.00
+1713 | 3-g: . ¤ tässä (N) | 0.00
+1714 | 1-g: terveysongelma | 0.00
+1715 | 1-g: riippuvuus | 0.00
+1717 | 1-g: ylläpitää | 0.00
+1718 | 1-g: mukaisesti | 0.00
+1720 | 2-g: vähähiilihydraattinen ruokavalio (N) | 0.00
+1698 | 3-g: ADJ NOUN ADJ (N) | 0.00
+1676 | 2-g: . vain | 0.00
+1675 | 2-g: normaali toiminta | 0.00
+1674 | 1-g: pidempään (N) | 0.00
+1623 | 3-g: . ¤ kun | 0.00
+1624 | 1-g: laihdutus | 0.00
+1627 | 1-g: fruktoosi | 0.00
+1628 | 1-g: suojaravintoaine | 0.00
+1632 | 1-g: suolan (N) | 0.00
+1634 | 1-g: näiden (N) | 0.00
+1636 | 2-g: kalsium olla | 0.00
+1637 | 2-g: . jokainen (N) | 0.00
+1640 | 3-g: , jos se | 0.00
+1641 | 3-g: ADV ADJ CONJ (N) | 0.00
+1645 | 2-g: joka on (N) | 0.00
+1646 | 1-g: täysin (N) | 0.00
+1647 | 3-g: NOUN NOUN AUX (N) | 0.00
+1648 | 2-g: myötä . | 0.00
+1649 | 1-g: siihen (N) | 0.00
+1653 | 1-g: yhdessä | 0.00
+1655 | 3-g: VERB NUM ADP (N) | 0.00
+1656 | 3-g: terveys . ¤ | 0.00
+1657 | 2-g: olla kokeilla | 0.00
+1660 | 2-g: sivuvaikutus . | 0.00
+1662 | 1-g: ruokasuola | 0.00
+1663 | 1-g: ongelma (N) | 0.00
+1664 | 2-g: ei tarvita | 0.00
+1665 | 2-g: osa . | 0.00
+1666 | 2-g: liikunta . | 0.00
+1668 | 3-g: , että jos | 0.00
+1669 | 2-g: suositella . | 0.00
+1671 | 1-g: vakuuttaa | 0.00
+1673 | 1-g: riippumatta (N) | 0.00
+1722 | 1-g: oireet (N) | 0.00
+1620 | 2-g: ¤ ehkä | 0.00
+1723 | 2-g: . näin | 0.00
+1725 | 3-g: NUM ADJ VERB (N) | 0.00
+1781 | 3-g: VERB NOUN ¤ (N) | 0.00
+1782 | 3-g: ja se on (N) | 0.00
+1783 | 1-g: vauhti | 0.00
+1784 | 1-g: viime | 0.00
+1785 | 2-g: maa , | 0.00
+1786 | 2-g: kalsium imeytyä | 0.00
+1787 | 2-g: ¤ asiantuntija | 0.00
+1788 | 2-g: pitoisuus olla | 0.00
+1789 | 2-g: tutkija havaita | 0.00
+1790 | 1-g: koulutus | 0.00
+1791 | 1-g: tuleva | 0.00
+1792 | 3-g: VERB PRON PRON (N) | 0.00
+1793 | 1-g: kasveja (N) | 0.00
+1778 | 2-g: päivä olla | 0.00
+1795 | 1-g: ruoka-aine | 0.00
+1798 | 1-g: masennus | 0.00
+1799 | 2-g: kypsyttää juusto | 0.00
+1801 | 1-g: ihmisistä (N) | 0.00
+1803 | 3-g: . ¤ 4. | 0.00
+1805 | 1-g: kommentti | 0.00
+1807 | 1-g: popsia | 0.00
+1808 | 2-g: olla sellainen | 0.00
+1809 | 2-g: , kannattaa | 0.00
+1810 | 2-g: kaikki ei | 0.00
+1811 | 2-g: huomio , | 0.00
+1812 | 3-g: , joka on (N) | 0.00
+1813 | 1-g: tavallisesti (N) | 0.00
+1814 | 3-g: , mikä ei | 0.00
+1797 | 2-g: ¤ sokeri (N) | 0.00
+1777 | 1-g: jokapäiväinen | 0.00
+1776 | 1-g: neutraali | 0.00
+1775 | 1-g: tärkeää (N) | 0.00
+1726 | 2-g: , huono | 0.00
+1727 | 1-g: syömistä (N) | 0.00
+1729 | 2-g: näyttöä siitä (N) | 0.00
+1730 | 2-g: kuten esimerkiksi (N) | 0.00
+1731 | 2-g: jokin syy | 0.00
+1732 | 1-g: saatat (N) | 0.00
+1733 | 2-g: ¤ suola | 0.00
+1734 | 1-g: glukoosi | 0.00
+1736 | 2-g: ja kasvis | 0.00
+1738 | 3-g: CONJ VERB PROPN (N) | 0.00
+1740 | 2-g: VERB ¤ (N) | 0.00
+1742 | 2-g: vatsa ja | 0.00
+1743 | 3-g: . olla myös | 0.00
+1744 | 2-g: silloin tällöin | 0.00
+1745 | 1-g: kaura | 0.00
+1747 | 1-g: rasvaa (N) | 0.00
+1751 | 3-g: ADP PUNCT PROPN (N) | 0.00
+1753 | 2-g: olla jopa | 0.00
+1755 | 3-g: . ¤ ruokavalio | 0.00
+1756 | 2-g: sille , (N) | 0.00
+1763 | 3-g: ADV ADV ADV (N) | 0.00
+1764 | 1-g: niveltulehdus | 0.00
+1766 | 3-g: PROPN PRON NOUN (N) | 0.00
+1767 | 3-g: VERB ADV ADJ (N) | 0.00
+1769 | 1-g: allergeeni | 0.00
+1770 | 1-g: hermosto | 0.00
+1771 | 1-g: suosituksen (N) | 0.00
+1773 | 1-g: närästys | 0.00
+1774 | 3-g: huomata , että | 0.00
+1724 | 1-g: pelkästään (N) | 0.00
+1815 | 1-g: kulua | 0.00
+1619 | 1-g: porkkana | 0.00
+1617 | 3-g: NOUN PUNCT CONJ (N) | 0.00
+1480 | 3-g: . ¤ virasto_tag | 0.00
+1481 | 1-g: maitotuote | 0.00
+1482 | 2-g: syödä vähemmän | 0.00
+1483 | 1-g: kuntoon (N) | 0.00
+1484 | 1-g: kohtuullinen | 0.00
+1485 | 1-g: vastustuskyky | 0.00
+1486 | 3-g: PUNCT NOUN ADJ (N) | 0.00
+1487 | 1-g: päivittäinen | 0.00
+1488 | 2-g: on kuitenkin (N) | 0.00
+1490 | 2-g: olla mies_tag | 0.00
+1494 | 1-g: lukema | 0.00
+1495 | 3-g: PROPN ADJ ADJ (N) | 0.00
+1496 | 2-g: ja alkoholi | 0.00
+1479 | 2-g: olla tietysti | 0.00
+1497 | 2-g: kerta päivä | 0.00
+1500 | 2-g: eläinkunta tuote | 0.00
+1501 | 2-g: maailma . | 0.00
+1502 | 3-g: , joka pitää | 0.00
+1503 | 2-g: hivenaine , | 0.00
+1504 | 1-g: tuntea | 0.00
+1505 | 2-g: ja makkara | 0.00
+1508 | 2-g: vuonna CARD_NUMBER (N) | 0.00
+1512 | 2-g: välillä . | 0.00
+1513 | 1-g: todiste | 0.00
+1514 | 3-g: ¤ PRON AUX (N) | 0.00
+1515 | 1-g: ratkaista | 0.00
+1516 | 1-g: kemikaali | 0.00
+1519 | 2-g: mukaan " | 0.00
+1498 | 1-g: allerginen | 0.00
+1478 | 2-g: solu . | 0.00
+1477 | 1-g: syödään (N) | 0.00
+1476 | 1-g: samanaikaisesti (N) | 0.00
+1432 | 3-g: PUNCT NOUN PUNCT (N) | 0.00
+1433 | 1-g: b12-vitamiini | 0.00
+1434 | 1-g: ympäristö | 0.00
+1435 | 2-g: terveys . | 0.00
+1438 | 3-g: PUNCT SCONJ ADJ (N) | 0.00
+1439 | 1-g: lieventää | 0.00
+1441 | 2-g: hiilihydraatteja ja (N) | 0.00
+1443 | 3-g: käyttää . ¤ | 0.00
+1444 | 2-g: olla koskaan | 0.00
+1447 | 2-g: alzheimerin tauti | 0.00
+1448 | 2-g: olla jo | 0.00
+1449 | 3-g: . se voida | 0.00
+1451 | 1-g: käyttöön (N) | 0.00
+1452 | 2-g: terveellinen ruokavalio | 0.00
+1454 | 2-g: ja pitää | 0.00
+1456 | 3-g: PRON VERB SCONJ (N) | 0.00
+1458 | 3-g: VERB PRON ADV (N) | 0.00
+1459 | 1-g: tuotteita (N) | 0.00
+1460 | 3-g: PROPN AUX PRON (N) | 0.00
+1461 | 1-g: trendi | 0.00
+1462 | 2-g: ja nainen | 0.00
+1463 | 1-g: loppu | 0.00
+1464 | 2-g: NOUN PROPN (N) | 0.00
+1468 | 2-g: ja pähkinä | 0.00
+1469 | 3-g: PUNCT VERB ADJ (N) | 0.00
+1472 | 2-g: olla tämä | 0.00
+1473 | 3-g: olla havaita olla | 0.00
+1474 | 1-g: laihduttamisen (N) | 0.00
+1475 | 2-g: olla etu | 0.00
+1520 | 1-g: rasvoja (N) | 0.00
+1618 | 1-g: rasvalla (N) | 0.00
+1521 | 2-g: syödä , | 0.00
+1524 | 2-g: kannattaa ottaa | 0.00
+1573 | 3-g: NOUN ADV PUNCT (N) | 0.00
+1574 | 2-g: ei tehdä | 0.00
+1577 | 3-g: VERB ADV VERB (N) | 0.00
+1578 | 1-g: kalsium | 0.00
+1580 | 3-g: PUNCT CONJ ADP (N) | 0.00
+1581 | 1-g: kuppi | 0.00
+1583 | 2-g: olla nyt | 0.00
+1585 | 1-g: kuuluu (N) | 0.00
+1586 | 3-g: . ¤ tämä | 0.00
+1587 | 2-g: . todellisuus | 0.00
+1591 | 1-g: markkinointi | 0.00
+1592 | 2-g: olla lähes | 0.00
+1593 | 3-g: NOUN NOUN ADP (N) | 0.00
+1572 | 2-g: kasvu ja | 0.00
+1594 | 1-g: tunteen (N) | 0.00
+1597 | 1-g: vähiten | 0.00
+1598 | 1-g: säilöä | 0.00
+1599 | 2-g: tutkia , | 0.00
+1600 | 2-g: . yhdysvalta | 0.00
+1602 | 3-g: CARD_NUMBER kcal . | 0.00
+1606 | 2-g: vähentää . | 0.00
+1608 | 3-g: PROPN PUNCT NOUN (N) | 0.00
+1609 | 3-g: NOUN PUNCT INTJ (N) | 0.00
+1610 | 1-g: äidinmaitokorvike | 0.00
+1611 | 1-g: valmistaja | 0.00
+1614 | 2-g: sydän- ja (N) | 0.00
+1615 | 1-g: resepti | 0.00
+1616 | 2-g: geeni , | 0.00
+1595 | PUNCT (C) | 0.00
+1571 | 2-g: suolisto bakteerikanta | 0.00
+1570 | 1-g: vatsavaiva | 0.00
+1569 | 2-g: vaiva . | 0.00
+1526 | 1-g: vastaus | 0.00
+1529 | 3-g: NOUN PUNCT VERB (N) | 0.00
+1530 | 2-g: haittaa . (N) | 0.00
+1533 | 3-g: CONJ ADV PRON (N) | 0.00
+1534 | 1-g: indeksi | 0.00
+1535 | 3-g: AUX VERB PUNCT (N) | 0.00
+1538 | 2-g: peruste . | 0.00
+1539 | 2-g: vähän , | 0.00
+1540 | 2-g: , rauta | 0.00
+1541 | 3-g: PRON PUNCT ¤ (N) | 0.00
+1543 | 3-g: kertoa . ¤ | 0.00
+1544 | 3-g: NUM PUNCT ADJ (N) | 0.00
+1547 | 1-g: myötä | 0.00
+1548 | 2-g: jokin vaihe | 0.00
+1550 | 3-g: PUNCT ¤ PUNCT (N) | 0.00
+1551 | 2-g: tarvita . | 0.00
+1553 | 3-g: SCONJ PRON ADV (N) | 0.00
+1554 | 2-g: ¤ hiilihydraatti | 0.00
+1555 | 2-g: tämä kaikki | 0.00
+1556 | 3-g: . ¤ sokeri | 0.00
+1557 | 3-g: , hedelmä ja | 0.00
+1558 | 2-g: . tällainen | 0.00
+1559 | 1-g: hyödyntämään (N) | 0.00
+1560 | 3-g: PRON AUX VERB (N) | 0.00
+1563 | 1-g: maistu (N) | 0.00
+1564 | 1-g: tulehdukseen (N) | 0.00
+1565 | 1-g: viljatuote | 0.00
+1566 | 1-g: heikentyä | 0.00
+1567 | 3-g: henkilö , joka | 0.00
+1523 | 2-g: annos . | 0.00
+1816 | 3-g: PUNCT NUM PROPN (N) | 0.00
+1817 | 3-g: VERB PUNCT VERB (N) | 0.00
+1818 | 1-g: tunne | 0.00
+2065 | 2-g: jossa on (N) | 0.00
+2068 | 2-g: tyydyttyä rasva | 0.00
+2069 | 2-g: merkitys . | 0.00
+2071 | 1-g: koostua | 0.00
+2073 | 1-g: kofeiinia (N) | 0.00
+2075 | 1-g: tutkijat (N) | 0.00
+2076 | 1-g: mitokondrio | 0.00
+2077 | 2-g: sokeri ja | 0.00
+2078 | 3-g: NOUN NUM VERB (N) | 0.00
+2079 | 1-g: ravinnosta (N) | 0.00
+2080 | 1-g: hitaasti | 0.00
+2081 | 2-g: monityydyttymätön rasvahappo | 0.00
+2082 | 2-g: olla ruokavalio | 0.00
+2064 | 2-g: ei yleensä | 0.00
+2084 | 1-g: hankkia | 0.00
+2087 | 1-g: hallita | 0.00
+2088 | 1-g: stressi | 0.00
+2089 | 2-g: seuraus olla | 0.00
+2090 | 2-g: ja ruoka | 0.00
+2091 | 1-g: migreeni | 0.00
+2092 | 1-g: kaappi | 0.00
+2093 | 2-g: jolloin se | 0.00
+2094 | 2-g: suuri kuin | 0.00
+2095 | 3-g: CONJ ADV ADV (N) | 0.00
+2096 | 2-g: lihavalmiste , | 0.00
+2100 | 3-g: PROPN PUNCT ¤ (N) | 0.00
+2101 | 2-g: välillä on (N) | 0.00
+2103 | 3-g: VERB VERB CONJ (N) | 0.00
+2085 | 3-g: AUX CONJ VERB (N) | 0.00
+2063 | 1-g: seuraava | 0.00
+2060 | 1-g: valtimo | 0.00
+2058 | 2-g: olla pitää | 0.00
+2025 | 2-g: syöpä riski | 0.00
+2026 | 1-g: tunnistaa | 0.00
+2027 | 1-g: 1950luku | 0.00
+2028 | 2-g: mikä olla | 0.00
+2029 | 1-g: brasilia | 0.00
+2030 | 2-g: SCONJ ADJ (N) | 0.00
+2032 | 3-g: ADV PRON NOUN (N) | 0.00
+2033 | 1-g: harvemmin | 0.00
+2034 | 2-g: syödä . | 0.00
+2036 | 2-g: ajatella , | 0.00
+2038 | 1-g: kokonaan (N) | 0.00
+2039 | 1-g: prosentti | 0.00
+2040 | 2-g: energiaa , (N) | 0.00
+2041 | 1-g: urheilija | 0.00
+2042 | 2-g: lääke . | 0.00
+2043 | 3-g: ADV ADJ NOUN (N) | 0.00
+2044 | 2-g: , varsinkin | 0.00
+2045 | 2-g: olla mikään | 0.00
+2046 | 3-g: VERB NUM ADV (N) | 0.00
+2047 | 1-g: väestötaso | 0.00
+2048 | 1-g: nousu | 0.00
+2049 | 1-g: rasvojen (N) | 0.00
+2050 | 1-g: maailmalla (N) | 0.00
+2051 | 2-g: vain se | 0.00
+2053 | 2-g: kasvis ja | 0.00
+2054 | 2-g: . virasto_tag | 0.00
+2055 | 3-g: PUNCT NOUN CONJ (N) | 0.00
+2056 | 2-g: CONJ CONJ (N) | 0.00
+2057 | 1-g: parantamaan (N) | 0.00
+2104 | 3-g: niin paljon , | 0.00
+2024 | 2-g: sen vuoksi (N) | 0.00
+2105 | 1-g: roskaruoka | 0.00
+2107 | 2-g: ¤ käyttää | 0.00
+2165 | 1-g: tunnettuja (N) | 0.00
+2171 | 2-g: lisätä . | 0.00
+2174 | 1-g: kuitu | 0.00
+2177 | 2-g: voida ja | 0.00
+2181 | 1-g: tarkistaa | 0.00
+2182 | 3-g: . ¤ mutta | 0.00
+2183 | 2-g: olla suuri | 0.00
+2184 | 1-g: nauttivat (N) | 0.00
+2185 | 2-g: pitää saada | 0.00
+2186 | 1-g: eläinproteiini | 0.00
+2188 | 2-g: taso , | 0.00
+2189 | 2-g: / kg (N) | 0.00
+2192 | 2-g: voida syödä | 0.00
+2164 | 3-g: mies_tag . ¤ | 0.00
+2193 | 1-g: pehmeitä (N) | 0.00
+2200 | 1-g: tyhjä | 0.00
+2201 | 1-g: laktoosi-intoleranssi (N) | 0.00
+2202 | 1-g: pullo | 0.00
+2204 | 1-g: ravintosuositus | 0.00
+2205 | 2-g: tuote olla | 0.00
+2206 | 2-g: ¤ maito | 0.00
+2207 | 3-g: ADJ ADV SCONJ (N) | 0.00
+2208 | 3-g: NUM ADV ADJ (N) | 0.00
+2209 | 3-g: CONJ NOUN CONJ (N) | 0.00
+2210 | 2-g: terveys haitallinen | 0.00
+2211 | 1-g: keuhkosyöpä | 0.00
+2212 | 1-g: immuunipuolustus | 0.00
+2213 | 2-g: aamu ja | 0.00
+2197 | 1-g: tarkoitus | 0.00
+2162 | 1-g: ikääntyä | 0.00
+2160 | 1-g: erikseen | 0.00
+2159 | 3-g: NOUN ADJ NOUN (N) | 0.00
+2111 | 1-g: uudelleen | 0.00
+2112 | 1-g: superfood | 0.00
+2113 | 3-g: , joka ei | 0.00
+2114 | 1-g: erilaisia (N) | 0.00
+2115 | 3-g: ADJ PUNCT CONJ (N) | 0.00
+2121 | 1-g: tietty (N) | 0.00
+2122 | 2-g: olla hoitaa | 0.00
+2123 | 2-g: olla sitten | 0.00
+2125 | 3-g: PRON PUNCT PUNCT (N) | 0.00
+2129 | 2-g: vastaan . | 0.00
+2130 | 3-g: CONJ SCONJ PROPN (N) | 0.00
+2131 | 3-g: AUX VERB VERB (N) | 0.00
+4007 | 2-g: hedelmiä ja (N) | 0.00
+2133 | 3-g: PUNCT AUX ADV (N) | 0.00
+2135 | 1-g: diabeteksen (N) | 0.00
+2140 | 1-g: vastustaa | 0.00
+2143 | 2-g: siten , | 0.00
+2144 | 1-g: vereen (N) | 0.00
+2146 | 1-g: tieteilija_tag | 0.00
+2147 | 1-g: kouristus | 0.00
+2148 | 1-g: lihansyöjä | 0.00
+2149 | 3-g: mahdollinen , että | 0.00
+2150 | 3-g: . ¤ tuote_tag | 0.00
+2152 | 2-g: samoin kuin | 0.00
+2153 | 3-g: PRON ADV PROPN (N) | 0.00
+2154 | 1-g: tryptofaania | 0.00
+2155 | 3-g: CONJ VERB VERB (N) | 0.00
+2156 | 2-g: kuitenkin se | 0.00
+2157 | 3-g: NOUN PRON PRON (N) | 0.00
+2106 | 2-g: se sama | 0.00
+2023 | 2-g: ne voivat (N) | 0.00
+2022 | 3-g: ADP SCONJ ADV (N) | 0.00
+2020 | 2-g: tietää mikä | 0.00
+1869 | 1-g: lähtö | 0.00
+1870 | 1-g: kurpitsasiemen | 0.00
+1871 | 1-g: kiihdyttää | 0.00
+1872 | 3-g: punainen liha ja | 0.00
+1874 | 2-g: päivä aika | 0.00
+1875 | 1-g: eläinperäinen | 0.00
+1876 | 2-g: SCONJ ADV (N) | 0.00
+1877 | 2-g: olla juuri | 0.00
+1879 | 1-g: melatoniinin (N) | 0.00
+1880 | 3-g: NOUN NOUN PROPN (N) | 0.00
+1882 | 1-g: tekijä | 0.00
+1883 | 1-g: ruokavalinta | 0.00
+1884 | 1-g: haitallinen | 0.00
+1868 | 1-g: helppo | 0.00
+1885 | 2-g: olla merkittävä | 0.00
+1889 | 1-g: tulee (N) | 0.00
+1892 | 1-g: tilanne | 0.00
+1893 | 3-g: NUM X X (N) | 0.00
+1899 | 1-g: varsinkin | 0.00
+1900 | 2-g: tehdä tutkimus | 0.00
+1901 | 2-g: jos hän | 0.00
+1904 | 2-g: . kyse | 0.00
+1906 | 1-g: kolmannes | 0.00
+1908 | 2-g: mies_tag mukaan (N) | 0.00
+1911 | 2-g: muutama vuosi | 0.00
+1912 | 2-g: vatsa toiminta | 0.00
+1913 | 2-g: . lapsi | 0.00
+1916 | 3-g: VERB PUNCT PRON (N) | 0.00
+1888 | 1-g: haastattelu | 0.00
+1866 | 1-g: levite | 0.00
+1865 | 2-g: on havaittu (N) | 0.00
+1863 | 2-g: maito ei | 0.00
+1819 | 3-g: PRON VERB VERB (N) | 0.00
+1820 | 2-g: vuoksi . | 0.00
+1821 | 1-g: aamupala (N) | 0.00
+1823 | 2-g: on siis (N) | 0.00
+1825 | CONJ (C) | 0.00
+1826 | 1-g: sairaala_tag (N) | 0.00
+1828 | 1-g: ajatus | 0.00
+1830 | 1-g: ohutsuoli | 0.00
+1832 | 2-g: pasta , | 0.00
+1833 | 1-g: luumu | 0.00
+1834 | 3-g: olla se , | 0.00
+1835 | 1-g: tutkimukset (N) | 0.00
+1837 | 2-g: ainesosa , | 0.00
+1839 | 2-g: liikaa . | 0.00
+1840 | 1-g: proteiinipatukka | 0.00
+1841 | 1-g: aiheuttaja | 0.00
+1842 | 2-g: oire olla | 0.00
+1844 | 1-g: tehtävä | 0.00
+1847 | 1-g: tutkijaryhmä | 0.00
+1848 | 2-g: ADV ADP (N) | 0.00
+1852 | 2-g: ja lihavalmiste | 0.00
+1855 | 2-g: . hyvä | 0.00
+1856 | 2-g: koko kehon (N) | 0.00
+1857 | 1-g: näkemys | 0.00
+1858 | 2-g: nauttia voida | 0.00
+1859 | 2-g: koko keho | 0.00
+1860 | 1-g: tutkimustieto | 0.00
+1861 | 2-g: voi syödä (N) | 0.00
+1862 | 1-g: käyvät (N) | 0.00
+1917 | 3-g: PUNCT SYM ADJ (N) | 0.00
+1918 | 2-g: ainesosa . | 0.00
+1921 | 1-g: säteily | 0.00
+1922 | 3-g: ¤ NOUN CONJ (N) | 0.00
+1983 | 2-g: PUNCT PRON (N) | 0.00
+1984 | 2-g: yhä enemmän | 0.00
+1985 | 2-g: CARD_NUMBER kiloa (N) | 0.00
+1986 | 2-g: sillä se | 0.00
+1987 | 2-g: ihminen ja | 0.00
+1988 | 1-g: reumasairaus | 0.00
+1989 | 1-g: määrää (N) | 0.00
+1990 | 3-g: ADP ADV NOUN (N) | 0.00
+1993 | 2-g: diabetes olla | 0.00
+1994 | 2-g: enemmän , | 0.00
+1997 | 2-g: olla välttämätön | 0.00
+1998 | 2-g: onko se (N) | 0.00
+1999 | 1-g: lämpötila | 0.00
+2000 | 2-g: olla säännöllinen | 0.00
+2001 | 2-g: terve ihminen | 0.00
+2003 | 3-g: mies_tag sanoo . (N) | 0.00
+2004 | 2-g: rasva ja | 0.00
+2006 | 1-g: lisääntyä | 0.00
+2007 | 2-g: yritys_tag . | 0.00
+2008 | 1-g: sokeriaineenvaihdunta | 0.00
+2009 | 2-g: nainen_tag ja | 0.00
+2010 | 3-g: PUNCT PRON ADJ (N) | 0.00
+2011 | 1-g: teollisuus | 0.00
+2012 | 1-g: harrastaa | 0.00
+2013 | 1-g: kaakao | 0.00
+2015 | 3-g: aminohappo , joka | 0.00
+2016 | 2-g: kasvua ja (N) | 0.00
+2017 | 2-g: CONJ PROPN (N) | 0.00
+2018 | 2-g: syöminen olla | 0.00
+1981 | 2-g: , liha | 0.00
+1429 | 3-g: AUX VERB ADJ (N) | 0.00
+1980 | 3-g: , että syödä | 0.00
+1974 | 1-g: tyydyttyneitä (N) | 0.00
+1923 | 1-g: huono | 0.00
+1925 | 1-g: välimeri | 0.00
+1926 | 1-g: tarjolla | 0.00
+1927 | 2-g: yksi syy | 0.00
+1928 | 2-g: olla kuitenkin | 0.00
+1929 | 3-g: VERB PUNCT ADJ (N) | 0.00
+1930 | 2-g: . näiden (N) | 0.00
+1931 | 1-g: kuluttaja | 0.00
+1933 | 1-g: valikoida | 0.00
+1934 | 3-g: se ei olla | 0.00
+1936 | 1-g: tasapainottaa | 0.00
+1938 | 2-g: juusto , | 0.00
+1941 | 1-g: todellinen | 0.00
+1942 | 1-g: vastaan | 0.00
+1943 | 2-g: on pitkä (N) | 0.00
+1944 | 2-g: . ihminen (N) | 0.00
+1946 | 1-g: painonhallintaan (N) | 0.00
+1948 | 1-g: luomua (N) | 0.00
+1949 | 2-g: ei uskoa | 0.00
+1952 | 1-g: diabeetikko | 0.00
+1954 | 2-g: julkaisu_tag julkaista | 0.00
+1955 | 1-g: tutkimuksissa (N) | 0.00
+1960 | 2-g: olla tietty | 0.00
+1961 | 1-g: väestö | 0.00
+1966 | 1-g: solujen (N) | 0.00
+1968 | 3-g: VERB NOUN ADJ (N) | 0.00
+1969 | 1-g: merkittävä | 0.00
+1970 | 1-g: kohtuus | 0.00
+1973 | 3-g: ADP NOUN ADV (N) | 0.00
+1976 | 3-g: . ¤ miten | 0.00
+2214 | 2-g: terveellinen ja | 0.00
+1428 | 1-g: tulisi (N) | 0.00
+1426 | 2-g: " mitä (N) | 0.00
+964 | 3-g: PROPN VERB PUNCT (N) | 0.00
+965 | 1-g: paremmin | 0.00
+966 | 2-g: pieniä , (N) | 0.00
+967 | 1-g: omega-3-rasvahappoja | 0.00
+969 | 3-g: AUX VERB NOUN (N) | 0.00
+971 | 3-g: . ¤ yliopisto_tag | 0.00
+972 | 1-g: kuulostaa | 0.00
+974 | 2-g: ei voida (N) | 0.00
+975 | 3-g: PUNCT CONJ NOUN (N) | 0.00
+978 | 1-g: ruokalusikka | 0.00
+979 | 2-g: tietää . | 0.00
+980 | 1-g: henkilö | 0.00
+982 | 2-g: nainen_tag kertoa | 0.00
+962 | 2-g: , seleeni | 0.00
+983 | 3-g: NOUN PRON VERB (N) | 0.00
+985 | 2-g: . syy | 0.00
+987 | 1-g: torjunta-aine | 0.00
+988 | 1-g: aiemmin | 0.00
+989 | 1-g: ruokavalioon (N) | 0.00
+991 | 2-g: marja olla | 0.00
+992 | 1-g: kuolemaan (N) | 0.00
+993 | 1-g: luokitella | 0.00
+994 | 1-g: määritellä | 0.00
+996 | 1-g: lämmittää | 0.00
+997 | 1-g: kalori | 0.00
+998 | 3-g: PROPN PUNCT PUNCT (N) | 0.00
+999 | 2-g: olla voida | 0.00
+1000 | 3-g: PUNCT VERB VERB (N) | 0.00
+984 | 1-g: dieetti | 0.00
+960 | 1-g: saavuttaa | 0.00
+959 | 2-g: eli CARD_NUMBER | 0.00
+958 | 1-g: ehkäisevän (N) | 0.00
+911 | 2-g: PUNCT AUX (N) | 0.00
+912 | 1-g: suolistobakteeri | 0.00
+914 | 2-g: . paljon | 0.00
+915 | 3-g: PUNCT ADV SCONJ (N) | 0.00
+916 | 3-g: ¤ nainen_tag mukaan | 0.00
+919 | 3-g: , joka auttaa | 0.00
+920 | 2-g: , kasvis | 0.00
+921 | 2-g: sokeri , | 0.00
+923 | 3-g: AUX PUNCT PRON (N) | 0.00
+925 | 1-g: jolloin | 0.00
+928 | 2-g: vuosi . | 0.00
+929 | 2-g: kaikki olla | 0.00
+932 | 3-g: CONJ PRON PRON (N) | 0.00
+933 | 2-g: , joita (N) | 0.00
+934 | 2-g: joka käyttää | 0.00
+935 | 1-g: koskaan (N) | 0.00
+936 | 1-g: vaikuttavat (N) | 0.00
+939 | 2-g: bakteeri ja | 0.00
+941 | 2-g: maito sisältää | 0.00
+944 | 3-g: PRON VERB ADJ (N) | 0.00
+945 | 3-g: VERB NOUN PUNCT (N) | 0.00
+946 | 2-g: tämä on (N) | 0.00
+947 | 2-g: tutkimusten mukaan (N) | 0.00
+948 | 2-g: että terveellinen | 0.00
+952 | 2-g: mieli se | 0.00
+954 | 1-g: näytti (N) | 0.00
+955 | 1-g: säilöntäaine | 0.00
+956 | 1-g: mieliala | 0.00
+957 | 1-g: mct-öljy (N) | 0.00
+1002 | 1-g: enimmäkseen | 0.00
+910 | 2-g: magnesium , | 0.00
+1003 | 1-g: mainio | 0.00
+1008 | 2-g: olla luonnostaan | 0.00
+1054 | 1-g: superruoka | 0.00
+1055 | 1-g: tulehdustila | 0.00
+1056 | 2-g: jos haluta | 0.00
+1057 | 2-g: metabolinen oireyhtymä | 0.00
+1058 | 1-g: ruokaa (N) | 0.00
+1060 | 2-g: , jossa (N) | 0.00
+1061 | 2-g: olla todennäköisesti | 0.00
+1062 | 1-g: ettei | 0.00
+1065 | 1-g: kolmas | 0.00
+1067 | 2-g: aivot . | 0.00
+1068 | 1-g: suurentua | 0.00
+1069 | 1-g: omena | 0.00
+1070 | 2-g: raskaana oleville (N) | 0.00
+1052 | 3-g: olla terveellinen . | 0.00
+1071 | 2-g: ravintoaine ja | 0.00
+1073 | 3-g: PUNCT PUNCT AUX (N) | 0.00
+1074 | 3-g: SCONJ NOUN NOUN (N) | 0.00
+1075 | 3-g: NOUN ¤ NOUN (N) | 0.00
+1076 | 3-g: ADJ NOUN ¤ (N) | 0.00
+1077 | 2-g: kolesteroli olla | 0.00
+1078 | 1-g: tuotanto | 0.00
+1079 | 1-g: asiakas | 0.00
+1080 | 1-g: yleisesti (N) | 0.00
+1081 | 2-g: välttää . (N) | 0.00
+1082 | 2-g: myös hyvä | 0.00
+1083 | 1-g: kliininen | 0.00
+1084 | 1-g: hapattaa | 0.00
+1085 | 3-g: ruokavalio . ¤ | 0.00
+1072 | 1-g: parata | 0.00
+1049 | 1-g: versio | 0.00
+1048 | 3-g: ei olla terveys | 0.00
+1047 | 1-g: muuntaa | 0.00
+1009 | 1-g: syynä (N) | 0.00
+1010 | 2-g: hyvin . | 0.00
+1011 | 2-g: rasva määrä | 0.00
+1015 | 1-g: julkaistussa | 0.00
+1017 | 2-g: , marjoja (N) | 0.00
+1018 | 2-g: ja hyvin | 0.00
+1019 | 1-g: tavoin (N) | 0.00
+1020 | 2-g: niillä on (N) | 0.00
+1021 | 2-g: nyt olla | 0.00
+1022 | 2-g: myös , | 0.00
+1024 | 2-g: . kova | 0.00
+1025 | 3-g: ADV SYM ADJ (N) | 0.00
+1026 | 2-g: kannattaa valita | 0.00
+1028 | 1-g: kannalta (N) | 0.00
+1029 | 2-g: . magnesium | 0.00
+1030 | 1-g: monipuolinen (N) | 0.00
+1031 | 1-g: kuluttaa | 0.00
+1032 | 1-g: näkökulma | 0.00
+1033 | 1-g: yllätys | 0.00
+1036 | 2-g: olla yhdistää | 0.00
+1037 | 2-g: joka edistää | 0.00
+1038 | 1-g: hallinta | 0.00
+1039 | 2-g: kala ja | 0.00
+1040 | 1-g: tavallista (N) | 0.00
+1041 | 2-g: vuosi CARD_NUMBER | 0.00
+1042 | 1-g: siirtää | 0.00
+1043 | 2-g: voi ja | 0.00
+1045 | 2-g: pitkään . | 0.00
+1046 | 1-g: tarkastella | 0.00
+1004 | 1-g: vähentävät (N) | 0.00
+1086 | 2-g: ovat osoittaneet (N) | 0.00
+909 | 1-g: huonolaatuinen | 0.00
+907 | 3-g: NOUN NUM NOUN (N) | 0.00
+790 | 2-g: ja siten | 0.00
+791 | 2-g: PRON ADP (N) | 0.00
+792 | 1-g: helpommin (N) | 0.00
+794 | 1-g: keliakia | 0.00
+795 | 1-g: tosiaan | 0.00
+796 | 2-g: lihottaa . | 0.00
+797 | 1-g: viimeistään (N) | 0.00
+798 | 2-g: mg / | 0.00
+799 | 2-g: , juures | 0.00
+800 | 2-g: olla viime | 0.00
+801 | 1-g: kumota | 0.00
+802 | 2-g: suuri , | 0.00
+803 | 1-g: varhainen | 0.00
+789 | 1-g: bakteeri | 0.00
+804 | 1-g: rautalisä | 0.00
+807 | 1-g: mieltää | 0.00
+808 | 2-g: riisi ja | 0.00
+809 | 3-g: PUNCT PROPN NUM (N) | 0.00
+810 | 3-g: havaita , että | 0.00
+811 | 3-g: olla noin CARD_NUMBER | 0.00
+812 | 3-g: ADP NOUN VERB (N) | 0.00
+813 | 1-g: ravintolisä | 0.00
+814 | 1-g: ongelmia (N) | 0.00
+815 | 2-g: kehittyä . | 0.00
+816 | 1-g: nimenomaan | 0.00
+817 | 3-g: , joten se (N) | 0.00
+818 | 1-g: antibioottikuuri | 0.00
+819 | 1-g: rakenne | 0.00
+806 | 1-g: torjunta-aineet (N) | 0.00
+788 | 3-g: selvää , että (N) | 0.00
+787 | 3-g: SCONJ VERB NOUN (N) | 0.00
+786 | 2-g: VERB PUNCT (N) | 0.00
+745 | 2-g: ja samalla | 0.00
+746 | 2-g: . voida | 0.00
+747 | 2-g: ei tulla | 0.00
+750 | 2-g: ADV ADV (N) | 0.00
+752 | 1-g: menetelmä | 0.00
+756 | 3-g: AUX ADV VERB (N) | 0.00
+757 | 2-g: ja muu | 0.00
+758 | 2-g: jo CARD_NUMBER | 0.00
+760 | 1-g: tomaatti | 0.00
+761 | 2-g: tutkia olla | 0.00
+762 | 2-g: olla hieman | 0.00
+763 | 2-g: väittää , | 0.00
+764 | 2-g: energia ja | 0.00
+765 | 1-g: suhtautua | 0.00
+766 | 1-g: ainoastaan | 0.00
+768 | 1-g: vuoksi (N) | 0.00
+769 | 3-g: ADV CONJ NUM (N) | 0.00
+770 | 1-g: kritisoida | 0.00
+771 | 3-g: , joka lisätä | 0.00
+773 | 2-g: todeta . | 0.00
+775 | 1-g: suomalaisten (N) | 0.00
+776 | 3-g: , mies_tag sanoa | 0.00
+778 | 2-g: . sama | 0.00
+779 | 2-g: ADP ADJ (N) | 0.00
+780 | 2-g: kuin muu | 0.00
+781 | 3-g: VERB ADJ ADJ (N) | 0.00
+782 | 3-g: , mikä olla | 0.00
+783 | 2-g: , kuitu | 0.00
+785 | 3-g: PROPN NOUN PUNCT (N) | 0.00
+822 | 2-g: diabetes ja | 0.00
+908 | 2-g: kysymys olla | 0.00
+823 | 1-g: arvostaa | 0.00
+826 | 3-g: NOUN PUNCT NUM (N) | 0.00
+871 | 2-g: vihannes , | 0.00
+872 | 1-g: välipalo | 0.00
+873 | 1-g: kuituja (N) | 0.00
+874 | 2-g: . muu | 0.00
+875 | 2-g: suolisto ja | 0.00
+876 | 1-g: itämeri | 0.00
+877 | 2-g: . viime | 0.00
+879 | 2-g: punaisen lihan (N) | 0.00
+880 | 2-g: rasvahappo . | 0.00
+883 | 1-g: päivittäin | 0.00
+885 | 2-g: tärkeä ravintoaine | 0.00
+889 | 2-g: ruoka olla | 0.00
+890 | 1-g: erittäin (N) | 0.00
+870 | 1-g: sekaisin | 0.00
+891 | 3-g: NOUN PRON ADV (N) | 0.00
+893 | 3-g: ¤ tutkimusten mukaan (N) | 0.00
+894 | 1-g: vatsa | 0.00
+895 | 1-g: yllättää | 0.00
+896 | 1-g: jokainen | 0.00
+897 | 1-g: yliherkkyys | 0.00
+898 | 1-g: sokeripitoinen | 0.00
+899 | 3-g: riski . ¤ | 0.00
+900 | 2-g: kala , | 0.00
+901 | 1-g: rajoittaa | 0.00
+902 | 2-g: muu tekijä | 0.00
+903 | 2-g: olla ainoa | 0.00
+904 | 1-g: nopea (N) | 0.00
+906 | 2-g: heiketä . | 0.00
+892 | 1-g: maksaa | 0.00
+869 | 2-g: vuorokausi . | 0.00
+868 | 3-g: ADP PUNCT ADV (N) | 0.00
+867 | 1-g: käyttöä (N) | 0.00
+830 | 1-g: ihmisten (N) | 0.00
+832 | 2-g: ja elimistö | 0.00
+833 | 3-g: ADV PUNCT ¤ (N) | 0.00
+834 | 2-g: saada runsaasti | 0.00
+835 | 2-g: . vihreä | 0.00
+836 | 1-g: lounas | 0.00
+837 | 1-g: prosessi | 0.00
+838 | 2-g: aminohappoja , (N) | 0.00
+840 | 2-g: . hän (N) | 0.00
+841 | 1-g: kulttuuri | 0.00
+843 | 2-g: saada , | 0.00
+844 | 2-g: ¤ tuore | 0.00
+846 | 1-g: vakava (N) | 0.00
+849 | 1-g: halpa | 0.00
+850 | 3-g: viitata se , | 0.00
+851 | 3-g: aika . ¤ | 0.00
+853 | 2-g: pähkinä ja | 0.00
+855 | 1-g: sopia | 0.00
+856 | 1-g: kulkeutua | 0.00
+857 | 1-g: vältellä | 0.00
+858 | 3-g: NOUN ADV PRON (N) | 0.00
+859 | 2-g: varmistaa , | 0.00
+860 | 2-g: leipä ja | 0.00
+861 | 3-g: ADP PUNCT VERB (N) | 0.00
+862 | 2-g: ja aivot | 0.00
+863 | 2-g: , vaikka (N) | 0.00
+864 | 1-g: kelvata | 0.00
+865 | 2-g: vain vähän | 0.00
+866 | 2-g: välillä olla | 0.00
+825 | 1-g: todistettu (N) | 0.00
+1088 | 1-g: lasillinen | 0.00
+1089 | 1-g: vaatia | 0.00
+1090 | 3-g: ¤ PUNCT SCONJ (N) | 0.00
+1306 | 2-g: ja nuori | 0.00
+1307 | 1-g: oranssi | 0.00
+1308 | 3-g: SCONJ NOUN PUNCT (N) | 0.00
+1309 | 2-g: , niin (N) | 0.00
+1310 | 2-g: mies_tag ja (N) | 0.00
+1311 | 1-g: ruokahalu | 0.00
+1312 | 3-g: CONJ ADV NOUN (N) | 0.00
+1313 | 1-g: suolistobakteerien (N) | 0.00
+1316 | 3-g: . se saada | 0.00
+1317 | 2-g: ¤ PROPN (N) | 0.00
+1318 | 2-g: vähemmän kuin | 0.00
+1319 | 2-g: vitamiini , | 0.00
+1320 | 1-g: sanottu | 0.00
+1305 | 1-g: liivate | 0.00
+1321 | 1-g: haitallisuus | 0.00
+1323 | 1-g: niistä (N) | 0.00
+1324 | 1-g: vaurioittaa | 0.00
+1325 | 1-g: verran (N) | 0.00
+1326 | 1-g: tuote_tag (N) | 0.00
+1327 | 2-g: nainen_tag mukaan | 0.00
+1328 | 1-g: täydentää | 0.00
+1329 | 2-g: muun muassa (N) | 0.00
+1330 | 3-g: ADJ PRON AUX (N) | 0.00
+1331 | 2-g: tavallinen ruokasuola | 0.00
+1332 | 1-g: kärsiä | 0.00
+1333 | 1-g: halu | 0.00
+1334 | 3-g: ADV VERB ADP (N) | 0.00
+1335 | 2-g: yliopisto_tag tutkija | 0.00
+1322 | 3-g: SCONJ VERB PRON (N) | 0.00
+1304 | 1-g: banaani | 0.00
+1303 | 1-g: kokonainenkuolleisuus | 0.00
+1302 | 1-g: erityisesti (N) | 0.00
+1267 | 2-g: VERB PROPN (N) | 0.00
+1268 | 3-g: CONJ PRON ADP (N) | 0.00
+1269 | 2-g: ADV PROPN (N) | 0.00
+1270 | 2-g: syöminen . | 0.00
+1271 | 3-g: ADP NOUN NOUN (N) | 0.00
+1272 | 2-g: . miksi | 0.00
+1273 | 2-g: korvata se | 0.00
+1274 | 3-g: SCONJ VERB VERB (N) | 0.00
+1275 | 1-g: paksusuoli | 0.00
+1276 | 2-g: saattaa aiheuttaa | 0.00
+1277 | 2-g: ADV SCONJ (N) | 0.00
+1279 | 1-g: kokeilla | 0.00
+1280 | 1-g: perimä | 0.00
+1282 | 3-g: NUM PROPN PUNCT (N) | 0.00
+1283 | 1-g: alzheimer | 0.00
+1284 | 2-g: . eniten | 0.00
+1285 | 2-g: ravinto ja | 0.00
+1286 | 2-g: kannattaa suosia | 0.00
+1287 | 3-g: . ¤ 7. (N) | 0.00
+1288 | 1-g: tällöin | 0.00
+1290 | 1-g: ryhtyä | 0.00
+1291 | 1-g: yritys_tag | 0.00
+1292 | 1-g: yhteenveto | 0.00
+1293 | 2-g: . juuri | 0.00
+1295 | 2-g: , iho | 0.00
+1297 | 2-g: CARD_NUMBER . | 0.00
+1298 | 2-g: se voi (N) | 0.00
+1299 | 2-g: ravitsemus ja | 0.00
+1300 | 1-g: melko (N) | 0.00
+1336 | 2-g: gramma . | 0.00
+1266 | 2-g: proteiinin ja (N) | 0.00
+1337 | 3-g: PUNCT NOUN NOUN (N) | 0.00
+1342 | 3-g: ei olla , | 0.00
+1391 | 2-g: olla erittäin | 0.00
+1393 | 3-g: PUNCT ¤ ADJ (N) | 0.00
+1394 | 2-g: ja siemen | 0.00
+1395 | 3-g: VERB PUNCT CONJ (N) | 0.00
+1396 | 1-g: aivojen (N) | 0.00
+1397 | 2-g: olla terveys | 0.00
+1398 | 2-g: hoito , | 0.00
+1399 | 3-g: VERB PUNCT ADV (N) | 0.00
+1401 | 2-g: se kaikki | 0.00
+1402 | 1-g: mikrobisto | 0.00
+1403 | 1-g: berberiinin | 0.00
+1404 | 2-g: PUNCT NUM (N) | 0.00
+1405 | 3-g: . se , | 0.00
+1390 | 2-g: hedelmä , | 0.00
+1406 | 3-g: kasvis , hedelmä | 0.00
+1408 | 1-g: tarvitaan (N) | 0.00
+1409 | 2-g: . esimerkiksi | 0.00
+1412 | 1-g: riskiryhmä | 0.00
+1413 | 1-g: professori_tag (N) | 0.00
+1414 | 2-g: elimistö ja | 0.00
+1416 | 1-g: täysmaito | 0.00
+1417 | 2-g: nyt on (N) | 0.00
+1420 | 1-g: pilaantua | 0.00
+1421 | 3-g: VERB X X (N) | 0.00
+1422 | 1-g: pakkaus | 0.00
+1423 | 3-g: ADP SCONJ VERB (N) | 0.00
+1424 | 2-g: lähde . (N) | 0.00
+1425 | 2-g: asiantuntija_tag nainen_tag | 0.00
+1407 | 2-g: saanti voida | 0.00
+1389 | 3-g: ADV NUM PRON (N) | 0.00
+1388 | 1-g: keskimäärin | 0.00
+1387 | 1-g: gelatiini | 0.00
+1343 | 1-g: terveellisyys | 0.00
+1344 | 1-g: varma | 0.00
+1345 | 2-g: insuliini olla | 0.00
+1347 | 2-g: ¤ punainen | 0.00
+1348 | 1-g: ulkonäkö | 0.00
+1351 | 1-g: mainos | 0.00
+1352 | 1-g: torjua | 0.00
+1354 | 2-g: mutta ei | 0.00
+1355 | 3-g: silloin , kun | 0.00
+1356 | 2-g: voivat olla (N) | 0.00
+1357 | 2-g: , jolloin | 0.00
+1359 | 2-g: joka auttaa | 0.00
+1360 | 3-g: ADJ ADJ PUNCT (N) | 0.00
+1362 | 2-g: ¤ PRON (N) | 0.00
+1363 | 2-g: suklaa . | 0.00
+1364 | 1-g: hakeutua | 0.00
+1366 | 3-g: , että sokeri | 0.00
+1368 | 2-g: joka tulla | 0.00
+1369 | 2-g: PROPN ADJ (N) | 0.00
+1372 | 2-g: suolisto kunto | 0.00
+1373 | 3-g: noin CARD_NUMBER gramma | 0.00
+1374 | 2-g: ruoka kanssa | 0.00
+1379 | 1-g: kasvattaa | 0.00
+1380 | 2-g: että sokeri | 0.00
+1382 | 3-g: . ¤ se | 0.00
+1383 | 1-g: osoittautua | 0.00
+1384 | 1-g: perusasia | 0.00
+1385 | 1-g: tapahtuma | 0.00
+1386 | 1-g: huomauttaa | 0.00
+1341 | 2-g: vähähiilihydraatti ruokavalio | 0.00
+1265 | 1-g: osteoporoosi | 0.00
+1264 | 3-g: , kun se | 0.00
+1263 | 1-g: teoriassa (N) | 0.00
+1132 | 2-g: kannattaa kokeilla (N) | 0.00
+1133 | 3-g: . ¤ vaikka | 0.00
+1134 | 1-g: välittäjäaine | 0.00
+1135 | 1-g: hyöty | 0.00
+1136 | 1-g: maitovalmiste | 0.00
+1137 | 1-g: vihanneksista (N) | 0.00
+1138 | 2-g: saada esimerkiksi | 0.00
+1139 | 3-g: VERB VERB ADV (N) | 0.00
+1142 | 2-g: olla syödä | 0.00
+1143 | 1-g: öljy (N) | 0.00
+1144 | 2-g: olla todella | 0.00
+1145 | 3-g: . ¤ proteiini | 0.00
+1147 | 2-g: kaikki , | 0.00
+1131 | 1-g: kasvisruoka | 0.00
+1148 | 1-g: kirjoittaa | 0.00
+1151 | 2-g: vaikuttaa myös | 0.00
+1152 | 2-g: mikä voida | 0.00
+1153 | 1-g: päälle | 0.00
+1154 | 1-g: tupakoida | 0.00
+1155 | 3-g: . vuonna CARD_NUMBER (N) | 0.00
+1157 | 1-g: rintasyövän (N) | 0.00
+1158 | 1-g: tiedetty (N) | 0.00
+1160 | 2-g: siis olla | 0.00
+1161 | 1-g: pyritään (N) | 0.00
+1163 | 2-g: pysyä terve | 0.00
+1165 | 3-g: NOUN NOUN ADJ (N) | 0.00
+1166 | 1-g: mikrogramma | 0.00
+1167 | 1-g: tehokkaasti | 0.00
+1150 | 1-g: sanoo (N) | 0.00
+1130 | 2-g: verensokeri ja | 0.00
+1129 | 3-g: PROPN AUX VERB (N) | 0.00
+1128 | 1-g: paljo | 0.00
+1091 | 2-g: tyydyttynyt rasva (N) | 0.00
+1092 | 2-g: tomaatti , | 0.00
+1093 | 2-g: lisätä sokeri | 0.00
+1095 | 3-g: . ¤ moni (N) | 0.00
+1096 | 1-g: varsinainen | 0.00
+1097 | 1-g: kohtuullisesti | 0.00
+1098 | 2-g: kuin tavallinen | 0.00
+1101 | 1-g: ratkaisu (N) | 0.00
+1105 | 2-g: . CARD_NUMBER | 0.00
+1106 | 1-g: ruokavaliota (N) | 0.00
+1107 | 1-g: mesomorfi | 0.00
+1108 | 3-g: ¤ ADV NOUN (N) | 0.00
+1109 | 1-g: myöskään (N) | 0.00
+1110 | 2-g: syöminen , | 0.00
+1111 | 3-g: . ¤ ravinto | 0.00
+1112 | 2-g: hyvin vähän | 0.00
+1113 | 1-g: unohtaa | 0.00
+1114 | 1-g: neurologinen | 0.00
+1115 | 2-g: VERB NUM (N) | 0.00
+1116 | 2-g: vesi . | 0.00
+1117 | 1-g: vaarallinen | 0.00
+1118 | 1-g: kahdeksan | 0.00
+1119 | 1-g: muodostua | 0.00
+1121 | 2-g: muu muassa | 0.00
+1122 | 1-g: syöpää (N) | 0.00
+1123 | 3-g: g / kg (N) | 0.00
+1125 | 1-g: energiaa (N) | 0.00
+1126 | 2-g: , ettei (N) | 0.00
+1127 | 2-g: jokin verran | 0.00
+1168 | 1-g: aamiainen | 0.00
+1169 | 1-g: nopeasti | 0.00
+1170 | 1-g: nälkä | 0.00
+1172 | 2-g: . stressi | 0.00
+1221 | 1-g: johtua | 0.00
+1226 | 2-g: CARD_NUMBER rasva | 0.00
+1227 | 2-g: puute . | 0.00
+1229 | 2-g: suurin osa (N) | 0.00
+1230 | 2-g: olla helppo | 0.00
+1231 | 1-g: veriarvo | 0.00
+1233 | 1-g: kananmuna | 0.00
+1234 | 3-g: PRON NOUN NOUN (N) | 0.00
+1236 | 1-g: tarpeeksi | 0.00
+1237 | 1-g: yleensä | 0.00
+1238 | 1-g: kuinka (N) | 0.00
+1239 | 2-g: tämä ei | 0.00
+1240 | 2-g: olla tavallinen | 0.00
+1241 | 2-g: syödä säännöllisesti | 0.00
+1242 | 1-g: energiamäärä | 0.00
+1243 | 3-g: NOUN ADV ADV (N) | 0.00
+1244 | 3-g: . tämä on (N) | 0.00
+1245 | 1-g: kilpirauhanen | 0.00
+1246 | 2-g: ¤ ravinto | 0.00
+1247 | 1-g: nykyään | 0.00
+1249 | 3-g: SCONJ VERB ADV (N) | 0.00
+1250 | 2-g: mikä hän | 0.00
+1251 | 2-g: tauti . | 0.00
+1252 | 2-g: noin CARD_NUMBER (N) | 0.00
+1253 | 3-g: PRON VERB PRON (N) | 0.00
+1255 | 2-g: ruokavalio voida | 0.00
+1258 | 1-g: lihasmassa | 0.00
+1261 | 2-g: noin puoli | 0.00
+1262 | 2-g: mies_tag , | 0.00
+1220 | 1-g: rasittaa | 0.00
+1427 | 3-g: PRON SCONJ VERB (N) | 0.00
+1219 | 2-g: tämä vuosi | 0.00
+1215 | 1-g: keskimääräinen | 0.00
+1173 | 1-g: peruste | 0.00
+1174 | 3-g: NOUN SCONJ AUX (N) | 0.00
+1175 | 2-g: käyttö ei | 0.00
+1176 | 3-g: NOUN ADP VERB (N) | 0.00
+1177 | 1-g: maissi | 0.00
+1178 | 1-g: kylmäpuristaa | 0.00
+1180 | 2-g: hinta . | 0.00
+1181 | 2-g: voida sisältää | 0.00
+1182 | 1-g: toimii (N) | 0.00
+1184 | 3-g: PUNCT CONJ ADV (N) | 0.00
+1185 | 3-g: ADP NOUN PUNCT (N) | 0.00
+1188 | 2-g: . myös (N) | 0.00
+1189 | 1-g: grillata | 0.00
+1190 | 1-g: kuukausi | 0.00
+1191 | 1-g: tähtäin | 0.00
+1193 | 1-g: keskeinen | 0.00
+1194 | 2-g: reaktio . | 0.00
+1195 | 2-g: elimistö . | 0.00
+1198 | 1-g: b-ryhmän (N) | 0.00
+1199 | 3-g: VERB ADV NUM (N) | 0.00
+1202 | 2-g: tutkimus osoittaa | 0.00
+1204 | 2-g: ruokavaliosta . (N) | 0.00
+1205 | 1-g: maidolla (N) | 0.00
+1206 | 3-g: CONJ NOUN NOUN (N) | 0.00
+1207 | 3-g: ADJ NOUN AUX (N) | 0.00
+1209 | 1-g: ihmisellä (N) | 0.00
+1211 | 2-g: sisältää ruokavalio | 0.00
+1213 | 2-g: liha tai | 0.00
+1214 | 2-g: olla syy | 0.00
+1216 | 3-g: ADJ PUNCT NOUN (N) | 0.00
+2216 | 3-g: marja ja hedelmä | 0.00
+2132 | 2-g: enemmän kuin (N) | 0.00
+2220 | 2-g: tieto . | 0.00
+3383 | 2-g: käyttö voida | 0.00
+3385 | 2-g: , sinkki | 0.00
+3390 | 1-g: ravitsemusterapeutti | 0.00
+3393 | 2-g: terveysongelma . | 0.00
+3394 | 3-g: vuosi . ¤ | 0.00
+3396 | 2-g: CARD_NUMBER g (N) | 0.00
+3397 | 2-g: saada . | 0.00
+3398 | 1-g: annoksina (N) | 0.00
+3399 | 1-g: kolminkertainen | 0.00
+3400 | 2-g: että lapsi | 0.00
+3401 | 1-g: ehkäisee (N) | 0.00
+3402 | 2-g: kova juusto | 0.00
+3403 | 2-g: hormoni , | 0.00
+3379 | 1-g: aivohalvaus | 0.00
+3405 | 2-g: tämä lisäksi | 0.00
+3408 | 2-g: korostaa , | 0.00
+3409 | 1-g: varmaan | 0.00
+3410 | 3-g: . ¤ esimerkiksi | 0.00
+3412 | 3-g: ¤ ADJ NOUN (N) | 0.00
+3413 | 2-g: ¤ tietää | 0.00
+3415 | 2-g: runsas käyttö (N) | 0.00
+3416 | 2-g: taateli olla | 0.00
+3418 | 2-g: CARD_NUMBER viikko | 0.00
+3420 | 3-g: , joka tarvita | 0.00
+3422 | 1-g: kertoo (N) | 0.00
+3424 | 1-g: kuormittaa | 0.00
+3425 | 1-g: salaisuus | 0.00
+3428 | 3-g: , kananmuna , | 0.00
+3406 | 1-g: päänsärky | 0.00
+3378 | 1-g: ravintoaineiden (N) | 0.00
+3376 | 1-g: edistää | 0.00
+3375 | 2-g: liikaa , | 0.00
+3333 | 3-g: PUNCT ADJ PUNCT (N) | 0.00
+3335 | 2-g: ¤ toinen | 0.00
+3337 | 1-g: erityistä (N) | 0.00
+3339 | 2-g: ruokavalio kuulua | 0.00
+3340 | 3-g: VERB VERB ADJ (N) | 0.00
+3342 | 1-g: tutkimustietoa (N) | 0.00
+3343 | 1-g: kasvikunta | 0.00
+3345 | 3-g: NOUN CONJ NUM (N) | 0.00
+3346 | 3-g: " , nainen_tag (N) | 0.00
+3347 | 1-g: voimakkaasti | 0.00
+3349 | 1-g: vaikutusta (N) | 0.00
+3350 | 3-g: se olla myös | 0.00
+3352 | 1-g: riittävästi | 0.00
+3356 | 1-g: tärkeintä (N) | 0.00
+3357 | 2-g: riski , | 0.00
+3358 | 1-g: alkoholia (N) | 0.00
+3359 | 2-g: olla vain | 0.00
+3361 | 1-g: vakavia (N) | 0.00
+3362 | 3-g: CONJ CONJ PUNCT (N) | 0.00
+3363 | 2-g: matalaaste tulehdus | 0.00
+3364 | 1-g: aikuisten (N) | 0.00
+3365 | 1-g: huomattava | 0.00
+3367 | 2-g: voida vähentää | 0.00
+3368 | 1-g: valmiste | 0.00
+3369 | 1-g: puolestaan | 0.00
+3370 | 1-g: alkuun | 0.00
+3372 | 1-g: vatsavaivoja (N) | 0.00
+3373 | 1-g: hieman (N) | 0.00
+3374 | 1-g: rasvainen | 0.00
+3435 | 2-g: ruoka saada | 0.00
+3332 | 2-g: saada riittävästi | 0.00
+3437 | 2-g: maito ja | 0.00
+3443 | 3-g: PRON ADJ PUNCT (N) | 0.00
+3501 | 1-g: sitoutua | 0.00
+3502 | 1-g: matalaasteinen | 0.00
+3503 | 3-g: väittää , että | 0.00
+3504 | 3-g: NOUN PROPN ADJ (N) | 0.00
+3505 | 2-g: viisi vuosi | 0.00
+3506 | 1-g: paitsi (N) | 0.00
+3507 | 2-g: voida vaikuttaa | 0.00
+3508 | 3-g: , että " | 0.00
+3510 | 2-g: välimerellinen ruokavalio | 0.00
+3511 | 3-g: liha , kala | 0.00
+3513 | 1-g: keittiö | 0.00
+3516 | 1-g: kolmasosa | 0.00
+3517 | 1-g: seleeni | 0.00
+3500 | 2-g: myös muut (N) | 0.00
+3519 | 1-g: vapautua | 0.00
+3522 | 1-g: suojaavat (N) | 0.00
+3523 | 1-g: suoraan | 0.00
+3525 | 1-g: todella | 0.00
+3527 | 2-g: käyttö , | 0.00
+3528 | 1-g: ravintola | 0.00
+3531 | 2-g: syöpä ehkäistä | 0.00
+3533 | 2-g: . tosin | 0.00
+3534 | 1-g: otettu (N) | 0.00
+3536 | 2-g: epäillä , | 0.00
+3541 | 1-g: sairaudet (N) | 0.00
+3543 | 2-g: elintarvike , | 0.00
+3544 | 2-g: paremmin kuin | 0.00
+3547 | 2-g: olla julkaista | 0.00
+3521 | 1-g: lihajaloste | 0.00
+3497 | 3-g: vitamiini ja hivenaine | 0.00
+3496 | 1-g: kontrolloida | 0.00
+3495 | 1-g: yhtäkkiä | 0.00
+3446 | 2-g: laskea , | 0.00
+3447 | 1-g: sisäelin | 0.00
+3450 | 1-g: noudattaa | 0.00
+3453 | 2-g: hedelmä tai | 0.00
+3454 | 1-g: heikkous | 0.00
+3455 | 2-g: tutkia . | 0.00
+3456 | 1-g: oliiviöljy | 0.00
+3457 | 3-g: VERB ADV SCONJ (N) | 0.00
+3460 | 2-g: tulla olla | 0.00
+3461 | 3-g: ADV VERB PRON (N) | 0.00
+3463 | 1-g: perustua | 0.00
+3464 | 1-g: infektio | 0.00
+3467 | 2-g: energia kuin | 0.00
+3468 | 2-g: proteiini . | 0.00
+3469 | 3-g: , joka saada | 0.00
+3470 | 1-g: seuranta | 0.00
+3476 | 1-g: yksinään (N) | 0.00
+3478 | 1-g: hyvinvointi | 0.00
+3479 | 3-g: tämä ei olla | 0.00
+3480 | 3-g: PUNCT PUNCT PUNCT (N) | 0.00
+3481 | 1-g: sydäntauti | 0.00
+3483 | 1-g: lisäaine | 0.00
+3484 | 2-g: ehkäisyssä . (N) | 0.00
+3485 | 3-g: PUNCT NOUN X (N) | 0.00
+3487 | 2-g: saada ravinnosta (N) | 0.00
+3488 | 2-g: lihaa ja (N) | 0.00
+3489 | 2-g: käyttää se | 0.00
+3490 | 1-g: valinta | 0.00
+3492 | 3-g: PUNCT NOUN AUX (N) | 0.00
+3441 | 1-g: järkevä | 0.00
+3548 | 2-g: potilas olla | 0.00
+3331 | 1-g: sairastua | 0.00
+3326 | 1-g: herkku | 0.00
+3159 | 1-g: kasviksia (N) | 0.00
+3161 | 2-g: CARD_NUMBER diabetes | 0.00
+3167 | 2-g: ravintoaine saanti | 0.00
+3168 | 2-g: ei ole (N) | 0.00
+3170 | 2-g: PROPN ADP (N) | 0.00
+3171 | 2-g: peruna , | 0.00
+3172 | 1-g: mukana (N) | 0.00
+3175 | 3-g: . mutta jos (N) | 0.00
+3176 | 2-g: kuukausi . | 0.00
+3179 | 3-g: , mutta ei | 0.00
+3180 | 2-g: . ylipaino | 0.00
+3181 | 3-g: VERB ADV INTJ (N) | 0.00
+3182 | 1-g: polttoaine | 0.00
+3158 | 1-g: inkivääri (N) | 0.00
+3184 | 1-g: diabeetikoille (N) | 0.00
+2218 | 2-g: elimistö ei | 0.00
+3187 | 1-g: ldl-kolesterolia | 0.00
+3188 | 3-g: , koska se | 0.00
+3189 | 1-g: tullut (N) | 0.00
+3192 | 3-g: PUNCT PROPN AUX (N) | 0.00
+3196 | 3-g: VERB ADV ADV (N) | 0.00
+3197 | 1-g: mikrobien (N) | 0.00
+3199 | 1-g: aiempi | 0.00
+3200 | 1-g: ravintokuitu | 0.00
+3201 | 1-g: myönteinen | 0.00
+3202 | 1-g: sellaisenaan | 0.00
+3203 | 2-g: NOUN SYM (N) | 0.00
+3204 | 2-g: joka saada | 0.00
+3185 | 2-g: ¤ yliopisto_tag (N) | 0.00
+3154 | 2-g: olla erityinen | 0.00
+3152 | 2-g: aivot olla | 0.00
+3150 | 2-g: ja evitamiini | 0.00
+3095 | 3-g: SYM NUM NOUN (N) | 0.00
+3097 | 2-g: CARD_NUMBER eri | 0.00
+3098 | 2-g: suola ja | 0.00
+3100 | 2-g: terveellinen , | 0.00
+3101 | 1-g: syömisen (N) | 0.00
+3102 | 2-g: kohden . | 0.00
+3103 | 3-g: " , kertoo (N) | 0.00
+3106 | 1-g: lajike | 0.00
+3107 | 1-g: verikoe | 0.00
+3108 | 3-g: SYM ADP NOUN (N) | 0.00
+3110 | 3-g: . on siis (N) | 0.00
+3111 | 1-g: aikuinen | 0.00
+3117 | 3-g: , joka käyttää | 0.00
+3119 | 2-g: mutta myös | 0.00
+3122 | 1-g: syövän (N) | 0.00
+3123 | 2-g: kolme kerta | 0.00
+3124 | 3-g: PRON NOUN PUNCT (N) | 0.00
+3125 | 3-g: VERB NOUN PRON (N) | 0.00
+3127 | 2-g: voida se | 0.00
+3128 | 1-g: mahdollisimman (N) | 0.00
+3129 | 1-g: hiilihydraattien (N) | 0.00
+3133 | 3-g: ¤ NOUN ADV (N) | 0.00
+3136 | 1-g: kognitiivinen | 0.00
+3137 | 1-g: probiootit (N) | 0.00
+3139 | 2-g: CARD_NUMBER ) | 0.00
+3140 | 1-g: siirtyä | 0.00
+3142 | 2-g: käyttö . | 0.00
+3147 | 2-g: viikko aika | 0.00
+3149 | 1-g: elintarvikkeet (N) | 0.00
+3206 | 2-g: rasvahappo ja | 0.00
+3328 | 2-g: ketogeeni ruokavalio | 0.00
+3207 | 2-g: kymmenen vuosi | 0.00
+3213 | 3-g: VERB VERB PRON (N) | 0.00
+3269 | 1-g: lihas | 0.00
+3270 | 2-g: suola . | 0.00
+3271 | 3-g: syödä . ¤ | 0.00
+3273 | 3-g: AUX VERB CONJ (N) | 0.00
+3274 | 2-g: saada aika | 0.00
+3277 | 2-g: niissä on (N) | 0.00
+3279 | 2-g: prosessoidun lihan (N) | 0.00
+3284 | 2-g: koko aika | 0.00
+3285 | 1-g: makeahimo | 0.00
+3287 | 3-g: . ¤ 5. | 0.00
+3288 | 1-g: puolen (N) | 0.00
+3292 | 1-g: ahdistus | 0.00
+3295 | 1-g: kiinteä | 0.00
+3267 | 2-g: hoito olla | 0.00
+3296 | 2-g: saada ravinto | 0.00
+3298 | 2-g: olla yhteys | 0.00
+3300 | 1-g: milligramma | 0.00
+3303 | 3-g: vaikutus . ¤ | 0.00
+3304 | 2-g: syödä ruoka | 0.00
+3306 | 3-g: pähkinä ja siemen | 0.00
+3309 | 2-g: liittyä myös | 0.00
+3311 | 1-g: useimmiten | 0.00
+3312 | 3-g: VERB NUM NOUN (N) | 0.00
+3313 | 1-g: aivotoiminta | 0.00
+3315 | 2-g: kertoa , | 0.00
+3317 | 1-g: luonnollinen | 0.00
+3318 | 1-g: markkinoille (N) | 0.00
+3323 | 1-g: verisuoni | 0.00
+3297 | 3-g: ADV PRON NUM (N) | 0.00
+3265 | 2-g: myös moni | 0.00
+3262 | 2-g: ruokavalio olla | 0.00
+3261 | 2-g: miettiä , | 0.00
+3214 | 1-g: vanhus | 0.00
+3215 | 3-g: NUM NOUN SCONJ (N) | 0.00
+3216 | 1-g: herkkä | 0.00
+3217 | 2-g: CARD_NUMBER kilokaloria (N) | 0.00
+3219 | 2-g: kananmuna , | 0.00
+3220 | 2-g: terve ja | 0.00
+3222 | 2-g: olla pieni | 0.00
+3223 | 1-g: keinotekoinen | 0.00
+3224 | 2-g: kaksi eri | 0.00
+3226 | 3-g: ei olla hyvä | 0.00
+3229 | 3-g: NOUN CONJ PRON (N) | 0.00
+3232 | 1-g: japanilainen | 0.00
+3233 | 1-g: yhdistyä | 0.00
+3235 | 2-g: . ainoa | 0.00
+3237 | 3-g: ihminen , joka | 0.00
+3238 | 2-g: olla merkitys | 0.00
+3239 | 2-g: mineraali , | 0.00
+3242 | 3-g: NOUN PUNCT PROPN (N) | 0.00
+3243 | 3-g: olla , että | 0.00
+3246 | 3-g: PUNCT CONJ PRON (N) | 0.00
+3247 | 1-g: manteli | 0.00
+3249 | 2-g: suomi . | 0.00
+3250 | 1-g: ensimmäinen | 0.00
+3252 | 1-g: sisältävät (N) | 0.00
+3254 | 2-g: nainen . | 0.00
+3255 | 1-g: muuttua | 0.00
+3256 | 2-g: ¤ taateli | 0.00
+3258 | 2-g: CONJ ADJ (N) | 0.00
+3260 | 3-g: NOUN SCONJ NOUN (N) | 0.00
+3208 | 2-g: syödä terveellisesti | 0.00
+3549 | 2-g: joka mukaan | 0.00
+3553 | 1-g: perustella | 0.00
+3557 | 1-g: luonnonmukainen | 0.00
+3832 | 2-g: ¤ suomalainen | 0.00
+3833 | 1-g: lääketiede | 0.00
+3834 | 2-g: kalsium ja | 0.00
+3835 | 1-g: kannustaa | 0.00
+3837 | 2-g: edistää . | 0.00
+3838 | 1-g: kramppi | 0.00
+3839 | 1-g: tulevaisuus | 0.00
+3840 | 3-g: . lisäksi se | 0.00
+3841 | 1-g: perunat (N) | 0.00
+3843 | 2-g: suuri osa | 0.00
+3846 | 2-g: , joissa (N) | 0.00
+3849 | 3-g: SCONJ ADJ PROPN (N) | 0.00
+3855 | 2-g: että kyse | 0.00
+3830 | 1-g: jarjesto_tag (N) | 0.00
+3857 | 3-g: , mutta olla | 0.00
+3859 | 2-g: ¤ jarjesto_tag (N) | 0.00
+3861 | 3-g: . tämä ei | 0.00
+3862 | 2-g: raskas olla | 0.00
+3863 | 1-g: saadaan (N) | 0.00
+3865 | 3-g: VERB NUM ADJ (N) | 0.00
+3867 | 1-g: lehmänmaito | 0.00
+3868 | 3-g: VERB PUNCT SCONJ (N) | 0.00
+3872 | 1-g: happamuus | 0.00
+3878 | 2-g: se toimia | 0.00
+3882 | 2-g: tutkija olla | 0.00
+3885 | 3-g: VERB ADV PUNCT (N) | 0.00
+3886 | 3-g: , joka syödä | 0.00
+3888 | 2-g: olla huono | 0.00
+3858 | 1-g: sokerihumala | 0.00
+3829 | 1-g: aikoinaan | 0.00
+3826 | 2-g: , kertoa | 0.00
+3825 | 1-g: tarpeellinen | 0.00
+3775 | 2-g: olla siis | 0.00
+3777 | 1-g: perinteisesti | 0.00
+3779 | 1-g: tarvitse (N) | 0.00
+3781 | 3-g: PUNCT PUNCT PRON (N) | 0.00
+3782 | 2-g: todeta olla | 0.00
+3785 | 1-g: yllättävän (N) | 0.00
+3787 | 2-g: hyvin pieni | 0.00
+3792 | 2-g: , leipä | 0.00
+3793 | 2-g: vaihdella . | 0.00
+3795 | 1-g: räätälöidä | 0.00
+3796 | 2-g: marja . | 0.00
+3797 | 3-g: NUM ¤ NOUN (N) | 0.00
+3798 | 1-g: mainita (N) | 0.00
+3799 | 1-g: ammattilainen | 0.00
+3800 | 2-g: , masennus | 0.00
+3801 | 2-g: , syöpä | 0.00
+3802 | 2-g: mies ja | 0.00
+3803 | 3-g: ADJ ¤ PRON (N) | 0.00
+3805 | 2-g: olla aika | 0.00
+3809 | 1-g: minusta (N) | 0.00
+3813 | 1-g: omega-3-rasvahapot | 0.00
+3814 | 2-g: tarkoittaa , | 0.00
+3816 | 1-g: miljoona | 0.00
+3817 | 3-g: PROPN NUM PUNCT (N) | 0.00
+3818 | 3-g: CONJ NOUN PUNCT (N) | 0.00
+3819 | 1-g: kalorimäärä | 0.00
+3822 | 2-g: voida pitää | 0.00
+3823 | 2-g: . lääke | 0.00
+3824 | 3-g: PUNCT PROPN PUNCT (N) | 0.00
+3889 | 2-g: , kuinka | 0.00
+3774 | 2-g: sen verran | 0.00
+3890 | 1-g: mustikka | 0.00
+3892 | 2-g: CARD_NUMBER % | 0.00
+3953 | 2-g: , sydän | 0.00
+3955 | 1-g: silakka | 0.00
+3956 | 1-g: rintasyöpä | 0.00
+3957 | 2-g: aiheuttaa myös | 0.00
+3958 | 2-g: diabetes riski | 0.00
+3961 | 3-g: ADV CONJ SCONJ (N) | 0.00
+3962 | 2-g: tyhjä vatsa | 0.00
+3963 | 1-g: tieteellinen | 0.00
+3967 | 2-g: olla oma | 0.00
+3973 | 2-g: nainen_tag sanoo (N) | 0.00
+3975 | 1-g: oikeanlainen | 0.00
+3977 | 2-g: olla turha | 0.00
+3978 | 1-g: useimpien | 0.00
+3952 | 1-g: hermosolu | 0.00
+3980 | 1-g: useimmat | 0.00
+3983 | 2-g: ongelma ei | 0.00
+3984 | 1-g: voisiko (N) | 0.00
+3986 | 2-g: pieni sydän | 0.00
+3987 | 1-g: kuolleisuus | 0.00
+3988 | 1-g: gluteeni | 0.00
+3993 | 1-g: aktivoitua | 0.00
+3995 | 2-g: riski ¤ | 0.00
+3996 | 2-g: varten . | 0.00
+3997 | 2-g: tieteilija_tag nainen_tag | 0.00
+4000 | 1-g: kiinnostaa | 0.00
+4002 | 3-g: uskoa , että | 0.00
+4003 | 2-g: heiketä , | 0.00
+4004 | 1-g: poikkeus | 0.00
+3982 | 3-g: ¤ CARD_NUMBER ) | 0.00
+3949 | 1-g: osuus | 0.00
+3948 | 1-g: linolihappo | 0.00
+3945 | 2-g: sydäntauti , | 0.00
+3894 | 3-g: NOUN PRON ADJ (N) | 0.00
+3896 | 2-g: tyypin CARD_NUMBER (N) | 0.00
+3898 | 3-g: ADP PUNCT SCONJ (N) | 0.00
+3899 | 3-g: ¤ ADV ADJ (N) | 0.00
+3900 | 2-g: jogurtti ja | 0.00
+3901 | 2-g: ja magnesium | 0.00
+3902 | 2-g: iho kunto | 0.00
+3903 | 1-g: täynnä (N) | 0.00
+3905 | 3-g: muistaa , että (N) | 0.00
+8961 | 2-g: ja näin | 0.00
+3912 | 2-g: lihas ja | 0.00
+3913 | 2-g: viikko . | 0.00
+3915 | 2-g: . samalla | 0.00
+3917 | 2-g: olla kovin | 0.00
+3921 | 2-g: mies_tag yliopisto_tag (N) | 0.00
+3922 | 1-g: mahdollista (N) | 0.00
+3926 | 2-g: olla nauttia | 0.00
+3928 | 1-g: voimakas | 0.00
+3931 | 2-g: CARD_NUMBER suomalainen | 0.00
+3932 | 2-g: ja kivennäisaineita (N) | 0.00
+3933 | 3-g: PUNCT NUM NOUN (N) | 0.00
+3934 | 2-g: olla ihminen | 0.00
+3935 | 2-g: nainen_tag yliopisto_tag (N) | 0.00
+3936 | 2-g: sanoo , (N) | 0.00
+3937 | 2-g: ominaisuus . | 0.00
+3939 | 3-g: AUX VERB NUM (N) | 0.00
+3940 | 2-g: olla selvästi | 0.00
+3941 | 1-g: virtsa | 0.00
+3942 | 1-g: seksuaalinen | 0.00
+3891 | 1-g: edelleen (N) | 0.00
+3772 | 2-g: sitä enemmän (N) | 0.00
+3769 | 2-g: . silloin | 0.00
+3767 | 1-g: vastaava | 0.00
+3607 | 3-g: " , mies_tag (N) | 0.00
+3608 | 2-g: ja sydän | 0.00
+3609 | 3-g: ¤ ADV VERB (N) | 0.00
+3610 | 3-g: yliopisto_tag professori_tag mies_tag | 0.00
+3615 | 2-g: olla hyvin | 0.00
+3616 | 2-g: lisää . (N) | 0.00
+3617 | 2-g: , joilla (N) | 0.00
+3618 | 3-g: VERB ADJ ADV (N) | 0.00
+3620 | 3-g: NOUN NOUN VERB (N) | 0.00
+3624 | 2-g: energia , | 0.00
+3625 | 3-g: . ¤ yksi | 0.00
+3626 | 1-g: tutkittu (N) | 0.00
+3627 | 3-g: PROPN VERB ADV (N) | 0.00
+3605 | 1-g: tulehdusreaktio | 0.00
+3629 | 2-g: usea tutkimus | 0.00
+3632 | 3-g: VERB ADV NOUN (N) | 0.00
+3634 | 1-g: kylläisyys | 0.00
+3635 | 3-g: ADJ CONJ ADV (N) | 0.00
+3636 | 1-g: tuotantoa (N) | 0.00
+3637 | 2-g: keho ei | 0.00
+3638 | 2-g: runsaasti . (N) | 0.00
+3640 | 1-g: epäpuhtaus | 0.00
+3646 | 1-g: marjoja (N) | 0.00
+3647 | 2-g: moni tapa | 0.00
+3651 | 2-g: synty . | 0.00
+3652 | 3-g: NOUN NOUN ADV (N) | 0.00
+3653 | 1-g: samanlainen | 0.00
+3655 | 3-g: CONJ PRON NOUN (N) | 0.00
+3630 | 1-g: geneettinen | 0.00
+3604 | 2-g: pähkinä , | 0.00
+3603 | 1-g: pääasia | 0.00
+3602 | 2-g: puolukka olla | 0.00
+3558 | 2-g: lisääntyä . | 0.00
+3559 | 2-g: , kirjoittaa | 0.00
+3561 | 2-g: voida ehkäistä | 0.00
+3562 | 2-g: tarpeen . | 0.00
+3563 | 1-g: lähtien (N) | 0.00
+3564 | 1-g: tulokset (N) | 0.00
+3567 | 1-g: vaurio | 0.00
+3570 | 1-g: suorituskyky | 0.00
+3572 | 2-g: aivot ja | 0.00
+3575 | 3-g: NOUN ¤ SCONJ (N) | 0.00
+3577 | 1-g: fyysinen | 0.00
+3579 | 2-g: olla vahva | 0.00
+3580 | 1-g: teelusikka | 0.00
+3582 | 1-g: uusien (N) | 0.00
+3583 | 2-g: CARD_NUMBER vuotta (N) | 0.00
+3585 | 1-g: kenties | 0.00
+3586 | 1-g: huomattu (N) | 0.00
+3587 | 2-g: enintään CARD_NUMBER | 0.00
+3588 | 2-g: tyydyttää rasva | 0.00
+3589 | 2-g: . ruoka | 0.00
+3590 | 3-g: . ¤ suomi | 0.00
+3591 | 2-g: eivät ole (N) | 0.00
+3594 | 2-g: muu ruoka | 0.00
+3595 | 1-g: tavanomainen | 0.00
+3597 | 1-g: neuvoa | 0.00
+3598 | 2-g: mutta mikä | 0.00
+3599 | 1-g: valitse (N) | 0.00
+3600 | 2-g: olla lisätä | 0.00
+3601 | 1-g: masennusta (N) | 0.00
+3656 | 2-g: gluteeniton ruokavalio | 0.00
+3657 | 1-g: kaukana | 0.00
+3659 | 1-g: yhteydestä (N) | 0.00
+3660 | 3-g: syöpä . ¤ | 0.00
+3721 | 2-g: vähemmän . | 0.00
+3722 | 1-g: säännöllinen (N) | 0.00
+3724 | 3-g: VERB PRON VERB (N) | 0.00
+3725 | 1-g: peräisin | 0.00
+3726 | 3-g: se , kuinka | 0.00
+3728 | 1-g: aiheuttavat (N) | 0.00
+3730 | 3-g: VERB ADJ PUNCT (N) | 0.00
+3732 | 1-g: keitto | 0.00
+3733 | 2-g: ruokavalio sisältää | 0.00
+3737 | 2-g: voida johtaa | 0.00
+3740 | 1-g: eturauhanensyöpä | 0.00
+3745 | 2-g: kova rasva | 0.00
+3746 | 2-g: ¤ kihti | 0.00
+3748 | 2-g: sitten olla | 0.00
+3749 | 2-g: joka sisältää | 0.00
+3750 | 2-g: syödä liikaa | 0.00
+3751 | 2-g: joka tarvita | 0.00
+3752 | 3-g: ADJ CONJ NOUN (N) | 0.00
+3753 | 2-g: on todettu (N) | 0.00
+3754 | 1-g: sopii (N) | 0.00
+3755 | 1-g: keskustelu | 0.00
+3756 | 1-g: periaate | 0.00
+3757 | 1-g: verenkierto | 0.00
+3758 | 1-g: pysymään (N) | 0.00
+3759 | 2-g: . näillä (N) | 0.00
+3760 | 3-g: ¤ ADV ADV (N) | 0.00
+3762 | 1-g: koehenkilöt (N) | 0.00
+3765 | 1-g: sijasta | 0.00
+3766 | 2-g: aiheuttaja olla | 0.00
+3720 | 3-g: NOUN ¤ ADJ (N) | 0.00
+3092 | 1-g: hiukan | 0.00
+3718 | 2-g: , kala | 0.00
+3709 | 2-g: takia , | 0.00
+3661 | 2-g: pavut , (N) | 0.00
+3662 | 2-g: . usea | 0.00
+3663 | 1-g: tutkimusnäyttö | 0.00
+3665 | 2-g: . puolukka | 0.00
+3667 | 1-g: hyviä (N) | 0.00
+3669 | 1-g: nukkumaanmenoa (N) | 0.00
+3670 | 1-g: merilevä | 0.00
+3671 | 2-g: ei löytyä | 0.00
+3672 | 3-g: NOUN VERB CONJ (N) | 0.00
+3673 | 3-g: CONJ ADV VERB (N) | 0.00
+3675 | 2-g: sen lisäksi (N) | 0.00
+3676 | 2-g: satunnaistaa tutkimus | 0.00
+3677 | 1-g: eritys | 0.00
+3682 | 2-g: siihen , (N) | 0.00
+3684 | 1-g: epätasapaino | 0.00
+3685 | 1-g: fyysistä (N) | 0.00
+3687 | 2-g: elämä . | 0.00
+3688 | 2-g: olla " | 0.00
+3690 | 1-g: kahvin (N) | 0.00
+3692 | 2-g: kalium , | 0.00
+3695 | 2-g: ensimmäinen kerta | 0.00
+3696 | 3-g: ADV SCONJ NOUN (N) | 0.00
+3698 | 1-g: terveyden (N) | 0.00
+3700 | 3-g: aine , joka | 0.00
+3701 | 2-g: ei ehdi (N) | 0.00
+3702 | 2-g: ei kuitenkaan | 0.00
+3703 | 1-g: vaikutuksista (N) | 0.00
+3705 | 3-g: , sillä se | 0.00
+3707 | 1-g: lievästi | 0.00
+3713 | 2-g: voida parantaa | 0.00
+3091 | 1-g: tutkimustulos | 0.00
+3186 | 2-g: CARD_NUMBER , (N) | 0.00
+3085 | 1-g: joskus | 0.00
+2476 | 1-g: selvittää | 0.00
+2477 | 1-g: tunnin (N) | 0.00
+2478 | 2-g: suunta . | 0.00
+2480 | 1-g: sittemmin | 0.00
+2483 | 1-g: henkilökohtainen | 0.00
+2484 | 2-g: tutkimus , | 0.00
+2486 | 2-g: PUNCT ADJ (N) | 0.00
+2487 | 1-g: perustuvat (N) | 0.00
+2489 | 2-g: olla ehkä | 0.00
+2490 | 1-g: keskuudessa | 0.00
+2491 | 1-g: elimistömme (N) | 0.00
+2493 | 2-g: väsymys ja | 0.00
+2494 | 1-g: valitettavasti | 0.00
+2470 | 2-g: niin , | 0.00
+2495 | 1-g: muista (N) | 0.00
+2500 | 2-g: että kun | 0.00
+2501 | 3-g: PUNCT PUNCT NOUN (N) | 0.00
+2502 | 1-g: loppuun (N) | 0.00
+2503 | 1-g: ruokailu | 0.00
+2504 | 3-g: PUNCT PUNCT SCONJ (N) | 0.00
+2508 | 2-g: , voit (N) | 0.00
+2509 | 1-g: nettisivu_tag (N) | 0.00
+2510 | 2-g: moni eri | 0.00
+2511 | 1-g: aamupala | 0.00
+2512 | 2-g: öljy , | 0.00
+2515 | 1-g: terveyshaitta | 0.00
+2516 | 1-g: kehittää | 0.00
+2517 | 1-g: pikaruoka | 0.00
+2496 | 2-g: lapsi , | 0.00
+2467 | 1-g: japani | 0.00
+2466 | 3-g: ADP NUM SYM (N) | 0.00
+2464 | 1-g: huomattavasti | 0.00
+2421 | 2-g: ruokavalio ja | 0.00
+2422 | 1-g: liikkua | 0.00
+2424 | 3-g: VERB CONJ VERB (N) | 0.00
+2426 | 2-g: kiinnittää huomiota (N) | 0.00
+2427 | 1-g: säilyttää | 0.00
+2429 | 3-g: . tutkimus mukaan | 0.00
+2430 | 3-g: se mieli , | 0.00
+2432 | 1-g: vähäinen | 0.00
+2433 | 2-g: muistuttaa . | 0.00
+2434 | 3-g: VERB NOUN NUM (N) | 0.00
+2436 | 2-g: tutkimus todeta | 0.00
+2437 | 2-g: kuitenkin on (N) | 0.00
+2438 | 3-g: riskiin . ¤ (N) | 0.00
+2439 | 3-g: . ¤ 3. | 0.00
+2440 | 2-g: kahvi olla | 0.00
+2441 | 1-g: dementia | 0.00
+2442 | 2-g: olla valmis | 0.00
+2444 | 2-g: CARD_NUMBER tunti | 0.00
+2445 | 2-g: sen sijaan (N) | 0.00
+2446 | 3-g: jälkeen . ¤ | 0.00
+2447 | 3-g: VERB NUM PUNCT (N) | 0.00
+2448 | 2-g: energia . | 0.00
+2453 | 1-g: ruokavalio (N) | 0.00
+2454 | 1-g: hapetusstressi | 0.00
+2455 | 1-g: esiintyy (N) | 0.00
+2457 | 2-g: rasvahappo , | 0.00
+2458 | 2-g: ja mineraali | 0.00
+2461 | 1-g: suunnitella | 0.00
+2462 | 3-g: . ¤ osa (N) | 0.00
+2518 | 1-g: selvitä | 0.00
+2420 | 3-g: PUNCT ADV PUNCT (N) | 0.00
+2519 | 1-g: tarpeeton | 0.00
+2523 | 2-g: vaikutus terveys | 0.00
+2578 | 2-g: CARD_NUMBER milligramma | 0.00
+2579 | 2-g: . virallinen | 0.00
+2581 | 3-g: NOUN ADP CONJ (N) | 0.00
+2582 | 1-g: itsestään | 0.00
+2584 | 2-g: . niinpä | 0.00
+2585 | 3-g: NOUN PROPN NOUN (N) | 0.00
+2587 | 3-g: ADJ ADV PUNCT (N) | 0.00
+2588 | 1-g: asiantuntija | 0.00
+2589 | 1-g: lopputulos | 0.00
+2592 | 1-g: ymmärtää | 0.00
+2595 | 1-g: mauste | 0.00
+2597 | 2-g: myrkky , | 0.00
+2599 | 1-g: elintärkeä | 0.00
+2575 | 2-g: ¤ lisäaine | 0.00
+2601 | 2-g: vähän . | 0.00
+2607 | 3-g: sanoa . ¤ | 0.00
+2610 | 1-g: lähteä | 0.00
+2613 | 3-g: PRON VERB NUM (N) | 0.00
+2614 | 1-g: ihanteellinen | 0.00
+2615 | 1-g: hidastua | 0.00
+2616 | 2-g: olla liha | 0.00
+2617 | 3-g: ADV SYM CONJ (N) | 0.00
+2619 | 1-g: häiritä | 0.00
+2621 | 1-g: muistaa | 0.00
+2622 | 1-g: viimeinen | 0.00
+2624 | 1-g: kasvain | 0.00
+2628 | 2-g: olla aina | 0.00
+2630 | 2-g: jossain määrä | 0.00
+2604 | 1-g: koulu | 0.00
+2573 | 2-g: pudottaa paino | 0.00
+2570 | 3-g: PRON PRON NOUN (N) | 0.00
+2569 | 1-g: rasvahappoja (N) | 0.00
+2526 | 2-g: olla runsaasti | 0.00
+2527 | 2-g: . suomi | 0.00
+2530 | 3-g: antioksidantti , joka | 0.00
+2531 | 1-g: kolesteroliarvo | 0.00
+2534 | 1-g: edellinen | 0.00
+2535 | 2-g: tuntua , | 0.00
+2536 | 2-g: . juusto | 0.00
+2537 | 2-g: ja sinkki | 0.00
+2539 | 2-g: muutos , | 0.00
+2540 | 2-g: verrata se | 0.00
+2541 | 2-g: lisääntyä , | 0.00
+2542 | 2-g: määrä ja | 0.00
+3087 | 1-g: olevan (N) | 0.00
+2545 | 2-g: alle CARD_NUMBER | 0.00
+2546 | 3-g: PUNCT AUX VERB (N) | 0.00
+2547 | 2-g: jo muutama | 0.00
+2548 | 1-g: lihatuote | 0.00
+2549 | 1-g: parhaiten (N) | 0.00
+2550 | 3-g: PROPN CONJ PRON (N) | 0.00
+2552 | 1-g: suorastaan | 0.00
+2554 | 2-g: koska se | 0.00
+2555 | 2-g: tehtävä olla | 0.00
+2559 | 2-g: dvitamiini saanti | 0.00
+2560 | 2-g: moni olla | 0.00
+2562 | 3-g: ADP PROPN ADV (N) | 0.00
+2563 | 1-g: ärsyttää | 0.00
+2564 | 1-g: entsyymi | 0.00
+2565 | 1-g: kuolema | 0.00
+2568 | 1-g: kautta | 0.00
+2522 | 2-g: koko ajan (N) | 0.00
+2419 | 1-g: tilanteessa (N) | 0.00
+2418 | 3-g: CONJ NUM NOUN (N) | 0.00
+2417 | 1-g: kunnes | 0.00
+2273 | 1-g: negatiivinen | 0.00
+2275 | 1-g: kuona-aine | 0.00
+2276 | 1-g: lienee (N) | 0.00
+2278 | 2-g: sokeri sisältää | 0.00
+2279 | 1-g: nukkua | 0.00
+2280 | 2-g: aineenvaihdunta . | 0.00
+2282 | 1-g: sydänsairauksien (N) | 0.00
+2284 | 3-g: CARD_NUMBER gramma päivä | 0.00
+2288 | 1-g: jonkin (N) | 0.00
+2289 | 2-g: valmistaa ruoka | 0.00
+2290 | 1-g: muutos | 0.00
+2294 | 1-g: tyydyttynyttä (N) | 0.00
+2295 | 3-g: PRON PUNCT SCONJ (N) | 0.00
+2271 | 2-g: olla pitkä | 0.00
+2296 | 3-g: NOUN CONJ NOUN (N) | 0.00
+2298 | 2-g: hän saada | 0.00
+2299 | 3-g: – " jos | 0.00
+2301 | 2-g: hyvä olo | 0.00
+2302 | 1-g: dvitamiini | 0.00
+2303 | 3-g: ADJ CONJ ADJ (N) | 0.00
+2304 | 2-g: terveellinen ruoka | 0.00
+2305 | 2-g: hyvä ja | 0.00
+2308 | 2-g: . tuote_tag | 0.00
+2309 | 2-g: CARD_NUMBER potilas | 0.00
+2312 | 1-g: suolistomikrobi | 0.00
+2315 | 2-g: toinen tutkimus | 0.00
+2316 | 1-g: laihduttaja | 0.00
+2318 | 3-g: , vaikka se | 0.00
+2297 | 2-g: . liian | 0.00
+2268 | 1-g: yhdysvalta | 0.00
+2266 | 1-g: jäätelöä (N) | 0.00
+2265 | 2-g: , jonka (N) | 0.00
+2221 | 3-g: VERB VERB PUNCT (N) | 0.00
+2222 | 2-g: , josei | 0.00
+2223 | 2-g: . suolisto | 0.00
+2224 | 1-g: jälleen | 0.00
+2226 | 3-g: ¤ PUNCT PUNCT (N) | 0.00
+2228 | 3-g: CONJ PRON AUX (N) | 0.00
+2229 | 2-g: toiminta . | 0.00
+2230 | 3-g: VERB NOUN VERB (N) | 0.00
+2231 | 2-g: , pähkinä | 0.00
+2232 | 1-g: vaikea | 0.00
+2233 | 3-g: NOUN CONJ ADJ (N) | 0.00
+2234 | 1-g: kananmunien (N) | 0.00
+2236 | 2-g: joka ei | 0.00
+2237 | 1-g: potilas | 0.00
+2238 | 2-g: olla asia | 0.00
+2239 | 1-g: suurella (N) | 0.00
+2240 | 1-g: enempää | 0.00
+2241 | 1-g: limakalvo | 0.00
+2245 | 1-g: tyydyttymätön | 0.00
+2247 | 3-g: . tutkimus olla | 0.00
+2249 | 3-g: , siemen , | 0.00
+2252 | 3-g: PROPN PUNCT PRON (N) | 0.00
+2255 | 2-g: vaihtoehto olla | 0.00
+2256 | 2-g: lähes kaikki | 0.00
+2258 | 1-g: korkeintaan (N) | 0.00
+2259 | 3-g: yhdiste , joka | 0.00
+2260 | 2-g: auttaa myös | 0.00
+2262 | 3-g: , joka apu | 0.00
+2263 | 2-g: olla elimistö | 0.00
+2320 | 3-g: . ¤ dvitamiini | 0.00
+2321 | 2-g: . ensimmäinen | 0.00
+2323 | 1-g: ripuli | 0.00
+2325 | 1-g: toivottavasti | 0.00
+2376 | 1-g: päätyy (N) | 0.00
+2377 | 3-g: nainen_tag sanoa . | 0.00
+2378 | 2-g: tavallinen ruoka | 0.00
+2379 | 1-g: henkinen | 0.00
+2380 | 1-g: immuunijärjestelmä | 0.00
+2382 | 1-g: tärkeimmistä (N) | 0.00
+2383 | 1-g: terveyttä (N) | 0.00
+2384 | 2-g: imeytymistä . (N) | 0.00
+2385 | 3-g: , kun olla | 0.00
+2386 | 2-g: lähes CARD_NUMBER | 0.00
+2389 | 1-g: markkinoida | 0.00
+2390 | 3-g: ADJ VERB ADV (N) | 0.00
+2394 | 2-g: . tutkimus_tag | 0.00
+2395 | 2-g: keskimäärin CARD_NUMBER | 0.00
+2397 | 3-g: . ¤ muu | 0.00
+2398 | 3-g: VERB ADJ VERB (N) | 0.00
+2399 | 2-g: yksilöllinen . | 0.00
+2400 | 3-g: PRON VERB ADV (N) | 0.00
+2401 | 1-g: josei | 0.00
+2402 | 2-g: mieltä , (N) | 0.00
+2403 | 2-g: terveys ja | 0.00
+2404 | 3-g: PUNCT SCONJ NOUN (N) | 0.00
+2406 | 2-g: tärkeä rooli | 0.00
+2409 | 2-g: olla alkaa | 0.00
+2410 | 2-g: tutkimus tehdä | 0.00
+2411 | 3-g: PUNCT PRON NOUN (N) | 0.00
+2413 | 2-g: lähde , | 0.00
+2414 | 3-g: VERB NOUN ADP (N) | 0.00
+2415 | 2-g: ja verisuonisairaus | 0.00
+2372 | 1-g: elintarvike | 0.00
+2632 | 2-g: viikko , | 0.00
+2371 | 1-g: tutkimustuloksia (N) | 0.00
+2368 | 2-g: juttu . | 0.00
+2326 | 2-g: syöminen ei | 0.00
+2327 | 2-g: ruokavalio tai | 0.00
+2329 | 2-g: ei tietenkään | 0.00
+2330 | 1-g: saantisuositus | 0.00
+2331 | 1-g: ravitsemusasiantuntija | 0.00
+2332 | 2-g: ja kakkonentyyppi | 0.00
+2335 | 3-g: CONJ PROPN NOUN (N) | 0.00
+2336 | 1-g: kookosrasva | 0.00
+2338 | 2-g: sijaan . | 0.00
+2339 | 3-g: PRON VERB NOUN (N) | 0.00
+2340 | 1-g: jatkuva (N) | 0.00
+2342 | 1-g: erityisen (N) | 0.00
+2344 | 1-g: peruna | 0.00
+2345 | 1-g: uskovat (N) | 0.00
+2346 | 3-g: SCONJ ADJ VERB (N) | 0.00
+2347 | 2-g: se huolimatta | 0.00
+2348 | 3-g: NOUN ADP PUNCT (N) | 0.00
+2349 | 2-g: mieli . | 0.00
+2350 | 2-g: itse . | 0.00
+2351 | 2-g: saattaa olla | 0.00
+2352 | 1-g: aivosolu | 0.00
+2353 | 2-g: kannattaa käyttää | 0.00
+2355 | 3-g: NOUN CONJ ADV (N) | 0.00
+2356 | 1-g: rasvapoltto | 0.00
+2360 | 1-g: ruokapäiväkirja | 0.00
+2363 | 2-g: ¤ aiemmin | 0.00
+2365 | 1-g: omega-3-rasvahappojen | 0.00
+2366 | 2-g: ravintolisä olla | 0.00
+2367 | 2-g: mikä tahansa | 0.00
+2370 | 2-g: paljon sokeri | 0.00
+2633 | 1-g: kalaöljy | 0.00
+2544 | 1-g: hedelmät (N) | 0.00
+2635 | 1-g: treeni | 0.00
+2908 | 2-g: vuoksi , | 0.00
+2911 | 3-g: olla tärkeä , | 0.00
+2913 | 3-g: PUNCT PROPN VERB (N) | 0.00
+2914 | 1-g: päivässä (N) | 0.00
+2917 | 3-g: PUNCT PUNCT PROPN (N) | 0.00
+2918 | 3-g: NOUN NOUN PRON (N) | 0.00
+2922 | 1-g: maitorasva | 0.00
+2923 | 1-g: ilmeinen | 0.00
+2924 | 1-g: päinvastainen | 0.00
+2925 | 1-g: ruokateollisuus | 0.00
+2927 | 3-g: NOUN PUNCT PRON (N) | 0.00
+2928 | 2-g: ihminen ei | 0.00
+2929 | 1-g: tässä (N) | 0.00
+2907 | 1-g: omega-6 | 0.00
+2930 | 2-g: tulehdus . | 0.00
+2634 | 1-g: pahentaa | 0.00
+2936 | 2-g: suositus mukaan | 0.00
+2939 | 2-g: . välttää | 0.00
+2940 | 3-g: ADV ADJ ADJ (N) | 0.00
+2942 | 2-g: ymmärtää , | 0.00
+2944 | 1-g: muutamia (N) | 0.00
+2945 | 3-g: PUNCT SCONJ ADV (N) | 0.00
+2946 | 3-g: NOUN NOUN SCONJ (N) | 0.00
+2952 | 2-g: olla enemmän | 0.00
+2953 | 2-g: . tavallinen | 0.00
+2957 | 1-g: painoindeksi | 0.00
+2958 | 2-g: dvitamiini olla | 0.00
+2959 | 2-g: kannattaa nauttia | 0.00
+2931 | 1-g: eläinten (N) | 0.00
+2906 | 3-g: NOUN VERB PUNCT (N) | 0.00
+2905 | 2-g: olla kuin | 0.00
+2902 | 2-g: olla yleensä | 0.00
+2861 | 3-g: se voida aiheuttaa | 0.00
+2862 | 1-g: kaikkialla (N) | 0.00
+2863 | 3-g: VERB PUNCT NOUN (N) | 0.00
+2865 | 1-g: yhdistää (N) | 0.00
+2867 | 1-g: törmätä | 0.00
+2868 | 1-g: lähellä | 0.00
+2869 | 2-g: olla tutkia | 0.00
+2870 | 1-g: esim | 0.00
+2871 | 1-g: suolistosyöpä | 0.00
+2872 | 1-g: mikro | 0.00
+2875 | 2-g: nälkä . | 0.00
+2876 | 3-g: nainen_tag . ¤ | 0.00
+2877 | 1-g: kcal (N) | 0.00
+2880 | 3-g: se voi olla (N) | 0.00
+2882 | 3-g: NOUN AUX ADV (N) | 0.00
+2884 | 3-g: NOUN ADV NOUN (N) | 0.00
+2886 | 1-g: hankala | 0.00
+2887 | 3-g: ¤ NOUN ADJ (N) | 0.00
+2888 | 3-g: ADV PRON VERB (N) | 0.00
+2889 | 2-g: nousu . | 0.00
+2890 | 2-g: vitamiini tai | 0.00
+2891 | 3-g: , marja , | 0.00
+2892 | 2-g: pitkä aikaväli | 0.00
+2893 | 2-g: ¤ sieni | 0.00
+2894 | 2-g: sairaus . | 0.00
+2896 | 1-g: luontainen | 0.00
+2897 | 2-g: kiinnittää huomio | 0.00
+2898 | 1-g: gluteenin (N) | 0.00
+2899 | 2-g: olla enää | 0.00
+2960 | 2-g: muistaa , (N) | 0.00
+2860 | 1-g: reilusti | 0.00
+2965 | 1-g: antioksidanttien (N) | 0.00
+2969 | 2-g: toiminta ja | 0.00
+3039 | 3-g: PROPN NOUN NOUN (N) | 0.00
+3042 | 3-g: liha ja lihavalmiste | 0.00
+3043 | 2-g: maitotuote , | 0.00
+3044 | 3-g: mies_tag kertoa . | 0.00
+3045 | 2-g: , kuin | 0.00
+3046 | 2-g: nainen , | 0.00
+3047 | 1-g: rauhoittaa | 0.00
+3048 | 1-g: varmasti | 0.00
+3049 | 3-g: CARD_NUMBER vuosi . | 0.00
+3050 | 1-g: pyrkiä | 0.00
+3051 | 3-g: VERB ADJ PRON (N) | 0.00
+3053 | 2-g: olla vielä | 0.00
+3055 | 2-g: vähärasvainen ruokavalio | 0.00
+3038 | 1-g: normaalipaino | 0.00
+3058 | 3-g: VERB PRON ADJ (N) | 0.00
+3060 | 1-g: ihminenkeho | 0.00
+3061 | 2-g: ei sopia | 0.00
+3062 | 2-g: elintarvike olla | 0.00
+3063 | 2-g: tosi , | 0.00
+3065 | 2-g: jokainen ateria | 0.00
+3066 | 2-g: olla erityisen | 0.00
+3068 | 2-g: , joista (N) | 0.00
+3072 | 1-g: sokeripitoisuus | 0.00
+3073 | 3-g: PUNCT PUNCT ¤ (N) | 0.00
+3076 | 2-g: olla laskea | 0.00
+3079 | 2-g: olla tosi | 0.00
+3081 | 2-g: johtopäätös , | 0.00
+3084 | 2-g: . vuosi | 0.00
+3059 | 2-g: ja maito | 0.00
+3037 | 2-g: olla korkea | 0.00
+3033 | 3-g: VERB PRON PUNCT (N) | 0.00
+3031 | 1-g: helposti | 0.00
+2971 | 1-g: turvallinen | 0.00
+2973 | 2-g: . pitää | 0.00
+2974 | 2-g: johtaa se | 0.00
+2978 | 1-g: korvike | 0.00
+2979 | 3-g: ( esim . | 0.00
+2980 | 2-g: muutos . | 0.00
+2981 | 3-g: ruoka-aine , joka | 0.00
+2982 | 1-g: tasapainoinen | 0.00
+2983 | 3-g: SCONJ PROPN PUNCT (N) | 0.00
+2985 | 2-g: , koska (N) | 0.00
+2990 | 1-g: syöpäpotilas | 0.00
+2991 | 2-g: suuri määrä | 0.00
+2992 | 3-g: , kuitu ja | 0.00
+2994 | 3-g: PUNCT ADJ PRON (N) | 0.00
+2999 | 2-g: , juoda | 0.00
+3000 | 2-g: sokeri saanti | 0.00
+3001 | 3-g: PUNCT PRON VERB (N) | 0.00
+3006 | 3-g: NOUN ADJ VERB (N) | 0.00
+3007 | 2-g: CARD_NUMBER tutkimus | 0.00
+3008 | 3-g: hyvä . ¤ | 0.00
+3009 | 2-g: voida ottaa | 0.00
+3010 | 1-g: kehosi (N) | 0.00
+3011 | 1-g: toisaalta | 0.00
+3012 | 2-g: . moni (N) | 0.00
+3014 | 3-g: ADP NUM ADJ (N) | 0.00
+3024 | 3-g: PUNCT SCONJ SYM (N) | 0.00
+3025 | 2-g: miten se | 0.00
+3027 | 3-g: VERB NOUN NOUN (N) | 0.00
+3029 | 1-g: epätasapaino (N) | 0.00
+2967 | 3-g: ADP PUNCT NUM (N) | 0.00
+2854 | 1-g: joutuu (N) | 0.00
+2932 | 3-g: ajatella , että | 0.00
+2852 | 2-g: lisätä myös | 0.00
+2696 | 1-g: mainitut (N) | 0.00
+2697 | 2-g: pitää syödä | 0.00
+2698 | 2-g: ihminen olla | 0.00
+2699 | 3-g: ADJ ADP VERB (N) | 0.00
+2706 | 2-g: saanti , | 0.00
+2708 | 2-g: voida aiheuttaa | 0.00
+2710 | 3-g: NOUN PUNCT AUX (N) | 0.00
+2711 | 1-g: maidon (N) | 0.00
+2712 | 2-g: ja erityisesti | 0.00
+2713 | 1-g: iltapäivä | 0.00
+2714 | 1-g: varastoitua | 0.00
+2717 | 2-g: . minä | 0.00
+2720 | 2-g: , marja | 0.00
+2693 | 1-g: valmistus | 0.00
+2722 | 3-g: ADV ADJ SCONJ (N) | 0.00
+2726 | 2-g: suola , | 0.00
+2727 | 1-g: bakteerien (N) | 0.00
+2728 | 3-g: . se ei | 0.00
+2729 | 1-g: tavallaan (N) | 0.00
+2731 | 1-g: vanha | 0.00
+2733 | 2-g: tunne , | 0.00
+2734 | 2-g: makea . | 0.00
+2735 | 2-g: kehitys . | 0.00
+2737 | 2-g: lisäksi muu | 0.00
+2738 | 2-g: allergia , | 0.00
+2740 | 1-g: syöpäriski | 0.00
+2742 | 2-g: . potilas | 0.00
+2743 | 2-g: . jokin | 0.00
+2723 | 3-g: PUNCT PUNCT ADV (N) | 0.00
+2692 | 1-g: yllättävä | 0.00
+2690 | 1-g: lähinnä (N) | 0.00
+2689 | 1-g: ravitsemussuositus | 0.00
+2640 | 1-g: vuosikymmen | 0.00
+2641 | 2-g: olla hyöty | 0.00
+2642 | 2-g: tieteilija_tag mies_tag | 0.00
+2643 | 3-g: mutta se ei | 0.00
+2644 | 2-g: tilanne , | 0.00
+2646 | 1-g: sokerin (N) | 0.00
+2647 | 3-g: PUNCT ¤ INTJ (N) | 0.00
+2648 | 2-g: kuinka moni | 0.00
+2649 | 1-g: kääntyä | 0.00
+2650 | 2-g: pähkinä olla | 0.00
+2651 | 1-g: kalsiumin (N) | 0.00
+2652 | 1-g: ravinne | 0.00
+2853 | 3-g: PUNCT NOUN PRON (N) | 0.00
+2657 | 1-g: saannin (N) | 0.00
+2659 | 2-g: proteiini lähde | 0.00
+2660 | 2-g: ja monipuolinen | 0.00
+2665 | 3-g: ¤ INTJ VERB (N) | 0.00
+2666 | 2-g: että se | 0.00
+2667 | 2-g: ¤ ruokavalio | 0.00
+2668 | 2-g: CARD_NUMBER ihminen | 0.00
+2671 | 3-g: PUNCT ¤ NUM (N) | 0.00
+2672 | 2-g: mutta tämä | 0.00
+2674 | 2-g: määrä , | 0.00
+2679 | 2-g: , vihannes | 0.00
+2680 | 1-g: sisältö | 0.00
+2682 | 1-g: vähetä | 0.00
+2684 | 3-g: CONJ NOUN ¤ (N) | 0.00
+2687 | 1-g: herkästi | 0.00
+2688 | 2-g: rasva laatu | 0.00
+2744 | 2-g: voi vaikuttaa (N) | 0.00
+2745 | 2-g: juures , | 0.00
+2654 | 1-g: artikkeli | 0.00
+2747 | 1-g: otsikko | 0.00
+2809 | 2-g: kakkonentyyppi diabetes | 0.00
+2811 | 2-g: tutkimuksen mukaan (N) | 0.00
+2812 | 2-g: toisin sanoa | 0.00
+2815 | 2-g: suuria määriä (N) | 0.00
+2816 | 2-g: imeytyä , | 0.00
+2819 | 1-g: viikon (N) | 0.00
+2820 | 1-g: epäselvä | 0.00
+2825 | 3-g: . ¤ mikä | 0.00
+2826 | 3-g: . ¤ voi (N) | 0.00
+2827 | 1-g: hyödyllinen | 0.00
+2828 | 2-g: tutkimus mukaan | 0.00
+2829 | 3-g: ADJ SYM NOUN (N) | 0.00
+2830 | 3-g: PUNCT PUNCT VERB (N) | 0.00
+2808 | 1-g: bryhmä | 0.00
+2831 | 2-g: . toki | 0.00
+2835 | 3-g: , vaan se | 0.00
+2836 | 3-g: . tämä tutkimus | 0.00
+2837 | 1-g: raskasmetalli | 0.00
+2838 | 2-g: . kaksi | 0.00
+2841 | 2-g: ei kannattaa | 0.00
+2842 | 1-g: tarkoittaa | 0.00
+2843 | 1-g: harjoittelu | 0.00
+2844 | 1-g: valtio | 0.00
+2846 | 2-g: bryhmä vitamiini | 0.00
+2847 | 1-g: kivennäisaine | 0.00
+2849 | 2-g: ennen nukkumaanmenoa (N) | 0.00
+2850 | 3-g: SCONJ AUX VERB (N) | 0.00
+2851 | 1-g: lainkaan | 0.00
+2833 | 2-g: suomalainen ravitsemussuositus | 0.00
+2806 | 2-g: ¤ VERB (N) | 0.00
+2822 | 1-g: elintapa | 0.00
+2802 | 2-g: teho olla | 0.00
+2748 | 2-g: kahvi . | 0.00
+2749 | 2-g: sokeriton syyskuu | 0.00
+2754 | 2-g: paino . | 0.00
+2755 | 3-g: PRON PUNCT NOUN (N) | 0.00
+2756 | 2-g: julkaista tutkimus | 0.00
+2804 | 1-g: nautinto | 0.00
+2758 | 1-g: muutakin (N) | 0.00
+2760 | 2-g: ja yksi | 0.00
+2768 | 2-g: veri rasvaarvo | 0.00
+2770 | 3-g: CONJ ADV ADJ (N) | 0.00
+2771 | 1-g: tuoteseloste | 0.00
+2772 | 2-g: , minkä (N) | 0.00
+2773 | 2-g: tilanne olla | 0.00
+2776 | 1-g: virvoitusjuoma | 0.00
+2777 | 3-g: osoittaa , että | 0.00
+2757 | 2-g: olla CARD_NUMBER | 0.00
+2779 | 1-g: vitamiineja (N) | 0.00
+2778 | 1-g: perusteella (N) | 0.00
+2801 | 1-g: säännöllisesti | 0.00
+2800 | 2-g: vaikutukset ovat (N) | 0.00
+2799 | 2-g: suolisto . | 0.00
+2797 | 2-g: sen takia (N) | 0.00
+2796 | 2-g: kautta . | 0.00
+2795 | 2-g: ja verisuonitauti | 0.00
+2746 | 2-g: . siinä (N) | 0.00
+2792 | 1-g: tutkimus_tag | 0.00
+2793 | 1-g: todennäköinen | 0.00
+2791 | 2-g: olla mahdollinen | 0.00
+2789 | 1-g: laihtua | 0.00
+2787 | 3-g: PUNCT VERB NOUN (N) | 0.00
+2782 | 1-g: soveltua | 0.00
+743 | 1-g: ravinto | -0.00
+735 | uniq_NAINEN | -0.00
+731 | 1-g: mieli | -0.00
+726 | 1-g: saanti | -0.00
+717 | common_POS_ngram | -0.00
+694 | VERB | -0.01
+670 | uniq_TUOTE | -0.01
+668 | paragraph (C) | -0.01
+667 | technical_word (C) | -0.01
+666 | negative_word | -0.01
+665 | uniq_NETTISIVU | -0.01
+654 | ADP (C) | -0.01
+652 | NOUN | -0.01
+651 | emb_dict_word | -0.01
+645 | SYM (C) | -0.02
+643 | word | -0.02
+640 | uniq_SAIRAALA (C) | -0.02
+638 | ?_char (C) | -0.02
+637 | SCONJ (C) | -0.02
+636 | 1-g: diabetes | -0.02
+633 | uniq_NAINEN (C) | -0.02
+629 | SYM | -0.02
+628 | CONJ | -0.02
+623 | symbol | -0.02
+618 | dictionary_word | -0.02
+593 | positive_word (C) | -0.03
+592 | paragraph | -0.03
+591 | 1-g: aivot | -0.03
+586 | subjective_word | -0.03
+584 | 1-g: toiminta | -0.03
+564 | AUX | -0.03
+556 | ADJ | -0.04
+540 | 2-g: , sillä | -0.04
+528 | uniq_NETTISIVU (C) | -0.04
+518 | stop_word | -0.05
+510 | 3-g: . ¤ – | -0.05
+508 | 1-g: havaita | -0.05
+503 | 2-g: olla se | -0.05
+497 | uniq_JULKAISU (C) | -0.06
+493 | uniq_MIES | -0.06
+477 | uniq_MIES (C) | -0.06
+468 | positive_word | -0.06
+465 | 1-g: vitamiini | -0.06
+463 | interviewquote | -0.06
+456 | 2-g: olla hyvä | -0.07
+454 | 1-g: tutkia | -0.07
+436 | total_sentence (C) | -0.08
+427 | 1-g: ihminen | -0.08
+424 | listitem (C) | -0.08
+418 | listitem | -0.08
+406 | 1-g: syöpä | -0.08
+404 | 1-g: joten | -0.09
+400 | 1-g: kasvis | -0.09
+398 | 1-g: tarvita | -0.09
+378 | 1-g: myös | -0.10
+367 | 1-g: auttaa | -0.10
+355 | 1-g: vähentää | -0.11
+351 | uniq_JARJESTO (C) | -0.11
+343 | 2-g: voida olla | -0.11
+342 | !_char (C) | -0.11
+320 | 1-g: käyttö | -0.12
+312 | 1-g: kanssa | -0.12
+311 | total_sentence | -0.12
+304 | 1-g: haluta | -0.12
+294 | 1-g: päivä | -0.13
+291 | ADP | -0.13
+288 | uniq_JARJESTO | -0.13
+286 | 1-g: suuri | -0.13
+278 | 1-g: hyvin | -0.14
+277 | uniq_TUOTE (C) | -0.14
+274 | SCONJ | -0.14
+257 | 1-g: sisältää | -0.15
+256 | 1-g: mies_tag | -0.15
+239 | boldtitle | -0.15
+230 | 2-g: . tämä | -0.16
+228 | 1-g: yhteys | -0.16
+214 | boldtitle (C) | -0.17
+212 | !_char | -0.17
+211 | 2-g: ja se | -0.17
+208 | 1-g: toimia | -0.18
+207 | PRON (C) | -0.18
+180 | 1-g: enemmän | -0.20
+177 | 1-g: hiilihydraatti | -0.20
+169 | 1-g: saada | -0.21
+168 | 1-g: nauttia | -0.21
+134 | 1-g: tärkeä | -0.24
+129 | 1-g: suositella | -0.24
+116 | 1-g: parantaa | -0.26
+114 | 1-g: kaikki | -0.26
+106 | 1-g: syödä | -0.27
+105 | 1-g: sitten | -0.27
+102 | PRON | -0.27
+85 | 1-g: mikään | -0.31
+82 | 2-g: , että | -0.31
+76 | 2-g: , olla | -0.32
+71 | 1-g: keho | -0.33
+68 | 1-g: vielä | -0.33
+48 | 1-g: elimistö | -0.40
+26 | 3-g: , joka olla | -0.45
+20 | 1-g: moni | -0.50
+10 | 1-g: että | -0.59
+4 | 2-g: joka olla | -0.75
